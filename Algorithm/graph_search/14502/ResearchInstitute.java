@@ -8,7 +8,7 @@ public class ResearchInstitute {
         inputValue();
     }
 
-    
+
 
 
     private static void inputValue() {
