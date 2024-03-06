@@ -10,13 +10,20 @@ public class ResearchInstitute {
                 System.out.println("arrays[" + i + "][" + j + "] = " + arrays[i][j]);
             }
         }
+        search(arrays);
     }
 
-    public static void search() {
+    public static void search(int[][] arrays) {
+        for (int i = 0; i < arrays[0][0]; i++) {
+            for (int j = 0; j < arrays[0][1]; j++) {
 
+            }
+        }
     }
 
-    public static void 
+    public static void infection() {
+
+    }
 
     private static int[][] inputValue() {
         int[][] results = new int[9][8];
