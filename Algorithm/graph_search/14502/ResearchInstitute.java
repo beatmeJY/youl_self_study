@@ -102,6 +102,7 @@ public class ResearchInstitute {
         }
 
         public boolean checkInfection() {
+            check = true;
             if (value == 1) {
                 return false;
             }
@@ -109,10 +110,12 @@ public class ResearchInstitute {
                 return true;
             }
             if (value == 0) {
-                if ((up != null && up.checkInfection()) ||
+                if (
+                    (up != null && up.checkInfection()) ||
                     (right != null && right.checkInfection()) ||
                     (down != null && down.checkInfection()) ||
-                    (left != null && left.checkInfection())) {
+                    (left != null && left.checkInfection())
+                ) {
                     value = 2;
                     return true;
                 }
