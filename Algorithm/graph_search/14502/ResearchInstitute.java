@@ -17,10 +17,17 @@ public class ResearchInstitute {
     }
 
     private void start() {
-        
+        for (Node[] nodes : roomList) {
+            for (Node node : nodes) {
+                if (!node.isCheck()) {
+                    node.checkInfection();
+                }
+            }
+        }
     }
 
     private void checkInfection() {
+
     }
 
     private void createNode(int[][] arrays) {
@@ -61,6 +68,12 @@ public class ResearchInstitute {
         Node down;
         Node left;
         int value;
+        int initValue;
+        boolean check = false;
+
+        public boolean isCheck() {
+            return check;
+        }
 
         public void setUp(Node up) {
             this.up = up;
@@ -77,9 +90,6 @@ public class ResearchInstitute {
         public void setLeft(Node left) {
             this.left = left;
         }
-
-        int initValue;
-        boolean check = false;
 
         public Node(int value) {
             this.initValue = value;
@@ -106,7 +116,6 @@ public class ResearchInstitute {
                     value = 2;
                     return true;
                 }
-                return true;
             }
             return false;
         }
