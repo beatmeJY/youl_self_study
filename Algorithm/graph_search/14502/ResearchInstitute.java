@@ -1,3 +1,5 @@
+import org.w3c.dom.Node;
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
@@ -18,8 +20,14 @@ public class ResearchInstitute {
 //        System.out.println(result);
     }
 
-    private void createNode() {
-        Node dd = new Node();
+    private void createNode(int[][] arrays) {
+        for (int i = 1; i <= arrays[0][0]; i++) {
+            for (int j = 0; j < arrays[0][1]; j++) {
+                Node dd = new Node(arrays[i][j]);
+
+            }
+        }
+
     }
 
     class Node {
@@ -28,8 +36,11 @@ public class ResearchInstitute {
         Node down;
         Node left;
         int value;
+        int initValue;
+        boolean check;
 
         public Node(int value) {
+            this.initValue = value;
             this.value = value;
         }
 
