@@ -3,7 +3,6 @@ import java.io.InputStreamReader;
 
 public class ResearchInstitute {
 
-
     public static void main(String[] args) {
         int[][] arrays = inputValue();
         for (int i = 0; i < arrays.length; i++) {
