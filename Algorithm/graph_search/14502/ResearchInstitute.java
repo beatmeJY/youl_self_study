@@ -3,6 +3,8 @@ import java.io.InputStreamReader;
 
 public class ResearchInstitute {
 
+
+
     public static void main(String[] args) {
         int[][] arrays = inputValue();
 //        for (int i = 0; i < arrays.length; i++) {
@@ -11,6 +13,7 @@ public class ResearchInstitute {
 //            }
 //        }
         int result = search(arrays);
+        createNode()
         System.out.println(result);
     }
 
@@ -22,6 +25,19 @@ public class ResearchInstitute {
             }
         }
         return result;
+    }
+
+    class Node {
+        Node up;
+        Node right;
+        Node down;
+        Node left;
+        int value;
+
+        public checkInfection() {
+            up.
+        }
+
     }
 
     private static int createNode() {
