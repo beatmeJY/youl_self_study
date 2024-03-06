@@ -35,14 +35,30 @@ public class ResearchInstitute {
         int value;
 
         public boolean checkInfection() {
-            if ((up != null && up.checkInfection()) ||
-                (right != null && right.checkInfection()) ||
-                (down != null && down.checkInfection()) ||
-                (left != null && left.checkInfection())) {
-                value = 2;
+            if (value == 1) {
+                return false;
+            }
+            if (value == 2) {
+                return false;
+            }
+            if (value == 0) {
+                if ((up != null && up.checkInfection()) ||
+                        (right != null && right.checkInfection()) ||
+                        (down != null && down.checkInfection()) ||
+                        (left != null && left.checkInfection())) {
+                    value = 2;
+                    return true;
+                }
+
+                if (value != 2) {
+                    return false;
+                }
                 return true;
             }
-            return false;
+        }
+
+        public int checkSafeCount() {
+
         }
 
     }
