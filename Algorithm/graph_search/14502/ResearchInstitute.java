@@ -37,11 +37,16 @@ public class ResearchInstitute {
         Node left;
         int value;
         int initValue;
-        boolean check;
+        boolean check = false;
 
         public Node(int value) {
             this.initValue = value;
             this.value = value;
+        }
+
+        public void init() {
+            this.value = initValue;
+            boolean check = false;
         }
 
         public boolean checkInfection() {
