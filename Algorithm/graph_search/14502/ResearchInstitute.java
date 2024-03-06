@@ -5,9 +5,11 @@ public class ResearchInstitute {
 
 
     public static void main(String[] args) {
-        int[][] ints = inputValue();
-        for (int[] anInt : ints) {
-            System.out.println("anInt = " + anInt);
+        int[][] arrays = inputValue();
+        for (int i = 0; i < arrays.length; i++) {
+            for (int j = 0; j < arrays[i].length; j++) {
+                System.out.println("arrays[" + i + "][" + j + "] = " + arrays[i][j]);
+            }
         }
     }
 
@@ -24,6 +26,7 @@ public class ResearchInstitute {
                 for (int i = 0; i < stringLine.length; i++) {
                     results[count][i] = Integer.parseInt(stringLine[i]);
                 }
+                count++;
             }
             return results;
         } catch (Exception e) {
