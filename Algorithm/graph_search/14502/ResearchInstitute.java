@@ -40,10 +40,10 @@ public class ResearchInstitute {
                     roomList[i][j].setDown(roomList[i+1][j]);
                 }
                 if (j - 1 > -1) {
-                    roomList[i][j].setDown(roomList[i][j-1]);
+                    roomList[i][j].setLeft(roomList[i][j-1]);
                 }
                 if (j + 1 > x) {
-                    roomList[i][j].setDown(roomList[i][j+1]);
+                    roomList[i][j].setRight(roomList[i][j+1]);
                 }
             }
         }
