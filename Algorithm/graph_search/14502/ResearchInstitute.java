@@ -102,6 +102,9 @@ public class ResearchInstitute {
         }
 
         public boolean checkInfection() {
+            if (check){
+                return f
+            }
             check = true;
             if (value == 1) {
                 return false;
