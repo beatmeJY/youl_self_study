@@ -12,7 +12,15 @@ public class ResearchInstitute {
         x = arrays[0][1];
         y = arrays[0][0];
         createNode(arrays);
+        start();
 //        System.out.println(result);
+    }
+
+    private void start() {
+        
+    }
+
+    private void checkInfection() {
     }
 
     private void createNode(int[][] arrays) {
