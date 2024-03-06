@@ -102,25 +102,24 @@ public class ResearchInstitute {
         }
 
         public boolean checkInfection() {
-            if (check){
-                return f
-            }
-            check = true;
-            if (value == 1) {
+            if (value == 1) { // 벽이라면
                 return false;
             }
-            if (value == 2) {
+            if (value == 2) { // 감염이라면
                 return true;
             }
-            if (value == 0) {
-                if (
-                    (up != null && up.checkInfection()) ||
-                    (right != null && right.checkInfection()) ||
-                    (down != null && down.checkInfection()) ||
-                    (left != null && left.checkInfection())
-                ) {
-                    value = 2;
-                    return true;
+            if (!check) {
+                check = true;
+                if (value == 0) { // 빈칸이라면
+                    if (
+                        (up != null && up.checkInfection()) ||
+                        (right != null && right.checkInfection()) ||
+                        (down != null && down.checkInfection()) ||
+                        (left != null && left.checkInfection())
+                    ) {
+                        value = 2;
+                        return true;
+                    }
                 }
             }
             return false;
