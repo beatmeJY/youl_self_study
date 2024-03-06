@@ -26,10 +26,6 @@ public class ResearchInstitute {
         }
     }
 
-    private void checkInfection() {
-
-    }
-
     private void createNode(int[][] arrays) {
         Node node;
         for (int i = 1; i <= x; i++) {
