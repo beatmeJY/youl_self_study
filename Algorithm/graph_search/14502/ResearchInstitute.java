@@ -1,17 +1,15 @@
-import org.w3c.dom.Node;
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
 public class ResearchInstitute {
 
-    static Node rootNode;
 
     public static void main(String[] args) {
         inputValue();
     }
 
     
+
 
     private static void inputValue() {
         try (InputStreamReader in = new InputStreamReader(System.in);
