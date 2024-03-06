@@ -5,12 +5,11 @@ public class ResearchInstitute {
 
 
     public static void main(String[] args) {
-        
-        inputValue();
+        int[][] ints = inputValue();
+        for (int[] anInt : ints) {
+            System.out.println("anInt = " + anInt);
+        }
     }
-
-
-
 
     private static int[][] inputValue() {
         try (InputStreamReader in = new InputStreamReader(System.in);
@@ -26,9 +25,9 @@ public class ResearchInstitute {
                     results[count][i] = Integer.parseInt(stringLine[i]);
                 }
             }
-            return results;
         } catch (Exception e) {
             e.printStackTrace();
         }
+        return results;
     }
 }
