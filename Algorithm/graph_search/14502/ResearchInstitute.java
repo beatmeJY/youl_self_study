@@ -35,10 +35,10 @@ public class ResearchInstitute {
         int value;
 
         public boolean checkInfection() {
-            if ((up == null && up.checkInfection()) ||
-                (right == null && right.checkInfection()) ||
-                (down == null && down.checkInfection()) ||
-                (left == null && left.checkInfection())) {
+            if ((up != null && up.checkInfection()) ||
+                (right != null && right.checkInfection()) ||
+                (down != null && down.checkInfection()) ||
+                (left != null && left.checkInfection())) {
                 value = 2;
                 return true;
             }
