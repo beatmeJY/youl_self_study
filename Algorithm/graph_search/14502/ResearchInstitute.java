@@ -12,10 +12,10 @@ public class ResearchInstitute {
     }
 
     private static int[][] inputValue() {
+        int[][] results = new int[][];
         try (InputStreamReader in = new InputStreamReader(System.in);
              BufferedReader buffer = new BufferedReader(in))
         {
-            int[][] results = new int[0][];
             String line;
             int count = 0;
             while ((line = buffer.readLine()) != null && !line.equals(""))
@@ -25,6 +25,7 @@ public class ResearchInstitute {
                     results[count][i] = Integer.parseInt(stringLine[i]);
                 }
             }
+            return results;
         } catch (Exception e) {
             e.printStackTrace();
         }
