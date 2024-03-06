@@ -12,7 +12,7 @@ public class ResearchInstitute {
         }
     }
 
-    
+
 
     private static int[][] inputValue() {
         int[][] results = new int[9][8];
