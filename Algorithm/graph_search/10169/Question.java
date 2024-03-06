@@ -23,8 +23,6 @@ public class Question {
             int cost = Integer.parseInt(st.nextToken()); // 관리 비용
         }
 
-
-
         br.close();
     }
 }
