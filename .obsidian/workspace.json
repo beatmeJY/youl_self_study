@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "17b03d897b7beed0",
+        "id": "b8d43c6f47db95cf",
         "type": "tabs",
         "children": [
           {
-            "id": "d67a1d4270130c3d",
+            "id": "c3dc1144eafeb276",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -160,7 +160,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d67a1d4270130c3d",
+  "active": "c3dc1144eafeb276",
   "lastOpenFiles": [
     "Pasted Image 20240123191438_308.png",
     "Algorithm/out/production/graph_search/Solution.class",
