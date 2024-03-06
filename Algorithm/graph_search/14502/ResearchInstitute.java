@@ -105,10 +105,7 @@ public class ResearchInstitute {
             if (value == 1) { // 벽이라면
                 return false;
             }
-            if (value == 2) { // 감염이라면
-                return true;
-            }
-            if (!check) {
+            if (!check) { // 이미 체크한 곳이라면
                 check = true;
                 if (value == 0) { // 빈칸이라면
                     if (
@@ -120,9 +117,11 @@ public class ResearchInstitute {
                         value = 2;
                         return true;
                     }
+                    return false;
                 }
             }
-            return false;
+
+
         }
     }
 
