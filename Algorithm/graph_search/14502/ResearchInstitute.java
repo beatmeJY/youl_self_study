@@ -120,8 +120,10 @@ public class ResearchInstitute {
                     return false;
                 }
             }
-
-
+            if (value == 2) {
+                return true;
+            }
+            return false;
         }
     }
 
