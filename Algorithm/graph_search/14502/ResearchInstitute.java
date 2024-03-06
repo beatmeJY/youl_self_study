@@ -2,12 +2,10 @@ import org.w3c.dom.Node;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-import java.util.ArrayList;
-import java.util.List;
 
 public class ResearchInstitute {
 
-    List<Node> roomList = new ArrayList<>();
+    Node[][] roomList;
 
     public void main(String[] args) {
         int[][] arrays = inputValue();
@@ -16,15 +14,19 @@ public class ResearchInstitute {
 //                System.out.println("arrays[" + i + "][" + j + "] = " + arrays[i][j]);
 //            }
 //        }
-        createNode();
+        createNode(arrays);
 //        System.out.println(result);
     }
 
     private void createNode(int[][] arrays) {
+        Node node;
         for (int i = 1; i <= arrays[0][0]; i++) {
             for (int j = 0; j < arrays[0][1]; j++) {
-                Node dd = new Node(arrays[i][j]);
-
+                if (i == 1 || j == 0) {
+                    node = new Node(arrays[i][j]);
+                    roomList[i][j] = node;
+                    node.
+                }
             }
         }
 
