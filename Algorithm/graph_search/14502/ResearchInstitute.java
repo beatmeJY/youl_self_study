@@ -25,12 +25,13 @@ public class ResearchInstitute {
                 if (i == 1 || j == 0) {
                     node = new Node(arrays[i][j]);
                     roomList[i - 1][j] = node;
-                    
-
                 }
             }
         }
+        mappingNode();
+    }
 
+    private void mappingNode() {
     }
 
     class Node {
