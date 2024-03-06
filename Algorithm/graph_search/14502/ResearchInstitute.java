@@ -16,8 +16,8 @@ public class ResearchInstitute {
 //                System.out.println("arrays[" + i + "][" + j + "] = " + arrays[i][j]);
 //            }
 //        }
-        x = arrays[0][0];
-        y = arrays[0][1];
+        x = arrays[0][1];
+        y = arrays[0][0];
         createNode(arrays);
 //        System.out.println(result);
     }
@@ -41,14 +41,14 @@ public class ResearchInstitute {
                 if (i - 1 > -1) {
                     roomList[i][j].setUp(roomList[i-1][j]);
                 }
-                if (i + 1 > x) {
-                    roomList[i][j].setDown();
+                if (i + 1 < y) {
+                    roomList[i][j].setDown(roomList[i+1][j]);
                 }
-                if (i - 1 > -1) {
-                    roomList[i][j].setDown();
+                if (j - 1 > -1) {
+                    roomList[i][j].setDown(roomList[i][j-1]);
                 }
-                if (i - 1 > -1) {
-                    roomList[i][j].setDown();
+                if (j + 1 > x) {
+                    roomList[i][j].setDown(roomList[i][j+1]);
                 }
             }
         }
