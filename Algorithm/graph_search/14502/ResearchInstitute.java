@@ -22,7 +22,7 @@ public class ResearchInstitute {
         // 빈칸들 벽 세우기
         for (Node[] nodes : roomList) {
             for (Node node : nodes) {
-                if (!node.isCheck()) {
+                if () {
                     node.checkInfection();
                 }
             }
