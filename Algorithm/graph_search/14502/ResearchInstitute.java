@@ -39,13 +39,13 @@ public class ResearchInstitute {
                 return false;
             }
             if (value == 2) {
-                return false;
+                return true;
             }
             if (value == 0) {
                 if ((up != null && up.checkInfection()) ||
-                        (right != null && right.checkInfection()) ||
-                        (down != null && down.checkInfection()) ||
-                        (left != null && left.checkInfection())) {
+                    (right != null && right.checkInfection()) ||
+                    (down != null && down.checkInfection()) ||
+                    (left != null && left.checkInfection())) {
                     value = 2;
                     return true;
                 }
