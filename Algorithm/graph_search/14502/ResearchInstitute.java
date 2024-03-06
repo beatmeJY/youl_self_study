@@ -12,6 +12,10 @@ public class ResearchInstitute {
         }
     }
 
+    public static void search() {
+
+    }
+
     public static void 
 
     private static int[][] inputValue() {
