@@ -6,6 +6,8 @@ import java.io.InputStreamReader;
 public class ResearchInstitute {
 
     Node[][] roomList;
+    int x;
+    int y;
 
     public void main(String[] args) {
         int[][] arrays = inputValue();
@@ -14,14 +16,16 @@ public class ResearchInstitute {
 //                System.out.println("arrays[" + i + "][" + j + "] = " + arrays[i][j]);
 //            }
 //        }
+        x = arrays[0][0];
+        y = arrays[0][1];
         createNode(arrays);
 //        System.out.println(result);
     }
 
     private void createNode(int[][] arrays) {
         Node node;
-        for (int i = 1; i <= arrays[0][0]; i++) {
-            for (int j = 0; j < arrays[0][1]; j++) {
+        for (int i = 1; i <= x; i++) {
+            for (int j = 0; j < y; j++) {
                 if (i == 1 || j == 0) {
                     node = new Node(arrays[i][j]);
                     roomList[i - 1][j] = node;
@@ -32,6 +36,22 @@ public class ResearchInstitute {
     }
 
     private void mappingNode() {
+        for (int i = 1; i <= x; i++) {
+            for (int j = 0; j < y; j++) {
+                if (i - 1 > -1) {
+                    roomList[i][j].setUp(roomList[i-1][j]);
+                }
+                if (i + 1 > x) {
+                    roomList[i][j].setDown();
+                }
+                if (i - 1 > -1) {
+                    roomList[i][j].setDown();
+                }
+                if (i - 1 > -1) {
+                    roomList[i][j].setDown();
+                }
+            }
+        }
     }
 
     class Node {
@@ -40,6 +60,23 @@ public class ResearchInstitute {
         Node down;
         Node left;
         int value;
+
+        public void setUp(Node up) {
+            this.up = up;
+        }
+
+        public void setRight(Node right) {
+            this.right = right;
+        }
+
+        public void setDown(Node down) {
+            this.down = down;
+        }
+
+        public void setLeft(Node left) {
+            this.left = left;
+        }
+
         int initValue;
         boolean check = false;
 
