@@ -24,8 +24,9 @@ public class ResearchInstitute {
             for (int j = 0; j < arrays[0][1]; j++) {
                 if (i == 1 || j == 0) {
                     node = new Node(arrays[i][j]);
-                    roomList[i][j] = node;
-                    node.
+                    roomList[i - 1][j] = node;
+                    
+
                 }
             }
         }
