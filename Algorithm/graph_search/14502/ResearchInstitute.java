@@ -13,7 +13,7 @@ public class ResearchInstitute {
     }
 
     private static int[][] inputValue() {
-        int[][] results = new int[8][8];
+        int[][] results = new int[9][8];
         try (InputStreamReader in = new InputStreamReader(System.in);
              BufferedReader buffer = new BufferedReader(in))
         {
