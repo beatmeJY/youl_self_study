@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted Image 20240123191611_476.png"
+                "file": "Pasted Image 20240123191438_308.png"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted Image 20240123191611_476.png",
+                "file": "Pasted Image 20240123191438_308.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted Image 20240123191611_476.png",
+                "file": "Pasted Image 20240123191438_308.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted Image 20240123191611_476.png"
+                "file": "Pasted Image 20240123191438_308.png"
               }
             }
           },
@@ -161,26 +161,35 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "canvas:새 캔버스 만들기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "138c3716a0ee7a62",
+  "active": "1e0afbb7a6b49a9c",
   "lastOpenFiles": [
+    "Algorithm/graph_search/graph_search.iml",
+    "Algorithm/time/time.iml",
+    "Algorithm/Algorithm.iml",
+    "Algorithm/pelindrome/pelindrome.iml",
     "Pasted image 20240220152330.png",
     "Pasted image 20240220152351.png",
+    "README.md",
+    "Pasted Image 20240123190018_028.png",
+    "Pasted Image 20240123185530_886.png",
+    "Pasted Image 20240114211751_468.png",
+    "Pasted Image 20231128173255_228.png",
+    "jiyoul/Pasted Image 20240123191611_476.png",
+    "jiyoul/Pasted image 20240220152351.png",
+    "Excalidraw/DB/Index B-tree vs 다른 인덱스.md",
+    "Excalidraw/DB/Index 스캔 종류.md",
+    "Excalidraw/OS/Two-Level 페이징.md",
+    "Excalidraw/Drawing 2024-01-07 21.52.55.excalidraw.md",
     "Pasted Image 20240123191611_476.png",
     "Pasted Image 20240123190456_208.png",
-    "Pasted Image 20240123190224_140.png",
-    "Pasted Image 20240123185546_885.png",
-    "Pasted Image 20240114212008_560.png",
-    "Pasted Image 20240123185530_865.png",
-    "Pasted Image 20240114211751_468.png",
-    "Pasted Image 20231120163607_780.png",
-    "Pasted Image 20231014125834_653.png",
     "CS/docker/README.md",
     "Excalidraw/OS/동기화/경쟁상태.md",
     "Excalidraw/DB/CrossJoin.md",
-    "Excalidraw/DB/Index B-tree vs 다른 인덱스.md",
     "Excalidraw/OS/싱글 페이징.md",
     "Excalidraw/OS/동기화/교착상태.md",
     "Excalidraw/스프링/디스패처 서블릿 동작.md",
@@ -189,15 +198,12 @@
     "Excalidraw/OS/동기화/임계영역이란.md",
     "Excalidraw/OS/동기화/Thrashing.md",
     "Excalidraw/OS/동기화/waiting time.md",
-    "Excalidraw/OS/Two-Level 페이징.md",
     "Excalidraw/이력서/이력서 구상도.md",
     "Excalidraw/OS/동기화",
     "Excalidraw/이력서/이력서 구사.canvas",
     "Excalidraw/이력서",
-    "Excalidraw/DB/Index 스캔 종류.md",
     "Excalidraw/DB/무제 파일.md",
     "Excalidraw/OS/cpu 구조/cpu 구조.md",
-    "Excalidraw/Drawing 2024-01-07 21.52.55.excalidraw.md",
     "Excalidraw/OS/파일시스템/VFS NFS.md",
     "Excalidraw/OS/파일시스템/Page Cache와 Buffer Cache 관계.md",
     "Excalidraw/OS/파일시스템/Inode.md",
@@ -206,13 +212,9 @@
     "CS/docker",
     "Excalidraw/DB",
     "Excalidraw/스프링/Drawing 2023-12-21 21.31.25.excalidraw.md",
-    "Excalidraw/스프링/스프링 WAS 구조.md",
     "Excalidraw/스프링",
     "Excalidraw/OS/파일시스템",
     "Excalidraw/전 회사/P800 Overview(1).mp4",
-    "Excalidraw/이력서/studio3s",
-    "Excalidraw/OS",
-    "Excalidraw/OS/cpu 구조",
     "무제 파일.canvas"
   ]
 }
