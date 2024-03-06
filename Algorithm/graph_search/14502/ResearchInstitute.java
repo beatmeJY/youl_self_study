@@ -1,9 +1,11 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
+import java.util.ArrayList;
+import java.util.List;
 
 public class ResearchInstitute {
 
-
+    List<Node> roomList = new ArrayList<>();
 
     public static void main(String[] args) {
         int[][] arrays = inputValue();
@@ -12,19 +14,8 @@ public class ResearchInstitute {
 //                System.out.println("arrays[" + i + "][" + j + "] = " + arrays[i][j]);
 //            }
 //        }
-        int result = search(arrays);
-        createNode()
+        createNode();
         System.out.println(result);
-    }
-
-    public static int search(int[][] arrays) {
-        int result = 0;
-        for (int i = 0; i < arrays[0][0]; i++) {
-            for (int j = 0; j < arrays[0][1]; j++) {
-                createNode();
-            }
-        }
-        return result;
     }
 
     class Node {
