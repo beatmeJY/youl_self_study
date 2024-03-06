@@ -34,8 +34,15 @@ public class ResearchInstitute {
         Node left;
         int value;
 
-        public checkInfection() {
-            up.
+        public boolean checkInfection() {
+            if ((up == null && up.checkInfection()) ||
+                (right == null && right.checkInfection()) ||
+                (down == null && down.checkInfection()) ||
+                (left == null && left.checkInfection())) {
+                value = 2;
+                return true;
+            }
+            return false;
         }
 
     }
