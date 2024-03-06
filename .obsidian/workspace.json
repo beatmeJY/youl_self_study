@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "307cab617a12334e",
+        "id": "17b03d897b7beed0",
         "type": "tabs",
         "children": [
           {
-            "id": "1e0afbb7a6b49a9c",
+            "id": "d67a1d4270130c3d",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted Image 20240123191438_308.png"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted Image 20240123191438_308.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted Image 20240123191438_308.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Pasted Image 20240123191438_308.png"
-              }
+              "state": {}
             }
           },
           {
@@ -166,8 +160,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1e0afbb7a6b49a9c",
+  "active": "d67a1d4270130c3d",
   "lastOpenFiles": [
+    "Pasted Image 20240123191438_308.png",
     "Algorithm/out/production/graph_search/Solution.class",
     "Algorithm/out/production/graph_search/BinarySearchTree.class",
     "Algorithm/out/production/graph_search/BinarySearchTree$Node.class",
@@ -178,7 +173,6 @@
     "Algorithm/out/production/graph_search/Question.class",
     "Algorithm/out/production/graph_search",
     "Algorithm/out/production",
-    "Algorithm/out",
     "Pasted image 20240220152330.png",
     "Pasted image 20240220152351.png",
     "README.md",
