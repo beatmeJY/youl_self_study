@@ -6,7 +6,7 @@ public class ResearchInstitute {
     Node[][] roomList;
     int x;
     int y;
-    int wall = 3;
+    int[][][] wall;
     int maxCount = 0;
 
     public void main(String[] args) {
@@ -20,22 +20,37 @@ public class ResearchInstitute {
 
     private void start() {
         // 빈칸들 벽 세우기
+        do {
+
+
+        } while (true);
+
         for (Node[] nodes : roomList) {
             for (Node node : nodes) {
                 if () {
                     node.checkInfection();
+                    //감염 시작
+                    for (Node[] nodes : roomList) {
+                        for (Node node : nodes) {
+                            if (!node.isCheck()) {
+                                node.checkInfection();
+                            }
+                        }
+                    }
+
+                    //빈칸 찾기
+
+
+
+
+                    //초기화
+
+
                 }
             }
         }
 
-        //감염 시작
-        for (Node[] nodes : roomList) {
-            for (Node node : nodes) {
-                if (!node.isCheck()) {
-                    node.checkInfection();
-                }
-            }
-        }
+
     }
 
     private void createNode(int[][] arrays) {
