@@ -6,6 +6,7 @@ public class ResearchInstitute {
     Node[][] roomList;
     int x;
     int y;
+    int will
 
     public void main(String[] args) {
         int[][] arrays = inputValue();
