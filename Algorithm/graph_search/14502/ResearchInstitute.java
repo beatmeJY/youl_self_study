@@ -7,7 +7,7 @@ public class ResearchInstitute {
 
     List<Node> roomList = new ArrayList<>();
 
-    public static void main(String[] args) {
+    public void main(String[] args) {
         int[][] arrays = inputValue();
 //        for (int i = 0; i < arrays.length; i++) {
 //            for (int j = 0; j < arrays[i].length; j++) {
@@ -15,7 +15,11 @@ public class ResearchInstitute {
 //            }
 //        }
         createNode();
-        System.out.println(result);
+//        System.out.println(result);
+    }
+
+    private void createNode() {
+        Node dd = new Node();
     }
 
     class Node {
@@ -24,6 +28,10 @@ public class ResearchInstitute {
         Node down;
         Node left;
         int value;
+
+        public Node(int value) {
+            this.value = value;
+        }
 
         public boolean checkInfection() {
             if (value == 1) {
@@ -40,23 +48,13 @@ public class ResearchInstitute {
                     value = 2;
                     return true;
                 }
-
-                if (value != 2) {
-                    return false;
-                }
                 return true;
             }
+            return false;
         }
-
-        public int checkSafeCount() {
-
-        }
-
     }
 
-    private static int createNode() {
 
-    }
 
     public static void infection() {
 
