@@ -11,11 +11,6 @@ public class ResearchInstitute {
 
     public void main(String[] args) {
         int[][] arrays = inputValue();
-//        for (int i = 0; i < arrays.length; i++) {
-//            for (int j = 0; j < arrays[i].length; j++) {
-//                System.out.println("arrays[" + i + "][" + j + "] = " + arrays[i][j]);
-//            }
-//        }
         x = arrays[0][1];
         y = arrays[0][0];
         createNode(arrays);
@@ -109,12 +104,6 @@ public class ResearchInstitute {
             }
             return false;
         }
-    }
-
-
-
-    public static void infection() {
-
     }
 
     private static int[][] inputValue() {
