@@ -10,8 +10,9 @@ public class ResearchInstitute {
                 System.out.println("arrays[" + i + "][" + j + "] = " + arrays[i][j]);
             }
         }
-        
     }
+
+    
 
     private static int[][] inputValue() {
         int[][] results = new int[9][8];
