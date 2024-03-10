@@ -115,3 +115,9 @@ git reset --hard HEAD~2 : 로컬에서 사용하고 있는걸 깔끔하게 초�
 git reflog : 여태 했던 작업기록내용 전부 볼 수 있음.
 
 git revert C5 : 커밋된 C5을 빼고 감.
+
+git log
+git rebase -i {Hash Value}
+git commit --amend --no-edit --date="JAN 01 11:00:00 2022 +0000"
+Git rebase --continue
+Git push -f origin main*
