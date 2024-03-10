@@ -121,5 +121,5 @@ git revert C5 : 커밋된 C5을 빼고 감.
 git log
 git rebase -i {Hash Value}
 git commit --amend --no-edit --date="JAN 01 12:00:00 2024 +0000"
-Git rebase --continue
-Git push -f origin main
+git rebase --continue
+git push -f origin main
