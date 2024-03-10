@@ -23,20 +23,27 @@ public class ResearchInstitute {
     private void setWall(int wallCount) {
         if (wallCount == 3) {
             // 감염 시작
+            startInfection();
             // 빈칸 찾기
-            // 감염 초기화
+
+
             return;
         }
 
+        // 벽 세우기
         for (int i = 0; i < mapY; i++) {
             for (int j = 0; j < mapX; j++) {
                 if (maps[i][j] == 0) {
                     maps[i][j] = 1;
                     setWall(wallCount++);
+                    maps[i][j] = 0;
                 }
-                
             }
         }
+    }
+
+    private void startInfection() {
+
 
     }
 
