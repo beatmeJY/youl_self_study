@@ -116,8 +116,10 @@ git reflog : 여태 했던 작업기록내용 전부 볼 수 있음.
 
 git revert C5 : 커밋된 C5을 빼고 감.
 
+
+커밋 까먹을 때를 대비하여
 git log
 git rebase -i {Hash Value}
-git commit --amend --no-edit --date="JAN 01 11:00:00 2022 +0000"
+git commit --amend --no-edit --date="JAN 01 12:00:00 2024 +0000"
 Git rebase --continue
-Git push -f origin main*
+Git push -f origin main
