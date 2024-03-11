@@ -7,5 +7,6 @@
   "autoPairBrackets": true,
   "autoPairMarkdown": false,
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "attachmentFolderPath": "./"
 }

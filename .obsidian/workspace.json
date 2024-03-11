@@ -46,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "20240220152351",
+                "query": "20240123191611_476",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +63,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -166,7 +167,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1241eb1069fe22b5",
+  "active": "e0fd5917a9d51d8b",
   "lastOpenFiles": [
     "Pasted Image 20240123191438_308.png",
     "Pasted Image 20240123191611_476.png",
