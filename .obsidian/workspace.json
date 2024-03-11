@@ -11,9 +11,11 @@
             "id": "1241eb1069fe22b5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/스프링/BufferedReader.ready().md"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/스프링/BufferedReader.ready().md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/스프링/BufferedReader.ready().md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/스프링/BufferedReader.ready().md"
+                "file": "README.md"
               }
             }
           },
@@ -168,8 +170,10 @@
   },
   "active": "1241eb1069fe22b5",
   "lastOpenFiles": [
-    "Excalidraw/스프링/스프링 WAS 구조.md",
+    "Spring/Test/README.md",
+    "README.md",
     "Excalidraw/스프링/BufferedReader.ready().md",
+    "Excalidraw/스프링/스프링 WAS 구조.md",
     "Excalidraw/스프링/스밑구 구현 개인 이해도.md",
     "images/도커 정리 그림.png",
     "images/Pasted Image 20231120163607_780.png",
@@ -183,7 +187,6 @@
     "images/Pasted Image 20231014125834_653.png",
     "Pasted Image 20231014125819_645.png",
     "images/Pasted Image 20240114212008_560.png",
-    "README.md",
     "CS/docker/README.md",
     "CS/git/README.md",
     "Algorithm/out/production/graph_search/ResearchInstitute.class",
