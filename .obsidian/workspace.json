@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted Image 20231120180447_736.png"
+                "file": "images/Pasted Image 20231120163607_780.png"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted Image 20231120180447_736.png",
+                "file": "images/Pasted Image 20231120163607_780.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted Image 20231120180447_736.png",
+                "file": "images/Pasted Image 20231120163607_780.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted Image 20231120180447_736.png"
+                "file": "images/Pasted Image 20231120163607_780.png"
               }
             }
           },
@@ -166,21 +166,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1241eb1069fe22b5",
+  "active": "138c3716a0ee7a62",
   "lastOpenFiles": [
-    "Pasted Image 20231128144955_513.png",
-    "Pasted Image 20231120180447_736.png",
-    "Pasted Image 20231014130040_708.png",
-    "Pasted Image 20231014125834_653.png",
-    "Excalidraw/스프링/Pasted Image 20231120163607_780.png",
+    "Excalidraw/스프링/Drawing 2023-12-21 21.31.25.excalidraw.md",
+    "Excalidraw/스프링/Drawing 2023-12-08 14.49.58.excalidraw.md",
+    "images/Pasted Image 20231120163607_780.png",
+    "Excalidraw/스프링/BufferedReader.ready().md",
+    "images/Pasted Image 20240123190224_151.png",
+    "images/Pasted Image 20240114212154_585.png",
+    "images/Pasted Image 20231120180447_736.png",
+    "images",
+    "images/Pasted Image 20231128144955_513.png",
+    "images/Pasted Image 20231014130040_708.png",
+    "images/Pasted Image 20231014125834_653.png",
     "Excalidraw/스프링/스프링 WAS 구조.md",
     "Pasted Image 20231014125819_645.png",
-    "Pasted Image 20240114212008_560.png",
-    "Pasted Image 20240114212154_585.png",
-    "Pasted Image 20240114211836_488.png",
+    "images/Pasted Image 20240114212008_560.png",
+    "images/Pasted Image 20240114211836_488.png",
     "README.md",
-    "Excalidraw/OS/동기화/Pasted Image 20240123190238_223.png",
-    "Excalidraw/OS/동기화/Pasted Image 20240123190224_151.png",
     "CS/docker/README.md",
     "CS/git/README.md",
     "Algorithm/out/production/graph_search/ResearchInstitute.class",
@@ -192,7 +195,6 @@
     "Algorithm/out/production/graph_search/DiceRolling2$Dice.class",
     "Algorithm/out/production/graph_search/DiceRolling.class",
     "Algorithm/out/production/graph_search/Question.class",
-    "Algorithm/out/production/graph_search",
     "Excalidraw/DB/Index B-tree vs 다른 인덱스.md",
     "Excalidraw/DB/Index 스캔 종류.md",
     "Excalidraw/OS/Two-Level 페이징.md",
@@ -212,9 +214,6 @@
     "Excalidraw/OS/cpu 구조/cpu 구조.md",
     "Excalidraw/OS/파일시스템/VFS NFS.md",
     "Excalidraw/OS/파일시스템/Page Cache와 Buffer Cache 관계.md",
-    "Excalidraw/OS/파일시스템/Inode.md",
-    "Excalidraw/OS/파일시스템/파일시스템 구조.md",
-    "Excalidraw/스프링/Drawing 2023-12-08 14.49.58.excalidraw.md",
     "무제 파일.canvas"
   ]
 }

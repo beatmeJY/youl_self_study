@@ -8,5 +8,5 @@
   "autoPairMarkdown": false,
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "images"
 }
