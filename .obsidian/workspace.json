@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted Image 20240123191611_476.png"
+                "file": "Pasted Image 20240123185546_885.png"
               }
             }
           }
@@ -46,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "20240123191611_476",
+                "query": "20240123185546_885",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,8 +63,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -84,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted Image 20240123191611_476.png",
+                "file": "Pasted Image 20240123185546_885.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted Image 20240123191611_476.png",
+                "file": "Pasted Image 20240123185546_885.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted Image 20240123191611_476.png"
+                "file": "Pasted Image 20240123185546_885.png"
               }
             }
           },
@@ -167,16 +166,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e0fd5917a9d51d8b",
+  "active": "138c3716a0ee7a62",
   "lastOpenFiles": [
+    "Pasted Image 20240123190224_151.png",
+    "Pasted Image 20240123185701_954.png",
+    "Pasted Image 20240123190018_028.png",
+    "Pasted Image 20240123190224_140.png",
+    "Pasted Image 20240123190238_223.png",
+    "Pasted Image 20240123190456_208.png",
+    "Excalidraw/OS/동기화/Pasted Image 20240123191611_476.png",
     "Pasted Image 20240123191438_308.png",
-    "Pasted Image 20240123191611_476.png",
     "CS/docker/README.md",
     "CS/docker/도커 정리 그림.png",
     "Pasted image 20240220152330.png",
     "Pasted Image 20240123185530_886.png",
-    "Pasted Image 20231128190240_632.png",
-    "Pasted Image 20231014125819_645.png",
     "CS/git/README.md",
     "Algorithm/out/production/graph_search/ResearchInstitute.class",
     "Algorithm/out/production/graph_search/Solution.class",
@@ -189,9 +192,6 @@
     "Algorithm/out/production/graph_search/Question.class",
     "Algorithm/out/production/graph_search",
     "README.md",
-    "Pasted Image 20240123190018_028.png",
-    "Pasted Image 20240114211751_468.png",
-    "Pasted Image 20231128173255_228.png",
     "Excalidraw/DB/Index B-tree vs 다른 인덱스.md",
     "Excalidraw/DB/Index 스캔 종류.md",
     "Excalidraw/OS/Two-Level 페이징.md",
