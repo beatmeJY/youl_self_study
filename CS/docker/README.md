@@ -1,7 +1,7 @@
 컨테이너 목록 보기
 docker ps
 docker ps -a (가동 마친 컨테이너도 모두 보기)
-![[Pasted image 20240220152351.png]]
+![[도커 정리 그림.png]]
 
 # 도커 컴포즈
 

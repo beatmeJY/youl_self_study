@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1dda76315bf977d4",
+        "id": "d2e296fd98d10d31",
         "type": "tabs",
         "children": [
           {
-            "id": "7b0ff9be49f259f6",
+            "id": "1241eb1069fe22b5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted Image 20240123191438_308.png"
+                "file": "CS/docker/README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted Image 20240123191438_308.png",
+                "file": "CS/docker/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted Image 20240123191438_308.png",
+                "file": "CS/docker/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted Image 20240123191438_308.png"
+                "file": "CS/docker/README.md"
               }
             }
           },
@@ -166,11 +168,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7b0ff9be49f259f6",
+  "active": "1241eb1069fe22b5",
   "lastOpenFiles": [
-    "Pasted Image 20240123191611_476.png",
+    "CS/docker/도커 정리 그림.png",
     "CS/docker/README.md",
-    "CS/docker/Pasted image 20240220152351.png",
+    "Pasted Image 20240123191438_308.png",
+    "Pasted Image 20240123191611_476.png",
     "Pasted image 20240220152330.png",
     "Pasted Image 20240123185530_886.png",
     "Pasted Image 20231128190240_632.png",
@@ -185,7 +188,6 @@
     "Algorithm/out/production/graph_search/DiceRolling2$Dice.class",
     "Algorithm/out/production/graph_search/DiceRolling.class",
     "Algorithm/out/production/graph_search/Question.class",
-    "Pasted Image 20240123191438_308.png",
     "Algorithm/out/production/graph_search",
     "README.md",
     "Pasted Image 20240123190018_028.png",
