@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "CS/git/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "CS/git/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "CS/git/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "CS/git/README.md"
               }
             }
           },
@@ -170,8 +170,8 @@
   },
   "active": "1241eb1069fe22b5",
   "lastOpenFiles": [
-    "Spring/Test/README.md",
     "README.md",
+    "Spring/Test/README.md",
     "Excalidraw/스프링/BufferedReader.ready().md",
     "Excalidraw/스프링/스프링 WAS 구조.md",
     "Excalidraw/스프링/스밑구 구현 개인 이해도.md",
