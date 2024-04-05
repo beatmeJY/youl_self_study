@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d2e296fd98d10d31",
+        "id": "a38b68c9197b5bfc",
         "type": "tabs",
         "children": [
           {
-            "id": "1241eb1069fe22b5",
+            "id": "0bf3ce75a0a31067",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -168,8 +168,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1241eb1069fe22b5",
+  "active": "0bf3ce75a0a31067",
   "lastOpenFiles": [
+    "CS/git/README.md",
     "README.md",
     "Spring/Test/README.md",
     "Excalidraw/스프링/BufferedReader.ready().md",
@@ -188,7 +189,6 @@
     "Pasted Image 20231014125819_645.png",
     "images/Pasted Image 20240114212008_560.png",
     "CS/docker/README.md",
-    "CS/git/README.md",
     "Algorithm/out/production/graph_search/ResearchInstitute.class",
     "Algorithm/out/production/graph_search/Solution.class",
     "Algorithm/out/production/graph_search/BinarySearchTree.class",
