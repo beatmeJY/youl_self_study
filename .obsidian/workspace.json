@@ -11,9 +11,9 @@
             "id": "0bf3ce75a0a31067",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "excalidraw",
               "state": {
-                "file": "images/도커 정리 그림.png"
+                "file": "Excalidraw/OS/동기화/경쟁상태.md"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/도커 정리 그림.png",
+                "file": "Excalidraw/OS/동기화/경쟁상태.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/도커 정리 그림.png",
+                "file": "Excalidraw/OS/동기화/경쟁상태.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/도커 정리 그림.png"
+                "file": "Excalidraw/OS/동기화/경쟁상태.md"
               }
             }
           },
@@ -168,14 +168,15 @@
   },
   "active": "138c3716a0ee7a62",
   "lastOpenFiles": [
+    "Excalidraw/스프링/스밑구 구현 개인 이해도.md",
+    "images/도커 정리 그림.png",
+    "Excalidraw/로그인/무제 폴더",
     "Excalidraw/로그인",
     "CS/git/README.md",
     "README.md",
     "Spring/Test/README.md",
     "Excalidraw/스프링/BufferedReader.ready().md",
     "Excalidraw/스프링/스프링 WAS 구조.md",
-    "Excalidraw/스프링/스밑구 구현 개인 이해도.md",
-    "images/도커 정리 그림.png",
     "images/Pasted Image 20231120163607_780.png",
     "Excalidraw/스프링/Drawing 2023-12-21 21.31.25.excalidraw.md",
     "images/Pasted Image 20240123190224_151.png",
@@ -195,8 +196,6 @@
     "Algorithm/out/production/graph_search/DiceRolling2.class",
     "Algorithm/out/production/graph_search/DiceRolling2$DiceMap.class",
     "Algorithm/out/production/graph_search/DiceRolling2$Dice.class",
-    "Algorithm/out/production/graph_search/DiceRolling.class",
-    "Algorithm/out/production/graph_search/Question.class",
     "Excalidraw/DB/Index B-tree vs 다른 인덱스.md",
     "Excalidraw/DB/Index 스캔 종류.md",
     "Excalidraw/OS/Two-Level 페이징.md",
