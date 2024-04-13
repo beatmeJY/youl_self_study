@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a38b68c9197b5bfc",
+        "id": "7da8472ec66568ea",
         "type": "tabs",
         "children": [
           {
-            "id": "0bf3ce75a0a31067",
+            "id": "5b51a70a441f3a89",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/OS/동기화/경쟁상태.md"
-              }
-            }
-          },
-          {
-            "id": "3159ad4d9445b670",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/로그인/세션 로그인.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/로그인/세션 로그인.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/로그인/세션 로그인.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/로그인/세션 로그인.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,8 +160,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3159ad4d9445b670",
+  "active": "5b51a70a441f3a89",
   "lastOpenFiles": [
+    "Excalidraw/OS/동기화/경쟁상태.md",
+    "Excalidraw/로그인/세션 로그인.md",
     "Excalidraw/로그인/세션 로그인.ai.bak661a24d9",
     "Excalidraw/로그인/A9R14bs7vf_ddbei_nmo.tmp",
     "Excalidraw/로그인/~ai-f6cb0aaf-99cc-4b21-9a87-3dbeb09b6761_.tmp",
@@ -190,8 +175,6 @@
     "images/Pasted Image 20240413151802_299.png",
     "images/Pasted Image 20240413151731_297.png",
     "images/Pasted Image 20240413151546_233.png",
-    "Excalidraw/OS/동기화/경쟁상태.md",
-    "Excalidraw/로그인/세션 로그인.md",
     "Excalidraw/스프링/스밑구 구현 개인 이해도.md",
     "images/도커 정리 그림.png",
     "Excalidraw/로그인/무제 폴더",
@@ -206,7 +189,6 @@
     "images/Pasted Image 20240123190224_151.png",
     "images/Pasted Image 20240114212154_585.png",
     "images/Pasted Image 20231120180447_736.png",
-    "images",
     "images/Pasted Image 20231128144955_513.png",
     "images/Pasted Image 20231014130040_708.png",
     "CS/docker/README.md",
