@@ -166,8 +166,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0bf3ce75a0a31067",
+  "active": "138c3716a0ee7a62",
   "lastOpenFiles": [
+    "Excalidraw/로그인",
     "CS/git/README.md",
     "README.md",
     "Spring/Test/README.md",
@@ -214,7 +215,6 @@
     "Excalidraw/DB/무제 파일.md",
     "Excalidraw/OS/cpu 구조/cpu 구조.md",
     "Excalidraw/OS/파일시스템/VFS NFS.md",
-    "Excalidraw/OS/파일시스템/Page Cache와 Buffer Cache 관계.md",
     "무제 파일.canvas"
   ]
 }
