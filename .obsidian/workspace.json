@@ -16,8 +16,19 @@
                 "file": "Excalidraw/OS/동기화/경쟁상태.md"
               }
             }
+          },
+          {
+            "id": "3159ad4d9445b670",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/로그인/세션 로그인.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/OS/동기화/경쟁상태.md",
+                "file": "Excalidraw/로그인/세션 로그인.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/OS/동기화/경쟁상태.md",
+                "file": "Excalidraw/로그인/세션 로그인.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/OS/동기화/경쟁상태.md"
+                "file": "Excalidraw/로그인/세션 로그인.md"
               }
             }
           },
@@ -166,8 +177,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "138c3716a0ee7a62",
+  "active": "3159ad4d9445b670",
   "lastOpenFiles": [
+    "Excalidraw/OS/동기화/경쟁상태.md",
+    "Excalidraw/로그인/세션 로그인.md",
     "Excalidraw/스프링/스밑구 구현 개인 이해도.md",
     "images/도커 정리 그림.png",
     "Excalidraw/로그인/무제 폴더",
@@ -200,7 +213,6 @@
     "Excalidraw/DB/Index 스캔 종류.md",
     "Excalidraw/OS/Two-Level 페이징.md",
     "Excalidraw/Drawing 2024-01-07 21.52.55.excalidraw.md",
-    "Excalidraw/OS/동기화/경쟁상태.md",
     "Excalidraw/DB/CrossJoin.md",
     "Excalidraw/OS/싱글 페이징.md",
     "Excalidraw/OS/동기화/교착상태.md",
