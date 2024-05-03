@@ -168,6 +168,8 @@
   },
   "active": "1da151973c71bff9",
   "lastOpenFiles": [
+    "out/production/graph_search/순위.class",
+    "out/production/graph_search/가장먼노드_다익스트라_미통과.class",
     "CS/git/README.md",
     "Excalidraw/Drawing 2024-05-04 00.02.33.excalidraw.md",
     "Excalidraw/로그인/A9R1rp4a9x_1r77s52_pno.tmp",
@@ -181,7 +183,6 @@
     "Excalidraw/로그인/세션 로그인.ai",
     "Excalidraw/로그인/테스트코드.ai",
     "테스트코드.ai",
-    "[최지율] 백엔드_개발자_포트폴리오.ai",
     "images/Pasted Image 20240413151802_299.png",
     "images/Pasted Image 20240413151731_297.png",
     "images/Pasted Image 20240413151546_233.png",
@@ -214,7 +215,6 @@
     "Excalidraw/이력서/이력서 구상도.md",
     "Excalidraw/이력서/이력서 구사.canvas",
     "Excalidraw/DB/무제 파일.md",
-    "Excalidraw/OS/cpu 구조/cpu 구조.md",
     "무제 파일.canvas"
   ]
 }
