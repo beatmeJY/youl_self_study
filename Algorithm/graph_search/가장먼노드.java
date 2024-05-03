@@ -2,48 +2,47 @@ import java.util.*;
 
 public class 가장먼노드 {
 
-	static int[][] map;
+    public int solution(int n, int[][] edges) {
+        List<List<Integer>> graph = new ArrayList<>();
+        for (int i = 0; i <= n; i++) {
+            graph.add(new ArrayList<>());
+        }
+        for (int[] edge : edges) {
+            int a = edge[0];
+            int b = edge[1];
+            graph.get(a).add(b);
+            graph.get(b).add(a);
+        }
 
-	static Queue<int[]> queue = new PriorityQueue<>(Comparator.comparingInt(o -> o[0]));
-	static boolean[] visits;
+        int[] distances = new int[n + 1];
+        boolean[] visited = new boolean[n + 1];
 
-	public static void main(String[] args) {
-		int solution = solution(6, new int[][]{{3, 6}, {4, 3}, {3, 2}, {1, 3}, {1, 2}, {2, 4}, {5, 2}});
-		System.out.println("solution = " + solution);
-	}
+        Queue<Integer> queue = new LinkedList<>();
+        queue.offer(1);
+        visited[1] = true;
 
-	public static int solution(int n, int[][] edge) {
-		int answer = 0;
-		init(n, edge);
-		int[] firstPoint = map[0];
-		int[] startPoint = new int[firstPoint.size() + 1];
-		startPoint[0] = 0;
-		for (int i = 1; i <= firstPoint.size(); i++) {
-			startPoint[i] = firstPoint.get(i);
-		}
-		queue.add(startPoint);
-		while (true) {
-			int[] next = queue.poll();
-			if (next == null) {
-				break;
-			}
-			dijkstra(next);
-		}
-		return answer;
-	}
-
-	private static void dijkstra(int[] edges) {
-
-	}
-
-	private static void init(int size, int[][] edge) {
-		visits = new boolean[size];
-		for (int i = 0; i < edge.length; i++) {
-			map[edge[i][0]][edge[i][1]] = ;
-			map[edge[i][1]][edge[i][0]] = ;
-		}
-	}
-
-
-
+        while (!queue.isEmpty()) {
+            int node = queue.poll();
+            for (int neighbor : graph.get(node)) {
+                if (!visited[neighbor]) {
+                    visited[neighbor] = true;
+                    distances[neighbor] = distances[node] + 1;
+                    queue.offer(neighbor);
+                }
+            }
+        }
+        Arrays.sort(distances);
+        int maxDistance = 0;
+        int count = 0;
+        for (int i = distances.length - 1; i >= 0; i--) {
+            if (maxDistance == 0) {
+                maxDistance = distances[i];
+            }
+            if (maxDistance != distances[i]) {
+                break;
+            }
+            count++;
+        }
+        return count;
+    }
 }
