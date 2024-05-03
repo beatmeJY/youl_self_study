@@ -15,7 +15,7 @@ public class 순위 {
         int[] ranks = new int[n + 1];
 
         for (int i = 1; i <= n + 1; i++) {
-            resultList.add(i, new ArrayList<Integer>());
+            resultList.add(new ArrayList<Integer>());
             ranks[i - 1] = n;
         }
         for (int i = 0; i < results.length; i++) {
