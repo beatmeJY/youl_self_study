@@ -10,6 +10,11 @@ public class 순위 {
     }
 
     public static int solution(int n, int[][] results) {
+        int answer = 0;
+        for (int i = 0; i < results.length; i++) {
+            
+        }
 
+        return answer;
     }
 }
