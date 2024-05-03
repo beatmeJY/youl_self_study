@@ -10,6 +10,6 @@ public class 순위 {
     }
 
     public static int solution(int n, int[][] results) {
-       
+
     }
 }
