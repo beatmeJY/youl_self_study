@@ -12,7 +12,7 @@ public class 순위 {
     public static int solution(int n, int[][] results) {
         int answer = 0;
         List<List<Integer>> resultList = new ArrayList<>();
-        int[] ranks = new int[n + 1];
+        int[] ranks = new int[n];
 
         for (int i = 1; i <= n + 1; i++) {
             resultList.add(new ArrayList<Integer>());
