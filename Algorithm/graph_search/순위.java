@@ -4,10 +4,14 @@ import java.util.List;
 
 public class 순위 {
 
-    public int solution(int n, int[][] results) {
+    public static void main(String[] args) {
+        solution()
+    }
+
+    public static int solution(int n, int[][] results) {
         int answer = 0;
         List<List<Integer>> resultList = new ArrayList<>();
-        int[] ranks = new int[n+1];
+        int[] ranks = new int[n + 1];
 
         for (int i = 1; i <= n + 1; i++) {
             resultList.add(i, new ArrayList<Integer>());
@@ -22,7 +26,7 @@ public class 순위 {
         Arrays.stream(ranks).sorted();
         int before = ranks[0];
         int count = 1;
-        for (int i = 1; i < ranks.length; i++) {
+        for (int i = 0; i < ranks.length; i++) {
             if (before != ranks[i] && count == 1 && i == ranks[i]) {
                 answer++;
             }
