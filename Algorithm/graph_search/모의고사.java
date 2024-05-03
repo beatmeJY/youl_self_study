@@ -1,13 +1,16 @@
-import java.util.Arrays;
+import java.util.*;
+import java.util.stream.IntStream;
 
 public class 모의고사 {
 
 	public static void main(String[] args) {
-		solution(new int[]{});
+		int[] solution = solution(new int[]{1, 2, 3, 4, 5});
+		for (int i : solution) {
+			System.out.println(i);
+		}
 	}
 
 	public static int[] solution(int[] answers) {
-		int[] answer = new int[3];
 		int[][] answerCount = {{1, 0}, {2, 0}, {3, 0}};
 		int[] first = {1, 2, 3, 4, 5};
 		int[] second = {2, 1, 2, 3, 2, 4, 2, 5};
@@ -26,13 +29,15 @@ public class 모의고사 {
 			}
 		}
 		Arrays.sort(answerCount, (i, j) -> {
-			return i[1]-j[1];
+			return -1 * (i[1]-j[1]);
 		});
+		List<Integer> arrayList = new ArrayList<>();
 		for (int i = 0; i < 3; i++) {
-			if (answerCount[i][0] != 0) {
-				answer[i] = answerCount[i][0];
+			if (answerCount[i][1] != 0) {
+				arrayList.add(answerCount[i][0]);
 			}
 		}
-		return answer;
+		int[] result = arrayList.stream().mapToInt(Integer::intValue).toArray();
+		return result;
 	}
 }
