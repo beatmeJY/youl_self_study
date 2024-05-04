@@ -20,11 +20,14 @@ public class 조이스틱 {
         return answer;
     }
 
-    private void findNext(int i) {
+    private int findNext(int i) {
+        int next;
         int right = visit[i + 1];
         int left = visit[i - 1];
-        if (right == left) {
-            findNext();
+        while(true){
+            if (right == left) {
+            }
         }
+        return next;
     }
 }
