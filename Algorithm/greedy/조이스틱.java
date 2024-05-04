@@ -17,7 +17,10 @@ public class 조이스틱 {
             while (nextIndex < name.length() && name.charAt(nextIndex) == 'A') {
                 nextIndex++;
             }
-            minMovesToChange = Math.min(minMovesToChange, i + name.length() - nextIndex + Math.min(i, name.length() - nextIndex));
+            minMovesToChange = Math.min(
+                minMovesToChange,
+                i + name.length() - nextIndex + Math.min(i, name.length() - nextIndex)
+            );
         }
 
         // 총 이동 횟수 반환
