@@ -2,6 +2,7 @@ import java.util.Arrays;
 
 public class 조이스틱 {
     int[] visit;
+    int[] visit;
     int length;
 
     public int solution(String name) {
@@ -34,17 +35,19 @@ public class 조이스틱 {
         int left = i;
         int leftFirst = 30;
         while(true){
-            if (visit[right] == 0) {
-                rightFirst = rightFirst == 30 ? visit[right] : rightFirst;
+            if (visit[right] == 0 && rightFirst == 30) {
+                rightFirst = visit[right];
             }
-            if (visit[left] == 0) {
-                leftFirst = leftFirst == 30 ? visit[left] : leftFirst;
+            if (visit[left] == 0 && leftFirst == 30) {
+                leftFirst = visit[left];
             }
+
             if (visit[right] == visit[left]) {
                 right = right + 1 > length - 1 ? 0 : right + 1;
                 left = left - 1 < 0 ? length - 1 : left -1;
                 continue;
             }
+
             if (visit[right] > visit[left]) {
                 return leftFirst;
             } else {
