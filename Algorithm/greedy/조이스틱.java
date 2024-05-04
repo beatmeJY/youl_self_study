@@ -27,6 +27,4 @@ public class 조이스틱 {
             findNext();
         }
     }
-
-
 }
