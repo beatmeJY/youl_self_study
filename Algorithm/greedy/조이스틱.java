@@ -24,15 +24,19 @@ public class 조이스틱 {
     }
 
     private int findNext(int i) {
-        int next;
         int right = i;
         int left = i;
         while(true){
             if (right == left) {
-                int right = right + 1 > length -1;
-                int left =
+                right = right + 1 > length - 1 ? 0 : right + 1;
+                left = left - 1 < 0 ? length - 1 : left -1;
+                continue;
+            }
+            if (right > left) {
+                return left;
+            } else {
+                return right;
             }
         }
-        return next;
     }
 }
