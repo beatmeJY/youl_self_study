@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class 조이스틱 {
 
     public static void main(String[] args) {
-        int solution = solution("AAAABAAAAAAABABABAB");
+        int solution = solution("AAABAAAAAAAABABABAB");
         System.out.println("solution = " + solution);
     }
 
