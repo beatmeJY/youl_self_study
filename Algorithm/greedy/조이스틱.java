@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class 조이스틱 {
     int[] visit;
     int length;
@@ -16,8 +18,11 @@ public class 조이스틱 {
         }
 
         for (int i = 0; i < name.length(); i++) {
+            if (checkAllVisit()) {
+                break;
+            }
             if (visit[i] == 1) {
-                findNext(i);
+                int next = findNext(i);
             }
         }
         return answer;
@@ -25,18 +30,30 @@ public class 조이스틱 {
 
     private int findNext(int i) {
         int right = i;
+        int rightFirst = 30;
         int left = i;
+        int leftFirst = 30;
         while(true){
+            if (visit[right] == 0) {
+                rightFirst = rightFirst == 30 ? visit[right] : rightFirst;
+            }
+            if (visit[left] == 0) {
+                leftFirst = leftFirst == 30 ? visit[left] : leftFirst;
+            }
             if (visit[right] == visit[left]) {
                 right = right + 1 > length - 1 ? 0 : right + 1;
                 left = left - 1 < 0 ? length - 1 : left -1;
                 continue;
             }
             if (visit[right] > visit[left]) {
-                return left;
+                return leftFirst;
             } else {
-                return right;
+                return rightFirst;
             }
         }
+    }
+
+    boolean checkAllVisit() {
+        return !Arrays.stream(visit).anyMatch(f -> f == 0);
     }
 }
