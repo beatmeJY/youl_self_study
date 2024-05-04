@@ -27,12 +27,12 @@ public class 조이스틱 {
         int right = i;
         int left = i;
         while(true){
-            if (right == left) {
+            if (visit[right] == visit[left]) {
                 right = right + 1 > length - 1 ? 0 : right + 1;
                 left = left - 1 < 0 ? length - 1 : left -1;
                 continue;
             }
-            if (right > left) {
+            if (visit[right] > visit[left]) {
                 return left;
             } else {
                 return right;
