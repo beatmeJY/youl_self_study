@@ -1,21 +1,26 @@
 import java.util.Arrays;
 
 public class 조이스틱 {
-    int[] visit;
-    int length;
 
     public int solution(String name) {
-        int answer = 0;
-        String al = "ABCDEFGHIJKLNMOPQRSTUVWXYZ";
-        length = name.length();
-        visit = new int[length];
-
+        // 알파벳별 조이스틱 조작 횟수 계산
+        int totalMoves = 0;
         for (int i = 0; i < name.length(); i++) {
-            if ("A" == String.valueOf(name.charAt(i))) {
-                visit[i] = 1;
-            }
+            char currentChar = name.charAt(i);
+            totalMoves = totalMoves + Math.min(currentChar - 'A', 'Z' - currentChar + 1);
         }
 
-        return answer;
+        // 커서 이동 횟수 계산
+        int minMovesToChange = name.length() - 1;
+        for (int i = 0; i < name.length(); i++) {
+            int nextIndex = i + 1;
+            while (nextIndex < name.length() && name.charAt(nextIndex) == 'A') {
+                nextIndex++;
+            }
+            minMovesToChange = Math.min(minMovesToChange, i + name.length() - nextIndex + Math.min(i, name.length() - nextIndex));
+        }
+
+        // 총 이동 횟수 반환
+        return totalMoves + minMovesToChange;
     }
 }
