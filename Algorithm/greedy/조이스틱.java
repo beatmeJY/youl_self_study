@@ -23,7 +23,7 @@ public class 조이스틱 {
                 nextIndex++;
             }
             minMovesToChange = Math.min(
-                minMovesToChange,
+                minMovesToChange,   
                 i + name.length() - nextIndex + Math.min(i, name.length() - nextIndex)
             );
         }
