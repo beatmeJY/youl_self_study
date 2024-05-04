@@ -2,7 +2,12 @@ import java.util.Arrays;
 
 public class 조이스틱 {
 
-    public int solution(String name) {
+    public static void main(String[] args) {
+        int solution = solution("AAAABAAAAAAABABABAB");
+        System.out.println("solution = " + solution);
+    }
+
+    public static int solution(String name) {
         // 알파벳별 조이스틱 조작 횟수 계산
         int totalMoves = 0;
         for (int i = 0; i < name.length(); i++) {
