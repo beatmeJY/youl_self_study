@@ -1,10 +1,13 @@
 public class 조이스틱 {
     int[] visit;
+    int length;
 
     public int solution(String name) {
         int answer = 0;
         String al = "ABCDEFGHIJKLNMOPQRSTUVWXYZ";
-        visit = new int[name.length()];
+        length = name.length();
+        visit = new int[length];
+
 
         for (int i = 0; i < name.length(); i++) {
             if ("A" == String.valueOf(name.charAt(i))) {
@@ -22,10 +25,12 @@ public class 조이스틱 {
 
     private int findNext(int i) {
         int next;
-        int right = visit[i + 1];
-        int left = visit[i - 1];
+        int right = i;
+        int left = i;
         while(true){
             if (right == left) {
+                int right = right + 1 > length -1;
+                int left =
             }
         }
         return next;
