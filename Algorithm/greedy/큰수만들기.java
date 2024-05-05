@@ -10,6 +10,9 @@ public class 큰수만들기 {
                 for (int i = index; i <= index + count; i++) {
                     max = Integer.max(max, number.charAt(i));
                 }
+                StringBuilder builder = new StringBuilder();
+                builder.append(number);
+                builder.deleteCharAt(index);
                 number.substring(index, max);
             } else {
 

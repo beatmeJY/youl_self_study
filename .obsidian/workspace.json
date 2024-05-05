@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/여러 기술.md",
+                "file": "Algorithm/코딩 테스트 여러 라이브러리.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/여러 기술.md",
+                "file": "Algorithm/코딩 테스트 여러 라이브러리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/여러 기술.md",
+                "file": "Algorithm/코딩 테스트 여러 라이브러리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/여러 기술.md"
+                "file": "Algorithm/코딩 테스트 여러 라이브러리.md"
               }
             }
           },
@@ -171,7 +171,7 @@
   "active": "1da151973c71bff9",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2024-05-04 00.02.33.excalidraw.md",
-    "Algorithm/여러 기술.md",
+    "Algorithm/코딩 테스트 여러 라이브러리.md",
     "out/production/Algorithm/조이스틱.class",
     "out/production/Algorithm/sort/폰켓몬.class",
     "out/production/Algorithm/sort/전화번호목록.class",
