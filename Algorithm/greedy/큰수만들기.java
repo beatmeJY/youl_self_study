@@ -31,7 +31,7 @@ public class 큰수만들기 {
                         builder.append(number.substring(0, number.length() - 1));
                         count--;
                         break;
-                    }else if (is > next) {
+                    } else if (is >= next) {
                         index++;
                     } else {
                         builder.append(number.substring(0, index)).append(index + 1);
