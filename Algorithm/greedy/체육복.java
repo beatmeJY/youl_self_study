@@ -18,13 +18,4 @@ public class 체육복 {
         }
         return answer;
     }
-
-    public static void main(String[] args) {
-        List<Integer> lostList = new ArrayList<>();
-        lostList.add(11);
-        lostList.add(22);
-        lostList.add(33);
-        lostList.remove(22);
-        System.out.println("lostList = " + lostList);
-    }
 }
