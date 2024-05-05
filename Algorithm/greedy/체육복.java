@@ -12,8 +12,20 @@ public class 체육복 {
         }
         Arrays.sort(lost);
         Arrays.sort(reserve);
+        answer = lostList.size();
 
-
+        for (Integer lostStudent : lostList) {
+            int before = lostStudent - 1;
+            int next = lostStudent + 1;
+            if (reserveList.stream().anyMatch(f->f == before)){
+                reserveList.remove((Object) before);
+                answer++;
+                continue;
+            } else if (reserveList.stream().anyMatch(f->f == next)) {
+                reserveList.remove((Object) next);
+                answer++;
+            }
+        }
         return answer;
     }
 }
