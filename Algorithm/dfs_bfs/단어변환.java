@@ -42,7 +42,7 @@ public class 단어변환 {
                     }
                 }
                 if (count == 1) {
-                    queue.add(new int[]{1, i});
+                    queue.add(new int[]{poll[0] + 1, i});
                     visit[i] = true;
                 }
             }
