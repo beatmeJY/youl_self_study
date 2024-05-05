@@ -27,7 +27,7 @@ public class 단어변환 {
 
         while (!queue.isEmpty()) {
             int[] poll = queue.poll();
-            if (target == words[poll[1]]) {
+            if (target.equals(words[poll[1]])) {
                 answer = poll[0];
                 break;
             }
