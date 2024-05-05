@@ -170,6 +170,7 @@
   },
   "active": "1da151973c71bff9",
   "lastOpenFiles": [
+    "out/production/Algorithm/체육복.class",
     "Algorithm/greedy/체육복.java",
     "out/production/Algorithm/큰수만들기.class",
     "out/production/Algorithm/조이스틱.class",
@@ -182,7 +183,6 @@
     "out/production/Algorithm/sort/가장큰수.class",
     "out/production/Algorithm/sort/K번째수.class",
     "out/production/Algorithm/sort/H_Index.class",
-    "out/production/Algorithm/dfs_bfs/네트워크.class",
     "CS/git/README.md",
     "Excalidraw/OS/동기화/경쟁상태.md",
     "Excalidraw/로그인/세션 로그인.md",
