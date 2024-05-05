@@ -11,17 +11,21 @@ public class 구명보트 {
         peoples = Arrays.stream(people).sorted().toArray();
 
         for (int i = peoples.length-1; i >= 0 ; i--) {
-           int[] dd = new int[7]{1,2};
-            int[] max = dfs();
+            int[] array = new int[8];
+            array[0] = people[i];
+            array[1] = i;
+            array[8] = 1;
+            int[] max = dfs(array);
         }
 
         return answer;
     }
 
     private int[] dfs(int[] sumArray) {
-        for (int i = index; i >= 0; i--) {
-            if (limitWeight >= people + peoples[i]) {
-
+        for (int i = sumArray[sumArray[8]] - 1; i >= 0; i--) {
+            if (limitWeight >= sumArray[0] + peoples[i]) {
+                sumArray[0] = sumArray[0] + peoples[i];
+                sumArray[++sumArray[8]] = i;
             }
         }
     }
