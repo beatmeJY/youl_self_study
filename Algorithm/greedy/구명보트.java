@@ -8,8 +8,10 @@ public class 구명보트 {
         int answer = 0;
         List<Integer> list = Arrays.stream(people).sorted().boxed().collect(Collectors.toList());
 
-        for (int i = list.size() - 1; i >= 0; i--) {
-            Integer big = list.get(i);
+        while (true) {
+            int max = 0;
+            int index = list.size() - 1;
+
 
         }
         return answer;
