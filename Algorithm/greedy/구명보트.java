@@ -9,6 +9,8 @@ public class 구명보트 {
             for (int j = i - 1; j >= 0; j--) {
                 if (limit >= people[i] + people[j]) {
                     people[i] = people[j] = 0;
+                    answer++;
+                    break;
                 }
             }
         }
