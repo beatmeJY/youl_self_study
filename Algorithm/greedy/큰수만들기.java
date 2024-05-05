@@ -2,7 +2,7 @@ public class 큰수만들기 {
 
     public static void main(String[] args) {
 //        String solution = solution("87549496413", 6);
-        String solution = solution("987654", 4);
+        String solution = solution("9876543214", 4);
         System.out.println("solution = " + solution);
     }
 
