@@ -13,13 +13,14 @@ public class 체육복 {
     public static int solution(int n, int[] lost, int[] reserve) {
         int answer = 0;
         List<Integer> lostList = Arrays.stream(lost).boxed().collect(Collectors.toList());
-        List<Integer> reserveList = Arrays.stream(lost).boxed().collect(Collectors.toList());
+        List<Integer> reserveList = Arrays.stream(reserve).boxed().collect(Collectors.toList());
         for (int i = 0; i < lost.length; i++) {
-            lostList.remove((Object)lost[i]);
-            reserveList.remove((Object)lost[i]);
+            int finalI = i;
+            if (reserveList.stream().anyMatch(f -> f == lost[finalI])) {
+                reserveList.remove((Object)lost[i]);
+                lostList.remove((Object)lost[i]);
+            }
         }
-        Arrays.sort(lost);
-        Arrays.sort(reserve);
         answer = n - lostList.size();
 
         for (Integer lostStudent : lostList) {
