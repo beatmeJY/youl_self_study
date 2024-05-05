@@ -7,20 +7,20 @@ public class 큰수만들기 {
 
     public static String solution(String number, int k) {
         int count = k;
-        int index = 0;
+        StringBuilder builder = new StringBuilder();
         while (count > 0) {
             if (count > 1) {
                 int max = 0;
-                for (int i = index; i <= index + count; i++) {
+                for (int i = 0; i <= count; i++) {
                     int find = Integer.parseInt(String.valueOf(number.charAt(i)));
                     if (max < find) {
                         max = find;
                     }
                 }
                 int maxPoint = number.indexOf(""+max);
-                count = count - (maxPoint - index);
-                number = number.substring(0, index) + number.substring(maxPoint);
-                index++;
+                builder.append(max);
+                count = count - maxPoint;
+                number = number.substring(maxPoint + 1);
             }
             if (count == 1) {
                 while (true) {
