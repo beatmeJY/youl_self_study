@@ -32,7 +32,7 @@ public class 단어변환 {
                 break;
             }
             for (int i = 0; i < words.length; i++) {
-                if (visit[poll[i]]) {
+                if (visit[poll[1]]) {
                     continue;
                 }
                 int count = 0;
