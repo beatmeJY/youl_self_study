@@ -21,10 +21,27 @@ public class 단어변환 {
         }
 
         while (!queue.isEmpty()) {
-            
+            int[] poll = queue.poll();
+            if (target == words[poll[1]]) {
+                answer = poll[0];
+                break;
+            }
+            if (visit[poll[1]]) {
+                continue;
+            }
+            for (int i = 0; i < words.length; i++) {
+                int count = 0;
+                for (int j = 0; j < begin.length(); j++) {
+                    if (begin.charAt(j) != words[i].charAt(j)) {
+                        count++;
+                    }
+                }
+                if (count == 1) {
+                    queue.add(new int[]{1, i});
+                    visit[i] = true;
+                }
+            }
         }
-
-
         return answer;
     }
 }
