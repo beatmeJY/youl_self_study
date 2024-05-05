@@ -13,7 +13,7 @@ public class 체육복 {
         Arrays.sort(lost);
         Arrays.sort(reserve);
 
-        
+
         return answer;
     }
 }
