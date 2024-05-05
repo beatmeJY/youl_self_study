@@ -23,6 +23,10 @@ public class 큰수만들기 {
                     int next = Integer.parseInt(String.valueOf(number.charAt(index + 1)));
                     if (is > next) {
                         index++;
+                    } else if (index == number.length()) {
+                        number.substring(0, number.length() - 1);
+                        count--;
+                        break;
                     } else {
                         number = number.substring(0, index) + number.substring(index + 1);
                         count--;
