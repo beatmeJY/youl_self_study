@@ -17,13 +17,13 @@ public class 구명보트 {
             int max = list.get(maxIndex);
             for (int i = maxIndex; i >= 0; i--) {
                 if (limit >= max + list.get(i)) {
-                    list.remove(max);
+                    list.remove(maxIndex);
                     list.remove(i);
                     answer++;
                     break;
                 }
                 if (i == 0) {
-                    list.remove(max);
+                    list.remove(maxIndex);
                     answer++;
                 }
             }
