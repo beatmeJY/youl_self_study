@@ -26,13 +26,13 @@ public class 단어변환 {
                 answer = poll[0];
                 break;
             }
-            if (visit[poll[1]]) {
-                continue;
-            }
             for (int i = 0; i < words.length; i++) {
+                if (visit[poll[i]]) {
+                    continue;
+                }
                 int count = 0;
                 for (int j = 0; j < begin.length(); j++) {
-                    if (begin.charAt(j) != words[i].charAt(j)) {
+                    if (words[poll[1]].charAt(j) != words[i].charAt(j)) {
                         count++;
                     }
                 }
