@@ -11,9 +11,11 @@
             "id": "1da151973c71bff9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-04 00.02.33.excalidraw.md"
+                "file": "Algorithm/여러 기술.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-04 00.02.33.excalidraw.md",
+                "file": "Algorithm/여러 기술.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-04 00.02.33.excalidraw.md",
+                "file": "Algorithm/여러 기술.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-04 00.02.33.excalidraw.md"
+                "file": "Algorithm/여러 기술.md"
               }
             }
           },
@@ -168,6 +170,8 @@
   },
   "active": "1da151973c71bff9",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-05-04 00.02.33.excalidraw.md",
+    "Algorithm/여러 기술.md",
     "out/production/Algorithm/조이스틱.class",
     "out/production/Algorithm/sort/폰켓몬.class",
     "out/production/Algorithm/sort/전화번호목록.class",
@@ -178,9 +182,7 @@
     "out/production/Algorithm/dfs_bfs/네트워크.class",
     "out/production/Algorithm/dfs_bfs/게임_맵_최단거리.class",
     "out/production/Algorithm/dfs_bfs/게임_맵_최단거리$Point.class",
-    "out/production/Algorithm/dfs_bfs",
     "CS/git/README.md",
-    "Excalidraw/Drawing 2024-05-04 00.02.33.excalidraw.md",
     "Excalidraw/OS/동기화/경쟁상태.md",
     "Excalidraw/로그인/세션 로그인.md",
     "images/Pasted Image 20240413151802_299.png",
