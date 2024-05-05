@@ -23,6 +23,7 @@ public class 큰수만들기 {
                 number = number.substring(maxPoint + 1);
             }
             if (count == 1) {
+                int index = 0;
                 while (true) {
                     int is = Integer.parseInt(String.valueOf(number.charAt(index)));
                     int next = Integer.parseInt(String.valueOf(number.charAt(index + 1)));
@@ -40,6 +41,6 @@ public class 큰수만들기 {
                 }
             }
         }
-        return number;
+        return builder.toString();
     }
 }
