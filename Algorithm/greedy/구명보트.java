@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
 
 public class 구명보트 {
 
@@ -14,15 +15,21 @@ public class 구명보트 {
                     answer++;
                     continue;
                 }
-                ArrayList<Integer> sumList = new ArrayList<>();
+                int max = people[maxIndex];
+                List<Integer> maxSumList = new ArrayList<>();
                 for (int i = maxIndex - 1; i >= 0; i--) {
+                    List<Integer> sumList = new ArrayList<>();
                     int sum = people[maxIndex] + people[i];
                     if (limit >= sum) {
                         sumList.add(i);
-                        
-                        if (limit - 40 < sum) {
+
+                        if (limit - 40 < sum && max < sum) {
+                            max = sum;
+                            maxSumList = sumList;
                             continue;
                         }
+
+
                         for (int j = i; j >= 0 ; j++) {
                             if (limit > sum + people[j]) {
 
