@@ -5,7 +5,7 @@ import java.util.stream.Collectors;
 public class 구명보트 {
 
     public static void main(String[] args) {
-        int result = solution(new int[]{70, 50, 80, 50}, 100);
+        int result = solution(new int[]{70, 80, 50}, 100);
         System.out.println("result = " + result);
     }
 
@@ -15,7 +15,7 @@ public class 구명보트 {
         while (list.size() > 0) {
             int maxIndex = list.size() - 1;
             int max = list.get(maxIndex);
-            for (int i = maxIndex; i >= 0; i--) {
+            for (int i = maxIndex - 1; i >= 0; i--) {
                 if (limit >= max + list.get(i)) {
                     list.remove(maxIndex);
                     list.remove(i);
