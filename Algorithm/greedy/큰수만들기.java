@@ -1,7 +1,8 @@
 public class 큰수만들기 {
 
     public static void main(String[] args) {
-        String solution = solution("87549496413", 6);
+//        String solution = solution("87549496413", 6);
+        String solution = solution("1231234", 3);
         System.out.println("solution = " + solution);
     }
 
