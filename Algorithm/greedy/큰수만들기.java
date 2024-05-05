@@ -14,7 +14,7 @@ public class 큰수만들기 {
                 }
                 int maxPoint = number.indexOf(max);
                 count = count - (maxPoint - index);
-                number = number.substring(index, maxPoint) + number.substring(maxPoint);
+                number = number.substring(0, index) + number.substring(maxPoint);
                 index++;
             }
             if (count == 1) {
