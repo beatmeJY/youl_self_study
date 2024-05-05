@@ -1,8 +1,11 @@
 public class 큰수만들기 {
 
+    StringBuilder builder = new StringBuilder();
+    int count = k;
+
     public String solution(String number, int k) {
         String answer = "";
-        int count = k;
+        builder.append(number);
         int index = 0;
         while (count > 0) {
             if (count > 1) {
@@ -10,10 +13,8 @@ public class 큰수만들기 {
                 for (int i = index; i <= index + count; i++) {
                     max = Integer.max(max, number.charAt(i));
                 }
-                StringBuilder builder = new StringBuilder();
-                builder.append(number);
-                builder.deleteCharAt(index);
-                number.substring(index, max);
+                delete(max);
+                builder.deleteCharAt(0);
             } else {
 
             }
@@ -23,5 +24,9 @@ public class 큰수만들기 {
 
 
         return answer;
+    }
+
+    private void delete(int max) {
+
     }
 }
