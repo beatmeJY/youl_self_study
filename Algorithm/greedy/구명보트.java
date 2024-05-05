@@ -16,13 +16,17 @@ public class 구명보트 {
                 }
                 ArrayList<Integer> sumList = new ArrayList<>();
                 for (int i = maxIndex - 1; i >= 0; i--) {
-                    int sum = 0;
-                    if (limit <= people[maxIndex] + people[i]) {
-                        if (limit - 40 < people[maxIndex] + people[i]) {
+                    int sum = people[maxIndex] + people[i];
+                    if (limit >= sum) {
+                        sumList.add(i);
+                        
+                        if (limit - 40 < sum) {
                             continue;
                         }
                         for (int j = i; j >= 0 ; j++) {
+                            if (limit > sum + people[j]) {
 
+                            }
                         }
                     }
                 }
