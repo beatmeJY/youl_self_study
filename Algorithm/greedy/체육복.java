@@ -13,7 +13,6 @@ public class 체육복 {
         int answer = 0;
         List<Integer> lostList = Arrays.stream(lost).sorted().mapToObj(Integer::valueOf).collect(Collectors.toList());
         List<Integer> reserveList = Arrays.stream(lost).sorted().mapToObj(Integer::valueOf).collect(Collectors.toList());
-        List<int[]> ints = Arrays.asList(lost);
 
 
         for (int i = 0; i < lost.length; i++) {
