@@ -5,11 +5,17 @@ public class 큰수만들기 {
         int index = 0;
         while (count > 0) {
             if (count > 1) {
-                number
-
-
-                //확인할 길이
-                count + 1;
+                int max = 0;
+                for (int i = index; i <= index + count; i++) {
+                    int find = Integer.parseInt(String.valueOf(number.charAt(i)));
+                    if (max < find) {
+                        max = find;
+                    }
+                }
+                int maxPoint = number.indexOf(max);
+                count = count - (maxPoint - index);
+                number = number.substring(index, maxPoint) + number.substring(maxPoint);
+                index++;
             }
             if (count == 1) {
                 while (true) {
@@ -20,6 +26,7 @@ public class 큰수만들기 {
                     } else {
                         number = number.substring(0, index) + number.substring(index + 1);
                         count--;
+                        break;
                     }
                 }
             }
