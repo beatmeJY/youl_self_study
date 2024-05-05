@@ -12,6 +12,9 @@ public class 큰수만들기 {
         while (count > 0) {
             if (count > 1) {
                 int max = 0;
+                if (count == number.length()) {
+                    break;
+                }
                 for (int i = 0; i <= count; i++) {
                     int find = Integer.parseInt(String.valueOf(number.charAt(i)));
                     if (max < find) {
