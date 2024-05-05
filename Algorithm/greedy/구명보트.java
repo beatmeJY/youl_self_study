@@ -13,6 +13,10 @@ public class 구명보트 {
         int answer = 0;
         List<Integer> list = Arrays.stream(people).sorted().boxed().collect(Collectors.toList());
         while (list.size() > 0) {
+            if (list.size() == 1) {
+                answer++;
+                break;
+            }
             int maxIndex = list.size() - 1;
             int max = list.get(maxIndex);
             for (int i = maxIndex - 1; i >= 0; i--) {
