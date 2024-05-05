@@ -6,7 +6,12 @@ public class 구명보트 {
         Arrays.sort(people);
         int minIndex = 0;
         for (int i = people.length - 1; i >= 0; i--) {
-            if (limit >= people[i] + people[minIndex]) {
+            if (i == minIndex) {
+                answer++;
+                break;
+            } else if (i <minIndex) {
+                break;
+            } else if (limit >= people[i] + people[minIndex]) {
                 minIndex++;
                 answer++;
             } else {
