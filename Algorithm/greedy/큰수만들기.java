@@ -28,13 +28,13 @@ public class 큰수만들기 {
                     int is = Integer.parseInt(String.valueOf(number.charAt(index)));
                     int next = Integer.parseInt(String.valueOf(number.charAt(index + 1)));
                     if (index == number.length() - 1) {
-                        number.substring(0, number.length() - 1);
+                        builder.append(number.substring(0, number.length() - 1));
                         count--;
                         break;
                     }else if (is > next) {
                         index++;
                     } else {
-                        number = number.substring(0, index) + number.substring(index + 1);
+                        builder.append(number.substring(0, index)).append(index + 1);
                         count--;
                         break;
                     }
