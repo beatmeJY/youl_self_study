@@ -8,12 +8,9 @@ public class 구명보트 {
         int answer = 0;
         List<Integer> list = Arrays.stream(people).sorted().boxed().collect(Collectors.toList());
 
-        for (int i = 0; i < list.size(); i++) {
-            for (int j = list.size(); j > i; j--) {
-                if (list.get(j) + list.get(i) == limit) {
-                    
-                }
-            }
+        for (int i = list.size() - 1; i >= 0; i--) {
+            Integer big = list.get(i);
+
         }
         return answer;
     }
