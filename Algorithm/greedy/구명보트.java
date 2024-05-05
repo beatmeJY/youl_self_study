@@ -18,10 +18,12 @@ public class 구명보트 {
                 for (int i = maxIndex - 1; i >= 0; i--) {
                     int sum = 0;
                     if (limit <= people[maxIndex] + people[i]) {
+                        if (limit - 40 < people[maxIndex] + people[i]) {
+                            continue;
+                        }
+                        for (int j = i; j >= 0 ; j++) {
 
-                    }
-                    for (int j = i; j >= 0 ; j++) {
-
+                        }
                     }
                 }
 
