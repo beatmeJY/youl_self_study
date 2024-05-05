@@ -9,16 +9,24 @@ public class 구명보트 {
 
         while (true) {
             for (int maxIndex = people.length - 1; maxIndex >= 0; maxIndex--) {
-                int max = people[maxIndex];
+                if (limit - 40 < people[maxIndex]) {
+                    people[maxIndex] = 0;
+                    answer++;
+                    continue;
+                }
                 ArrayList<Integer> sumList = new ArrayList<>();
-                for (int j = maxIndex - 1; j >= 0; j--) {
+                for (int i = maxIndex - 1; i >= 0; i--) {
+                    int sum = 0;
+                    if (limit <= people[maxIndex] + people[i]) {
 
+                    }
+                    for (int j = i; j >= 0 ; j++) {
+
+                    }
                 }
 
             }
         }
-
-
         return answer;
     }
 }
