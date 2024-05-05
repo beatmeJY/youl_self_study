@@ -11,8 +11,8 @@ public class 체육복 {
 
     public static int solution(int n, int[] lost, int[] reserve) {
         int answer = 0;
-        List<Integer> lostList = Arrays.stream(lost).boxed().collect(Collectors.toList());
-        List<Integer> reserveList = Arrays.stream(reserve).boxed().collect(Collectors.toList());
+        List<Integer> lostList = Arrays.stream(lost).sorted().boxed().collect(Collectors.toList());
+        List<Integer> reserveList = Arrays.stream(reserve).sorted().boxed().collect(Collectors.toList());
         for (int lostStudent : lost) {
             if (reserveList.stream().anyMatch(f -> f == lostStudent)) {
                 reserveList.remove((Object)lostStudent);
