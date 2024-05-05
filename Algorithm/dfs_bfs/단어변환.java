@@ -2,7 +2,12 @@ import java.util.Comparator;
 import java.util.PriorityQueue;
 
 public class 단어변환 {
-    public int solution(String begin, String target, String[] words) {
+    public static void main(String[] args) {
+        int result = solution("hit", "cog", new String[]{"hot", "dot", "dog", "lot", "log", "cog"});
+        System.out.println("result = " + result);
+    }
+
+    public static int solution(String begin, String target, String[] words) {
         int answer = 0;
         boolean[] visit = new boolean[words.length];
         PriorityQueue<int[]> queue = new PriorityQueue<>(Comparator.comparing(c -> c[0]));
