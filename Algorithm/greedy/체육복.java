@@ -12,8 +12,8 @@ public class 체육복 {
 
     public static int solution(int n, int[] lost, int[] reserve) {
         int answer = 0;
-        List<Integer> lostList = Arrays.stream(lost).sorted().boxed().collect(Collectors.toList());
-        List<Integer> reserveList = Arrays.stream(lost).sorted().boxed().collect(Collectors.toList());
+        List<Integer> lostList = Arrays.stream(lost).boxed().collect(Collectors.toList());
+        List<Integer> reserveList = Arrays.stream(lost).boxed().collect(Collectors.toList());
         for (int i = 0; i < lost.length; i++) {
             lostList.remove((Object)lost[i]);
             reserveList.remove((Object)lost[i]);
