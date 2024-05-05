@@ -21,12 +21,4 @@ public class 구명보트 {
         return answer;
     }
 
-    private int[] dfs(int[] sumArray) {
-        for (int i = sumArray[sumArray[8]] - 1; i >= 0; i--) {
-            if (limitWeight >= sumArray[0] + peoples[i]) {
-                sumArray[0] = sumArray[0] + peoples[i];
-                sumArray[++sumArray[8]] = i;
-            }
-        }
-    }
 }
