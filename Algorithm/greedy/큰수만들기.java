@@ -1,7 +1,8 @@
 public class 큰수만들기 {
 
     public static void main(String[] args) {
-        solution("")
+        String solution = solution("87549496413", 6);
+        System.out.println("solution = " + solution);
     }
 
     public static String solution(String number, int k) {
@@ -16,7 +17,7 @@ public class 큰수만들기 {
                         max = find;
                     }
                 }
-                int maxPoint = number.indexOf(max);
+                int maxPoint = number.indexOf(""+max);
                 count = count - (maxPoint - index);
                 number = number.substring(0, index) + number.substring(maxPoint);
                 index++;
