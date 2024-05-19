@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "20231120163607_780",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -168,7 +169,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1da151973c71bff9",
+  "active": "e0fd5917a9d51d8b",
   "lastOpenFiles": [
     "out/production/Algorithm/단어변환.class",
     "Algorithm/dfs_bfs/단어변환.java~",
