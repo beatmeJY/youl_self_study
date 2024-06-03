@@ -16,19 +16,8 @@
                 "file": "Excalidraw/스프링/디스패처 서블릿 동작.md"
               }
             }
-          },
-          {
-            "id": "c191610cd6719563",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/스프링/Drawing 2024-06-03 15.56.47.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/스프링/Drawing 2024-06-03 15.56.47.excalidraw.md",
+                "file": "Excalidraw/스프링/디스패처 서블릿 동작.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/스프링/Drawing 2024-06-03 15.56.47.excalidraw.md",
+                "file": "Excalidraw/스프링/디스패처 서블릿 동작.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/스프링/Drawing 2024-06-03 15.56.47.excalidraw.md"
+                "file": "Excalidraw/스프링/디스패처 서블릿 동작.md"
               }
             }
           },
@@ -177,10 +166,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c191610cd6719563",
+  "active": "901051240f6fbe39",
   "lastOpenFiles": [
-    "Excalidraw/스프링/디스패처 서블릿 동작.md",
     "Excalidraw/스프링/Drawing 2024-06-03 15.56.47.excalidraw.md",
+    "Excalidraw/스프링/디스패처 서블릿 동작.md",
     "Excalidraw/스프링/무제 파일.md",
     "Excalidraw/스프링/스밑구 구현 개인 이해도.md",
     "CS/docker/README.md",
