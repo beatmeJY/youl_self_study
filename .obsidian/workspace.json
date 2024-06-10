@@ -26,9 +26,19 @@
                 "currentVersion": "1.6.2"
               }
             }
+          },
+          {
+            "id": "d675cae05e16b7ae",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -177,7 +187,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e410f7ead1d77b9e",
+  "active": "d675cae05e16b7ae",
   "lastOpenFiles": [
     "Excalidraw/스프링/Drawing 2024-06-03 15.56.47.excalidraw.md",
     "Excalidraw/스프링/디스패처 서블릿 동작.md",
