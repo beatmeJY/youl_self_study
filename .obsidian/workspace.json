@@ -4,51 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "53779bc21582ad57",
+        "id": "1a165d2ca27d96db",
         "type": "tabs",
         "children": [
           {
-            "id": "901051240f6fbe39",
+            "id": "988c9fe517fe7497",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/스프링/디스패처 서블릿 동작.md"
+                "file": "Excalidraw/DB/redis/음의 인덱스.md"
               }
             }
           },
           {
-            "id": "e410f7ead1d77b9e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.2"
-              }
-            }
-          },
-          {
-            "id": "d675cae05e16b7ae",
+            "id": "c92f28410d59a134",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/DB/mysql/CrossJoin.md"
-              }
-            }
-          },
-          {
-            "id": "c62ab4f2702b6ea9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/DB/redis/Drawing 2024-06-16 22.43.17.excalidraw.md"
+                "file": "Excalidraw/DB/redis/데이터 백업 RDB AOF.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/DB/redis/Drawing 2024-06-16 22.43.17.excalidraw.md",
+                "file": "Excalidraw/DB/redis/데이터 백업 RDB AOF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/DB/redis/Drawing 2024-06-16 22.43.17.excalidraw.md",
+                "file": "Excalidraw/DB/redis/데이터 백업 RDB AOF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/DB/redis/Drawing 2024-06-16 22.43.17.excalidraw.md"
+                "file": "Excalidraw/DB/redis/데이터 백업 RDB AOF.md"
               }
             }
           },
@@ -197,10 +177,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c62ab4f2702b6ea9",
+  "active": "138c3716a0ee7a62",
   "lastOpenFiles": [
+    "Excalidraw/DB/redis/음의 인덱스.md",
+    "Excalidraw/DB/redis/데이터 백업 RDB AOF.md",
     "Excalidraw/DB/mysql/CrossJoin.md",
-    "Excalidraw/DB/redis/Drawing 2024-06-16 22.43.17.excalidraw.md",
     "Excalidraw/DB/mysql",
     "Excalidraw/DB/redis",
     "Excalidraw/스프링/Drawing 2024-06-03 15.56.47.excalidraw.md",
@@ -244,7 +225,6 @@
     "Excalidraw/OS/싱글 페이징.md",
     "Excalidraw/OS/동기화/교착상태.md",
     "Excalidraw/OS/동기화/식사하는 철학자 비대칭방식.md",
-    "Excalidraw/OS/동기화/임계영역이란.md",
     "Excalidraw/이력서/이력서 구사.canvas",
     "무제 파일.canvas"
   ]
