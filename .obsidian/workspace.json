@@ -26,9 +26,19 @@
                 "file": "Excalidraw/DB/redis/데이터 백업 RDB AOF.md"
               }
             }
+          },
+          {
+            "id": "bfce1a3db0f58b05",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -177,7 +187,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "138c3716a0ee7a62",
+  "active": "bfce1a3db0f58b05",
   "lastOpenFiles": [
     "Excalidraw/DB/redis/음의 인덱스.md",
     "Excalidraw/DB/redis/데이터 백업 RDB AOF.md",
