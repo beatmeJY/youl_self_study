@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 302.5,
+    "collapsed": true
   },
   "right": {
     "id": "fb55f636f0d50750",
@@ -187,7 +188,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0f82e87657a40e04",
+  "active": "138c3716a0ee7a62",
   "lastOpenFiles": [
     "Excalidraw/스프링/Drawing 2024-06-03 15.56.47.excalidraw.md",
     "Excalidraw/스프링/Drawing 2024-06-28 18.07.34.excalidraw.md",
