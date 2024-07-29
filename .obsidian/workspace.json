@@ -36,9 +36,19 @@
                 "file": "Excalidraw/스프링/Drawing 2024-06-28 18.07.34.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "5a3f8a191b1a558a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -188,7 +198,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0f82e87657a40e04",
+  "active": "5a3f8a191b1a558a",
   "lastOpenFiles": [
     "Excalidraw/DB/redis/데이터 백업 RDB AOF.md",
     "Excalidraw/스프링/Drawing 2024-06-28 18.07.34.excalidraw.md",
