@@ -11,11 +11,24 @@
             "id": "eb963cbecc48908a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/스프링/디스패처 서블릿 동작.md"
+              }
+            }
+          },
+          {
+            "id": "4e50351a0f38a701",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/스프링/인코딩 디코딩.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/DB/redis/데이터 백업 RDB AOF.md",
+                "file": "Excalidraw/스프링/인코딩 디코딩.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/DB/redis/데이터 백업 RDB AOF.md",
+                "file": "Excalidraw/스프링/인코딩 디코딩.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/DB/redis/데이터 백업 RDB AOF.md"
+                "file": "Excalidraw/스프링/인코딩 디코딩.md"
               }
             }
           },
@@ -164,21 +177,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "138c3716a0ee7a62",
+  "active": "4e50351a0f38a701",
   "lastOpenFiles": [
+    "Excalidraw/스프링/디스패처 서블릿 동작.md",
     "Excalidraw/스프링/인코딩 디코딩.md",
-    "Excalidraw/스프링/Drawing 2024-06-28 18.07.34.excalidraw.md",
+    "Excalidraw/스프링/무제 파일.md",
+    "Excalidraw/스프링/BufferedReader.ready().md",
+    "Excalidraw/스프링/인코딩 디코딩.md",
+    "Excalidraw/스프링/스밑구 구현 개인 이해도.md",
+    "Excalidraw/스프링/스프링 WAS 구조.md",
     "Excalidraw/스프링/Drawing 2024-06-03 15.56.47.excalidraw.md",
+    "Excalidraw/스프링/Drawing 2024-06-28 18.07.34.excalidraw.md",
+    "Excalidraw/스프링",
     "Excalidraw/DB/redis/데이터 백업 RDB AOF.md",
     "Excalidraw/DB/redis/음의 인덱스.md",
     "Excalidraw/DB/mysql/CrossJoin.md",
     "Excalidraw/DB/mysql",
     "Excalidraw/DB/redis",
-    "Excalidraw/스프링/디스패처 서블릿 동작.md",
-    "Excalidraw/스프링/스밑구 구현 개인 이해도.md",
     "CS/docker/README.md",
     "Excalidraw/Drawing 2024-05-04 00.02.33.excalidraw.md",
-    "Excalidraw/스프링/스프링 WAS 구조.md",
     "Spring/MVC/README.md",
     "Spring/Test/README.md",
     "Algorithm/코딩 테스트 여러 라이브러리.md",
@@ -189,7 +206,6 @@
     "out/production/Algorithm/체육복.class",
     "Algorithm/greedy/구명보트.java~",
     "Algorithm/greedy/구명보트.java",
-    "Algorithm/greedy/체육복.java",
     "CS/git/README.md",
     "Excalidraw/OS/동기화/경쟁상태.md",
     "Excalidraw/로그인/세션 로그인.md",
@@ -198,7 +214,6 @@
     "images/Pasted Image 20240413151546_233.png",
     "images/도커 정리 그림.png",
     "README.md",
-    "Excalidraw/스프링/BufferedReader.ready().md",
     "images/Pasted Image 20231120163607_780.png",
     "Excalidraw/스프링/Drawing 2023-12-21 21.31.25.excalidraw.md",
     "images/Pasted Image 20240123190224_151.png",
@@ -210,8 +225,6 @@
     "Excalidraw/DB/mysql/Index 스캔 종류.md",
     "Excalidraw/OS/Two-Level 페이징.md",
     "Excalidraw/Drawing 2024-01-07 21.52.55.excalidraw.md",
-    "Excalidraw/OS/싱글 페이징.md",
-    "Excalidraw/OS/동기화/교착상태.md",
     "Excalidraw/이력서/이력서 구사.canvas",
     "무제 파일.canvas"
   ]
