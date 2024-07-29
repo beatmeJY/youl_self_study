@@ -4,51 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1a165d2ca27d96db",
+        "id": "18a9ace824e6ee34",
         "type": "tabs",
         "children": [
           {
-            "id": "988c9fe517fe7497",
+            "id": "eb963cbecc48908a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/DB/redis/음의 인덱스.md"
-              }
-            }
-          },
-          {
-            "id": "c92f28410d59a134",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/DB/redis/데이터 백업 RDB AOF.md"
-              }
-            }
-          },
-          {
-            "id": "0f82e87657a40e04",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/스프링/Drawing 2024-06-28 18.07.34.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "5a3f8a191b1a558a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5,
-    "collapsed": true
+    "width": 302.5
   },
   "right": {
     "id": "fb55f636f0d50750",
@@ -115,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/스프링/Drawing 2024-06-28 18.07.34.excalidraw.md",
+                "file": "Excalidraw/DB/redis/데이터 백업 RDB AOF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/스프링/Drawing 2024-06-28 18.07.34.excalidraw.md",
+                "file": "Excalidraw/DB/redis/데이터 백업 RDB AOF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/스프링/Drawing 2024-06-28 18.07.34.excalidraw.md"
+                "file": "Excalidraw/DB/redis/데이터 백업 RDB AOF.md"
               }
             }
           },
@@ -198,17 +164,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5a3f8a191b1a558a",
+  "active": "138c3716a0ee7a62",
   "lastOpenFiles": [
-    "Excalidraw/DB/redis/데이터 백업 RDB AOF.md",
+    "Excalidraw/스프링/인코딩 디코딩.md",
     "Excalidraw/스프링/Drawing 2024-06-28 18.07.34.excalidraw.md",
-    "Excalidraw/DB/redis/음의 인덱스.md",
     "Excalidraw/스프링/Drawing 2024-06-03 15.56.47.excalidraw.md",
+    "Excalidraw/DB/redis/데이터 백업 RDB AOF.md",
+    "Excalidraw/DB/redis/음의 인덱스.md",
     "Excalidraw/DB/mysql/CrossJoin.md",
     "Excalidraw/DB/mysql",
     "Excalidraw/DB/redis",
     "Excalidraw/스프링/디스패처 서블릿 동작.md",
-    "Excalidraw/스프링/무제 파일.md",
     "Excalidraw/스프링/스밑구 구현 개인 이해도.md",
     "CS/docker/README.md",
     "Excalidraw/Drawing 2024-05-04 00.02.33.excalidraw.md",
