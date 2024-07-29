@@ -168,6 +168,7 @@
   },
   "active": "138c3716a0ee7a62",
   "lastOpenFiles": [
+    "Fonts/BMJUA_ttf.ttf",
     "Fonts",
     "images/Pasted Image 20240729160043_317.png",
     "images/Pasted Image 20240729155827_288.png",
@@ -197,7 +198,6 @@
     "out/production/Algorithm/구명보트.class",
     "out/production/Algorithm/체육복.class",
     "Algorithm/greedy/구명보트.java~",
-    "Algorithm/greedy/구명보트.java",
     "CS/git/README.md",
     "Excalidraw/OS/동기화/경쟁상태.md",
     "Excalidraw/로그인/세션 로그인.md",
