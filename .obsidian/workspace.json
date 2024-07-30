@@ -16,8 +16,19 @@
                 "file": "Excalidraw/스프링/인코딩 디코딩.md"
               }
             }
+          },
+          {
+            "id": "2444c6a1653c950a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/dailyge/Drawing 2024-07-30 17.58.50.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/스프링/인코딩 디코딩.md",
+                "file": "Excalidraw/dailyge/Drawing 2024-07-30 17.58.50.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/스프링/인코딩 디코딩.md",
+                "file": "Excalidraw/dailyge/Drawing 2024-07-30 17.58.50.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/스프링/인코딩 디코딩.md"
+                "file": "Excalidraw/dailyge/Drawing 2024-07-30 17.58.50.excalidraw.md"
               }
             }
           },
@@ -166,8 +177,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "138c3716a0ee7a62",
+  "active": "2444c6a1653c950a",
   "lastOpenFiles": [
+    "Excalidraw/스프링/인코딩 디코딩.md",
+    "Excalidraw/dailyge/Drawing 2024-07-30 17.58.50.excalidraw.md",
+    "Excalidraw/dailyge",
     "Fonts/BMJUA_ttf.ttf",
     "Fonts",
     "images/Pasted Image 20240729160043_317.png",
@@ -177,7 +191,6 @@
     "Excalidraw/스프링/Drawing 2024-06-03 15.56.47.excalidraw.md",
     "Excalidraw/스프링/디스패처 서블릿 동작.md",
     "images/Pasted Image 20240729155646_409.png",
-    "Excalidraw/스프링/인코딩 디코딩.md",
     "Excalidraw/스프링/무제 파일.md",
     "Excalidraw/스프링/스밑구 구현 개인 이해도.md",
     "Excalidraw/스프링/스프링 WAS 구조.md",
@@ -196,8 +209,6 @@
     "Algorithm/dfs_bfs/단어변환.java~",
     "Algorithm/dfs_bfs/단어변환.java",
     "out/production/Algorithm/구명보트.class",
-    "out/production/Algorithm/체육복.class",
-    "Algorithm/greedy/구명보트.java~",
     "CS/git/README.md",
     "Excalidraw/OS/동기화/경쟁상태.md",
     "Excalidraw/로그인/세션 로그인.md",
