@@ -4,26 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "18a9ace824e6ee34",
+        "id": "958a33efad91bc6a",
         "type": "tabs",
         "children": [
           {
-            "id": "eb963cbecc48908a",
+            "id": "49474514bd24e852",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/스프링/인코딩 디코딩.md"
+                "file": "Excalidraw/Drawing 2024-05-04 00.02.33.excalidraw.md"
               }
             }
           },
           {
-            "id": "2444c6a1653c950a",
+            "id": "a9b9b3f8c647585d",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/dailyge/Drawing 2024-07-30 17.58.50.excalidraw.md"
+                "file": "Excalidraw/dailyge/Drawing 2024-08-10 14.12.09.excalidraw.md"
               }
             }
           }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5,
-    "collapsed": true
+    "width": 302.5
   },
   "right": {
     "id": "fb55f636f0d50750",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/dailyge/Drawing 2024-07-30 17.58.50.excalidraw.md",
+                "file": "Excalidraw/dailyge/Drawing 2024-08-10 14.12.09.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/dailyge/Drawing 2024-07-30 17.58.50.excalidraw.md",
+                "file": "Excalidraw/dailyge/Drawing 2024-08-10 14.12.09.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/dailyge/Drawing 2024-07-30 17.58.50.excalidraw.md"
+                "file": "Excalidraw/dailyge/Drawing 2024-08-10 14.12.09.excalidraw.md"
               }
             }
           },
@@ -173,13 +172,18 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "canvas:새 캔버스 만들기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2444c6a1653c950a",
+  "active": "138c3716a0ee7a62",
   "lastOpenFiles": [
-    "Excalidraw/스프링/인코딩 디코딩.md",
     "Excalidraw/dailyge/Drawing 2024-07-30 17.58.50.excalidraw.md",
+    "Excalidraw/dailyge/Drawing 2024-08-10 14.12.09.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-04 00.02.33.excalidraw.md",
+    "Excalidraw/dailyge/무제 파일.md",
+    "Excalidraw/스프링/인코딩 디코딩.md",
     "Excalidraw/dailyge",
     "Fonts/BMJUA_ttf.ttf",
     "Fonts",
@@ -200,7 +204,6 @@
     "Excalidraw/DB/mysql",
     "Excalidraw/DB/redis",
     "CS/docker/README.md",
-    "Excalidraw/Drawing 2024-05-04 00.02.33.excalidraw.md",
     "Spring/MVC/README.md",
     "Spring/Test/README.md",
     "Algorithm/코딩 테스트 여러 라이브러리.md",
@@ -222,7 +225,6 @@
     "images/Pasted Image 20240114212154_585.png",
     "Excalidraw/DB/mysql/Index B-tree vs 다른 인덱스.md",
     "Excalidraw/DB/mysql/Index 스캔 종류.md",
-    "Excalidraw/OS/Two-Level 페이징.md",
     "Excalidraw/이력서/이력서 구사.canvas",
     "무제 파일.canvas"
   ]
