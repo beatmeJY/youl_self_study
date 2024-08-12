@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eb963cbecc48908a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/스프링/인코딩 디코딩.md"
-              }
-            }
-          },
-          {
             "id": "a42f07a76e8bbec8",
             "type": "leaf",
             "state": {
@@ -27,8 +17,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
