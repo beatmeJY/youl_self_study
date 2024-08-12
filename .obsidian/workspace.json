@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 302.5,
+    "collapsed": true
   },
   "right": {
     "id": "fb55f636f0d50750",
@@ -177,7 +178,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "138c3716a0ee7a62",
+  "active": "a42f07a76e8bbec8",
   "lastOpenFiles": [
     "Excalidraw/스프링/인코딩 디코딩.md",
     "Excalidraw/dailyge/깃 브랜치전략 깃 플로우.md",
