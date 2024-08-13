@@ -16,8 +16,19 @@
                 "file": "Excalidraw/dailyge/깃 브랜치전략 깃 플로우.md"
               }
             }
+          },
+          {
+            "id": "d01a307e540c9834",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Java/스트림.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5,
-    "collapsed": true
+    "width": 302.5
   },
   "right": {
     "id": "fb55f636f0d50750",
@@ -84,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/dailyge/깃 브랜치전략 깃 플로우.md",
+                "file": "Excalidraw/Java/스트림.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/dailyge/깃 브랜치전략 깃 플로우.md",
+                "file": "Excalidraw/Java/스트림.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/dailyge/깃 브랜치전략 깃 플로우.md"
+                "file": "Excalidraw/Java/스트림.md"
               }
             }
           },
@@ -167,11 +177,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a42f07a76e8bbec8",
+  "active": "138c3716a0ee7a62",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-05-04 00.02.33.excalidraw.md",
+    "Excalidraw/Java/스트림.md",
+    "Excalidraw/dailyge/깃 브랜치전략 깃 플로우.md",
+    "Excalidraw/Java",
+    "Excalidraw/무제 파일.md",
+    "Excalidraw/스프링/무제 파일.md",
     "images/Pasted Image 20240812225126_118.png",
     "Excalidraw/스프링/인코딩 디코딩.md",
-    "Excalidraw/dailyge/깃 브랜치전략 깃 플로우.md",
     "Excalidraw/dailyge/Drawing 2024-07-30 17.58.50.excalidraw.md",
     "Excalidraw/dailyge/Drawing 2024-08-10 14.12.09.excalidraw.md",
     "Excalidraw/dailyge",
@@ -184,7 +199,6 @@
     "Excalidraw/스프링/Drawing 2024-06-03 15.56.47.excalidraw.md",
     "Excalidraw/스프링/디스패처 서블릿 동작.md",
     "images/Pasted Image 20240729155646_409.png",
-    "Excalidraw/스프링/무제 파일.md",
     "Excalidraw/스프링/스밑구 구현 개인 이해도.md",
     "Excalidraw/스프링/스프링 WAS 구조.md",
     "Excalidraw/스프링",
@@ -194,14 +208,12 @@
     "Excalidraw/DB/mysql",
     "Excalidraw/DB/redis",
     "CS/docker/README.md",
-    "Excalidraw/Drawing 2024-05-04 00.02.33.excalidraw.md",
     "Spring/MVC/README.md",
     "Spring/Test/README.md",
     "Algorithm/코딩 테스트 여러 라이브러리.md",
     "out/production/Algorithm/단어변환.class",
     "Algorithm/dfs_bfs/단어변환.java~",
     "Algorithm/dfs_bfs/단어변환.java",
-    "out/production/Algorithm/구명보트.class",
     "CS/git/README.md",
     "Excalidraw/OS/동기화/경쟁상태.md",
     "Excalidraw/로그인/세션 로그인.md",
@@ -213,8 +225,6 @@
     "images/Pasted Image 20231120163607_780.png",
     "Excalidraw/스프링/Drawing 2023-12-21 21.31.25.excalidraw.md",
     "images/Pasted Image 20240123190224_151.png",
-    "images/Pasted Image 20240114212154_585.png",
-    "Excalidraw/DB/mysql/Index B-tree vs 다른 인덱스.md",
     "Excalidraw/이력서/이력서 구사.canvas",
     "무제 파일.canvas"
   ]
