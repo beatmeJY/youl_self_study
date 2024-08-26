@@ -26,9 +26,19 @@
                 "file": "Excalidraw/Java/스트림.md"
               }
             }
+          },
+          {
+            "id": "3c135ac13ea492bb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/dailyge/Drawing 2024-08-26 19.57.40.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Java/스트림.md",
+                "file": "Excalidraw/dailyge/Drawing 2024-08-26 19.57.40.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Java/스트림.md",
+                "file": "Excalidraw/dailyge/Drawing 2024-08-26 19.57.40.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Java/스트림.md"
+                "file": "Excalidraw/dailyge/Drawing 2024-08-26 19.57.40.excalidraw.md"
               }
             }
           },
@@ -177,18 +187,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d01a307e540c9834",
+  "active": "3c135ac13ea492bb",
   "lastOpenFiles": [
+    "Excalidraw/dailyge/Drawing 2024-08-10 14.12.09.excalidraw.md",
+    "Excalidraw/dailyge/Drawing 2024-07-30 17.58.50.excalidraw.md",
+    "Spring/클래스_인터페이스/README.md",
+    "Excalidraw/dailyge/Drawing 2024-08-26 19.57.40.excalidraw.md",
+    "Excalidraw/Java/스트림.md",
+    "Excalidraw/dailyge/무제 파일.md",
     "Excalidraw/dailyge/깃 브랜치전략 깃 플로우.md",
     "Excalidraw/Drawing 2024-05-04 00.02.33.excalidraw.md",
-    "Excalidraw/Java/스트림.md",
     "Excalidraw/Java",
     "Excalidraw/무제 파일.md",
     "Excalidraw/스프링/무제 파일.md",
     "images/Pasted Image 20240812225126_118.png",
     "Excalidraw/스프링/인코딩 디코딩.md",
-    "Excalidraw/dailyge/Drawing 2024-07-30 17.58.50.excalidraw.md",
-    "Excalidraw/dailyge/Drawing 2024-08-10 14.12.09.excalidraw.md",
     "Excalidraw/dailyge",
     "Fonts/BMJUA_ttf.ttf",
     "Fonts",
@@ -216,14 +229,11 @@
     "Algorithm/dfs_bfs/단어변환.java",
     "CS/git/README.md",
     "Excalidraw/OS/동기화/경쟁상태.md",
-    "Excalidraw/로그인/세션 로그인.md",
     "images/Pasted Image 20240413151802_299.png",
     "images/Pasted Image 20240413151731_297.png",
     "images/Pasted Image 20240413151546_233.png",
     "images/도커 정리 그림.png",
-    "README.md",
     "images/Pasted Image 20231120163607_780.png",
-    "Excalidraw/스프링/Drawing 2023-12-21 21.31.25.excalidraw.md",
     "images/Pasted Image 20240123190224_151.png",
     "Excalidraw/이력서/이력서 구사.canvas",
     "무제 파일.canvas"
