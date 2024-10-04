@@ -1,3 +1,5 @@
+package dfs_bfs;
+
 import java.util.Comparator;
 import java.util.PriorityQueue;
 

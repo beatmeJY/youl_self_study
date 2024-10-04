@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Question {
+public class Question2 {
     static StringBuilder builder = new StringBuilder(1000000);
 
     public static void main(String[] args) {
