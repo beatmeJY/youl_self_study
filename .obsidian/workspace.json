@@ -36,9 +36,19 @@
                 "file": "Excalidraw/dailyge/Drawing 2024-08-26 19.57.40.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "05d451d86e0e3e18",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/dailyge/Drawing 2024-10-04 13.28.27.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -104,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/dailyge/Drawing 2024-08-26 19.57.40.excalidraw.md",
+                "file": "Excalidraw/dailyge/Drawing 2024-10-04 13.28.27.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/dailyge/Drawing 2024-08-26 19.57.40.excalidraw.md",
+                "file": "Excalidraw/dailyge/Drawing 2024-10-04 13.28.27.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/dailyge/Drawing 2024-08-26 19.57.40.excalidraw.md"
+                "file": "Excalidraw/dailyge/Drawing 2024-10-04 13.28.27.excalidraw.md"
               }
             }
           },
@@ -187,12 +197,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3c135ac13ea492bb",
+  "active": "05d451d86e0e3e18",
   "lastOpenFiles": [
+    "Excalidraw/dailyge/Drawing 2024-08-26 19.57.40.excalidraw.md",
+    "Excalidraw/dailyge/Drawing 2024-10-04 13.28.27.excalidraw.md",
     "Excalidraw/dailyge/Drawing 2024-08-10 14.12.09.excalidraw.md",
     "Excalidraw/dailyge/Drawing 2024-07-30 17.58.50.excalidraw.md",
     "Spring/클래스_인터페이스/README.md",
-    "Excalidraw/dailyge/Drawing 2024-08-26 19.57.40.excalidraw.md",
     "Excalidraw/Java/스트림.md",
     "Excalidraw/dailyge/무제 파일.md",
     "Excalidraw/dailyge/깃 브랜치전략 깃 플로우.md",
@@ -228,7 +239,6 @@
     "Algorithm/dfs_bfs/단어변환.java~",
     "Algorithm/dfs_bfs/단어변환.java",
     "CS/git/README.md",
-    "Excalidraw/OS/동기화/경쟁상태.md",
     "images/Pasted Image 20240413151802_299.png",
     "images/Pasted Image 20240413151731_297.png",
     "images/Pasted Image 20240413151546_233.png",
