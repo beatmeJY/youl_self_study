@@ -7,10 +7,6 @@ public class 충돌위험찾기 {
         int[] position = new int[routes.length];
         int answer = 0;
 
-        if () {
-            
-        }
-
         return answer;
     }
 
