@@ -46,9 +46,19 @@
                 "file": "Excalidraw/dailyge/부분 암호화 전체암호화 차이.md"
               }
             }
+          },
+          {
+            "id": "a8a43e71910ca436",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/dailyge/Drawing 2024-10-11 12.09.12.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -114,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/dailyge/부분 암호화 전체암호화 차이.md",
+                "file": "Excalidraw/dailyge/Drawing 2024-10-11 12.09.12.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/dailyge/부분 암호화 전체암호화 차이.md",
+                "file": "Excalidraw/dailyge/Drawing 2024-10-11 12.09.12.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/dailyge/부분 암호화 전체암호화 차이.md"
+                "file": "Excalidraw/dailyge/Drawing 2024-10-11 12.09.12.excalidraw.md"
               }
             }
           },
@@ -197,11 +207,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "05d451d86e0e3e18",
+  "active": "a8a43e71910ca436",
   "lastOpenFiles": [
+    "Excalidraw/dailyge/부분 암호화 전체암호화 차이.md",
+    "Excalidraw/dailyge/Drawing 2024-10-11 12.09.12.excalidraw.md",
     "Excalidraw/dailyge/Drawing 2024-08-10 14.12.09.excalidraw.md",
     "Excalidraw/dailyge/회고 초안.md",
-    "Excalidraw/dailyge/부분 암호화 전체암호화 차이.md",
     "Excalidraw/dailyge/Drawing 2024-07-30 17.58.50.excalidraw.md",
     "Excalidraw/dailyge/월 주차 구하기.md",
     "Excalidraw/dailyge/깃 브랜치전략 깃 플로우.md",
@@ -235,7 +246,6 @@
     "CS/docker/README.md",
     "Spring/MVC/README.md",
     "Spring/Test/README.md",
-    "Algorithm/코딩 테스트 여러 라이브러리.md",
     "out/production/Algorithm/단어변환.class",
     "Algorithm/dfs_bfs/단어변환.java~",
     "Algorithm/dfs_bfs/단어변환.java",
