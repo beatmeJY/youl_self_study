@@ -33,7 +33,7 @@ Thread 1 ^Lgbn33be
 
 3초 대기 후 실행 ^pfm2tsuU
 
-반환 ^fLtPpKi1
+쓰레드 반환 ^fLtPpKi1
 
 %%
 # Drawing
@@ -1156,9 +1156,9 @@ Thread 1 ^Lgbn33be
 		{
 			"id": "fLtPpKi1",
 			"type": "text",
-			"x": -336,
-			"y": 245.7578125,
-			"width": 33.65998840332031,
+			"x": -307,
+			"y": 234.7578125,
+			"width": 86.17996215820312,
 			"height": 24,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -1172,22 +1172,22 @@ Thread 1 ^Lgbn33be
 			"frameId": null,
 			"roundness": null,
 			"seed": 1591296954,
-			"version": 27,
-			"versionNonce": 1961564518,
+			"version": 77,
+			"versionNonce": 182630522,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1729610224156,
+			"updated": 1729610231545,
 			"link": null,
 			"locked": false,
-			"text": "반환",
-			"rawText": "반환",
+			"text": "쓰레드 반환",
+			"rawText": "쓰레드 반환",
 			"fontSize": 20,
 			"fontFamily": 4,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"baseline": 17,
 			"containerId": null,
-			"originalText": "반환",
+			"originalText": "쓰레드 반환",
 			"lineHeight": 1.2
 		},
 		{
