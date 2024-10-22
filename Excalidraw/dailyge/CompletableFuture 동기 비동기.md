@@ -14,9 +14,9 @@ A ^AdsXN3FW
 
 B도 처리 완료 ^N3Avy4DK
 
-A 처리 해줘 ^Sf2U85tT
+A 처리 해줘! ^Sf2U85tT
 
-A 처리 완료! ^mxhT4CAw
+A 처리 완료 ^mxhT4CAw
 
 B도 처리 해줄래 ^DBxR1LOz
 
@@ -443,7 +443,7 @@ Thread 1 ^Lgbn33be
 			"type": "text",
 			"x": -117,
 			"y": -283.0421875,
-			"width": 123.70396423339844,
+			"width": 131.96395874023438,
 			"height": 33.6,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -457,22 +457,22 @@ Thread 1 ^Lgbn33be
 			"frameId": null,
 			"roundness": null,
 			"seed": 201093434,
-			"version": 57,
-			"versionNonce": 1167965050,
+			"version": 58,
+			"versionNonce": 1816207418,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1729610200365,
+			"updated": 1729610358593,
 			"link": null,
 			"locked": false,
-			"text": "A 처리 해줘",
-			"rawText": "A 처리 해줘",
+			"text": "A 처리 해줘!",
+			"rawText": "A 처리 해줘!",
 			"fontSize": 28,
 			"fontFamily": 4,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"baseline": 23,
 			"containerId": null,
-			"originalText": "A 처리 해줘",
+			"originalText": "A 처리 해줘!",
 			"lineHeight": 1.2
 		},
 		{
@@ -480,7 +480,7 @@ Thread 1 ^Lgbn33be
 			"type": "text",
 			"x": -117,
 			"y": -73.54218750000001,
-			"width": 131.9359588623047,
+			"width": 123.67596435546875,
 			"height": 33.6,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -494,22 +494,22 @@ Thread 1 ^Lgbn33be
 			"frameId": null,
 			"roundness": null,
 			"seed": 210647546,
-			"version": 107,
-			"versionNonce": 952717606,
+			"version": 108,
+			"versionNonce": 1980140858,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1729610200365,
+			"updated": 1729610357047,
 			"link": null,
 			"locked": false,
-			"text": "A 처리 완료!",
-			"rawText": "A 처리 완료!",
+			"text": "A 처리 완료",
+			"rawText": "A 처리 완료",
 			"fontSize": 28,
 			"fontFamily": 4,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"baseline": 23,
 			"containerId": null,
-			"originalText": "A 처리 완료!",
+			"originalText": "A 처리 완료",
 			"lineHeight": 1.2
 		},
 		{
@@ -552,8 +552,8 @@ Thread 1 ^Lgbn33be
 		{
 			"id": "N3Avy4DK",
 			"type": "text",
-			"x": -116,
-			"y": 169.4578125,
+			"x": -116.5,
+			"y": 168.4578125,
 			"width": 142.4359588623047,
 			"height": 33.6,
 			"angle": 0,
@@ -568,11 +568,11 @@ Thread 1 ^Lgbn33be
 			"frameId": null,
 			"roundness": null,
 			"seed": 825197434,
-			"version": 218,
-			"versionNonce": 1930443878,
+			"version": 224,
+			"versionNonce": 1576853094,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1729610200365,
+			"updated": 1729610354956,
 			"link": null,
 			"locked": false,
 			"text": "B도 처리 완료",
@@ -1573,8 +1573,8 @@ Thread 1 ^Lgbn33be
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 670.5,
-		"scrollY": 476.7578125,
+		"scrollX": 657,
+		"scrollY": 527.2578125,
 		"zoom": {
 			"value": 1
 		},
