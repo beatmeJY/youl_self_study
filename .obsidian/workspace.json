@@ -4,61 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "18a9ace824e6ee34",
+        "id": "f6ca43f0fc46dffe",
         "type": "tabs",
         "children": [
           {
-            "id": "a42f07a76e8bbec8",
+            "id": "d592b1b7af0f467a",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/dailyge/깃 브랜치전략 깃 플로우.md"
-              }
-            }
-          },
-          {
-            "id": "d01a307e540c9834",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Java/스트림.md"
-              }
-            }
-          },
-          {
-            "id": "3c135ac13ea492bb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/dailyge/부분 암호화 전체암호화 차이.md"
-              }
-            }
-          },
-          {
-            "id": "05d451d86e0e3e18",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/dailyge/부분 암호화 전체암호화 차이.md"
-              }
-            }
-          },
-          {
-            "id": "a8a43e71910ca436",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/dailyge/Drawing 2024-10-11 12.09.12.excalidraw.md"
-              }
+                "file": "Excalidraw/dailyge/CompletableFuture 동기 비동기.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "CompletableFuture 동기 비동기"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +39,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           },
           {
@@ -93,7 +56,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
@@ -101,7 +66,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -124,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/dailyge/Drawing 2024-10-11 12.09.12.excalidraw.md",
+                "file": "Excalidraw/dailyge/CompletableFuture 동기 비동기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +99,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "CompletableFuture 동기 비동기의 백링크"
             }
           },
           {
@@ -141,10 +110,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/dailyge/Drawing 2024-10-11 12.09.12.excalidraw.md",
+                "file": "Excalidraw/dailyge/CompletableFuture 동기 비동기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "CompletableFuture 동기 비동기의 나가는 링크"
             }
           },
           {
@@ -155,7 +126,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -164,8 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/dailyge/Drawing 2024-10-11 12.09.12.excalidraw.md"
-              }
+                "file": "Excalidraw/dailyge/CompletableFuture 동기 비동기.md"
+              },
+              "icon": "lucide-list",
+              "title": "CompletableFuture 동기 비동기 개요"
             }
           },
           {
@@ -173,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -185,7 +162,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화되지 않음"
             }
           }
         ],
@@ -207,19 +186,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a8a43e71910ca436",
+  "active": "138c3716a0ee7a62",
   "lastOpenFiles": [
-    "images/Pasted Image 20241011121008_638.png",
+    "Excalidraw/dailyge/CompletableFuture 동기 비동기.md",
+    "Excalidraw/dailyge/CompletableFuture 동기 비동기.md",
+    "Excalidraw/dailyge/깃 브랜치전략 깃 플로우.md",
+    "Excalidraw/Java/스트림.md",
     "Excalidraw/dailyge/부분 암호화 전체암호화 차이.md",
+    "images/Pasted Image 20241011121008_638.png",
     "Excalidraw/dailyge/Drawing 2024-10-11 12.09.12.excalidraw.md",
     "Excalidraw/dailyge/Drawing 2024-08-10 14.12.09.excalidraw.md",
     "Excalidraw/dailyge/회고 초안.md",
     "Excalidraw/dailyge/Drawing 2024-07-30 17.58.50.excalidraw.md",
     "Excalidraw/dailyge/월 주차 구하기.md",
-    "Excalidraw/dailyge/깃 브랜치전략 깃 플로우.md",
     "Spring/클래스_인터페이스/README.md",
-    "Excalidraw/Java/스트림.md",
-    "Excalidraw/dailyge/무제 파일.md",
     "Excalidraw/Drawing 2024-05-04 00.02.33.excalidraw.md",
     "Excalidraw/Java",
     "Excalidraw/무제 파일.md",
@@ -254,7 +234,6 @@
     "images/Pasted Image 20240413151546_233.png",
     "images/도커 정리 그림.png",
     "images/Pasted Image 20231120163607_780.png",
-    "images/Pasted Image 20240123190224_151.png",
     "Excalidraw/이력서/이력서 구사.canvas",
     "무제 파일.canvas"
   ]
