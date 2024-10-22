@@ -18,14 +18,14 @@ A 처리 해줘 ^Sf2U85tT
 
 A 처리 완료! ^mxhT4CAw
 
-B도 처리 해줘 ^DBxR1LOz
+B도 처리 해줄래 ^DBxR1LOz
 
-2초 ^jYhMQHcm
+2초 소요 ^jYhMQHcm
 
 외부
 API ^t8XEDQUQ
 
-3초 ^2RL3fe8J
+3초 소요 ^2RL3fe8J
 
 총 소요 시간 5초 ^fiqKYMMw
 
@@ -534,9 +534,9 @@ Thread 1 ^Lgbn33be
 		{
 			"id": "DBxR1LOz",
 			"type": "text",
-			"x": -120,
+			"x": -123.5,
 			"y": 13.957812499999989,
-			"width": 142.46395874023438,
+			"width": 165.4519500732422,
 			"height": 33.6,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -550,22 +550,22 @@ Thread 1 ^Lgbn33be
 			"frameId": null,
 			"roundness": null,
 			"seed": 1365830330,
-			"version": 190,
-			"versionNonce": 100382182,
+			"version": 209,
+			"versionNonce": 291534886,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1729610042732,
+			"updated": 1729610161744,
 			"link": null,
 			"locked": false,
-			"text": "B도 처리 해줘",
-			"rawText": "B도 처리 해줘",
+			"text": "B도 처리 해줄래",
+			"rawText": "B도 처리 해줄래",
 			"fontSize": 28,
 			"fontFamily": 4,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"baseline": 23,
 			"containerId": null,
-			"originalText": "B도 처리 해줘",
+			"originalText": "B도 처리 해줄래",
 			"lineHeight": 1.2
 		},
 		{
@@ -613,11 +613,11 @@ Thread 1 ^Lgbn33be
 			"width": 22.5,
 			"height": 191.5,
 			"angle": 0,
-			"strokeColor": "#1e1e1e",
+			"strokeColor": "#e03131",
 			"backgroundColor": "#ebfbee",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
-			"strokeStyle": "solid",
+			"strokeStyle": "dotted",
 			"roughness": 0,
 			"opacity": 100,
 			"groupIds": [],
@@ -626,11 +626,11 @@ Thread 1 ^Lgbn33be
 				"type": 2
 			},
 			"seed": 908395578,
-			"version": 430,
-			"versionNonce": 756368954,
+			"version": 432,
+			"versionNonce": 1269076538,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1729610113544,
+			"updated": 1729610126410,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -659,12 +659,12 @@ Thread 1 ^Lgbn33be
 		{
 			"id": "2RL3fe8J",
 			"type": "text",
-			"x": 102.5,
-			"y": -153.7421875,
-			"width": 38.135986328125,
-			"height": 33.6,
+			"x": 76,
+			"y": -148.9421875,
+			"width": 64.719970703125,
+			"height": 24,
 			"angle": 0,
-			"strokeColor": "#1e1e1e",
+			"strokeColor": "#e03131",
 			"backgroundColor": "#ebfbee",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
@@ -675,22 +675,22 @@ Thread 1 ^Lgbn33be
 			"frameId": null,
 			"roundness": null,
 			"seed": 707554554,
-			"version": 211,
-			"versionNonce": 785938342,
+			"version": 255,
+			"versionNonce": 497703334,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1729610042732,
+			"updated": 1729610140644,
 			"link": null,
 			"locked": false,
-			"text": "3초",
-			"rawText": "3초",
-			"fontSize": 28,
+			"text": "3초 소요",
+			"rawText": "3초 소요",
+			"fontSize": 20,
 			"fontFamily": 4,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 23,
+			"baseline": 17,
 			"containerId": null,
-			"originalText": "3초",
+			"originalText": "3초 소요",
 			"lineHeight": 1.2
 		},
 		{
@@ -785,14 +785,14 @@ Thread 1 ^Lgbn33be
 			"type": "line",
 			"x": 179.50000000000003,
 			"y": 18.2578125,
-			"width": 23,
+			"width": 20,
 			"height": 130.5,
 			"angle": 0,
-			"strokeColor": "#1e1e1e",
+			"strokeColor": "#e03131",
 			"backgroundColor": "#ebfbee",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
-			"strokeStyle": "solid",
+			"strokeStyle": "dotted",
 			"roughness": 0,
 			"opacity": 100,
 			"groupIds": [],
@@ -801,11 +801,11 @@ Thread 1 ^Lgbn33be
 				"type": 2
 			},
 			"seed": 220001914,
-			"version": 596,
-			"versionNonce": 635967034,
+			"version": 606,
+			"versionNonce": 936638650,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1729610106541,
+			"updated": 1729610124484,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -814,8 +814,8 @@ Thread 1 ^Lgbn33be
 					0
 				],
 				[
-					-22.5,
-					56.5
+					-19.5,
+					63
 				],
 				[
 					0.5,
@@ -834,12 +834,12 @@ Thread 1 ^Lgbn33be
 		{
 			"id": "jYhMQHcm",
 			"type": "text",
-			"x": 102.5,
-			"y": 59.7578125,
-			"width": 39.11598205566406,
-			"height": 33.6,
+			"x": 83.5,
+			"y": 66.5578125,
+			"width": 65.41996765136719,
+			"height": 24,
 			"angle": 0,
-			"strokeColor": "#1e1e1e",
+			"strokeColor": "#e03131",
 			"backgroundColor": "#ebfbee",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
@@ -850,22 +850,22 @@ Thread 1 ^Lgbn33be
 			"frameId": null,
 			"roundness": null,
 			"seed": 971773754,
-			"version": 267,
-			"versionNonce": 1005556070,
+			"version": 317,
+			"versionNonce": 1953060582,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1729610042732,
+			"updated": 1729610146236,
 			"link": null,
 			"locked": false,
-			"text": "2초",
-			"rawText": "2초",
-			"fontSize": 28,
+			"text": "2초 소요",
+			"rawText": "2초 소요",
+			"fontSize": 20,
 			"fontFamily": 4,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 23,
+			"baseline": 17,
 			"containerId": null,
-			"originalText": "2초",
+			"originalText": "2초 소요",
 			"lineHeight": 1.2
 		},
 		{
@@ -1343,11 +1343,11 @@ Thread 1 ^Lgbn33be
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1e1e1e",
+		"currentItemStrokeColor": "#e03131",
 		"currentItemBackgroundColor": "#fff9db",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 1,
-		"currentItemStrokeStyle": "solid",
+		"currentItemStrokeStyle": "dotted",
 		"currentItemRoughness": 0,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 4,
