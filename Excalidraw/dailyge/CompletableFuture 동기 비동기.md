@@ -12,9 +12,13 @@ B ^cR8ee3LV
 
 A ^AdsXN3FW
 
-A 처리 해줘 ^N3Avy4DK
+B도 처리 해줘 ^N3Avy4DK
 
 A 처리 해줘 ^Sf2U85tT
+
+A 처리 완료! ^mxhT4CAw
+
+B도 처리 해줘 ^DBxR1LOz
 
 %%
 # Drawing
@@ -27,14 +31,14 @@ A 처리 해줘 ^Sf2U85tT
 		{
 			"id": "xu1cWJsVZ1D12lFoqXlpj",
 			"type": "rectangle",
-			"x": -329.5,
-			"y": -280.2421875,
+			"x": -328.5,
+			"y": -280.7421875,
 			"width": 78,
 			"height": 536,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
+			"backgroundColor": "#b2f2bb",
+			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
@@ -45,11 +49,11 @@ A 처리 해줘 ^Sf2U85tT
 				"type": 3
 			},
 			"seed": 1691698682,
-			"version": 101,
-			"versionNonce": 1525137466,
+			"version": 108,
+			"versionNonce": 1861373050,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1729609702738,
+			"updated": 1729609801206,
 			"link": null,
 			"locked": false
 		},
@@ -110,8 +114,8 @@ A 처리 해줘 ^Sf2U85tT
 			"height": 212.50000000000003,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
+			"backgroundColor": "#ffec99",
+			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
@@ -122,8 +126,8 @@ A 처리 해줘 ^Sf2U85tT
 				"type": 3
 			},
 			"seed": 684010298,
-			"version": 118,
-			"versionNonce": 1938761318,
+			"version": 120,
+			"versionNonce": 1251014138,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -135,7 +139,7 @@ A 처리 해줘 ^Sf2U85tT
 					"type": "arrow"
 				}
 			],
-			"updated": 1729609704650,
+			"updated": 1729609804310,
 			"link": null,
 			"locked": false
 		},
@@ -148,7 +152,7 @@ A 처리 해줘 ^Sf2U85tT
 			"height": 212.50000000000003,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"backgroundColor": "#a5d8ff",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
@@ -160,8 +164,8 @@ A 처리 해줘 ^Sf2U85tT
 				"type": 3
 			},
 			"seed": 1542542330,
-			"version": 167,
-			"versionNonce": 1345256358,
+			"version": 169,
+			"versionNonce": 1160601914,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -171,13 +175,9 @@ A 처리 해줘 ^Sf2U85tT
 				{
 					"id": "q3gY88Ziut-y2B0OhSNfL",
 					"type": "arrow"
-				},
-				{
-					"id": "gQsLReoQNLl6k4-TpK-X-",
-					"type": "arrow"
 				}
 			],
-			"updated": 1729609702738,
+			"updated": 1729609783688,
 			"link": null,
 			"locked": false
 		},
@@ -190,7 +190,7 @@ A 처리 해줘 ^Sf2U85tT
 			"height": 541,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"backgroundColor": "#ffc9c9",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
@@ -202,8 +202,8 @@ A 처리 해줘 ^Sf2U85tT
 				"type": 3
 			},
 			"seed": 1818790010,
-			"version": 127,
-			"versionNonce": 1211086842,
+			"version": 128,
+			"versionNonce": 642631142,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -223,7 +223,7 @@ A 처리 해줘 ^Sf2U85tT
 					"type": "arrow"
 				}
 			],
-			"updated": 1729609728385,
+			"updated": 1729609786652,
 			"link": null,
 			"locked": false
 		},
@@ -334,10 +334,10 @@ A 처리 해줘 ^Sf2U85tT
 		{
 			"id": "gQsLReoQNLl6k4-TpK-X-",
 			"type": "arrow",
-			"x": -271.4149266023758,
-			"y": 2.260226937497251,
-			"width": 449.4149266023758,
-			"height": 2.520904644433358,
+			"x": -272.4149266023758,
+			"y": 4.260226937497251,
+			"width": 450.4149266023758,
+			"height": 0.47909535556664196,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -352,11 +352,11 @@ A 처리 해줘 ^Sf2U85tT
 				"type": 2
 			},
 			"seed": 41254458,
-			"version": 216,
-			"versionNonce": 1319686394,
+			"version": 233,
+			"versionNonce": 628498214,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1729609731168,
+			"updated": 1729609779094,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -365,19 +365,15 @@ A 처리 해줘 ^Sf2U85tT
 					0
 				],
 				[
-					449.4149266023758,
-					2.520904644433358
+					450.4149266023758,
+					-0.47909535556664196
 				]
 			],
 			"lastCommittedPoint": null,
-			"startBinding": {
-				"elementId": "EaL8gT2U2rN3Z7_dzW3Pm",
-				"focus": -1.0140869573008844,
-				"gap": 1.4975855625027492
-			},
+			"startBinding": null,
 			"endBinding": {
 				"elementId": "twgm5_GRN4Oi9UqvQZI5h",
-				"focus": -0.04315064669890627,
+				"focus": -0.03879171994062021,
 				"gap": 5.5
 			},
 			"startArrowhead": null,
@@ -547,11 +543,85 @@ A 처리 해줘 ^Sf2U85tT
 			"lineHeight": 1.2
 		},
 		{
-			"id": "N3Avy4DK",
+			"id": "mxhT4CAw",
 			"type": "text",
 			"x": -117,
 			"y": -73.54218750000001,
-			"width": 123.70396423339844,
+			"width": 131.9359588623047,
+			"height": 33.6,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 560616678,
+			"version": 103,
+			"versionNonce": 1086215290,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1729609762282,
+			"link": null,
+			"locked": false,
+			"text": "A 처리 완료!",
+			"rawText": "A 처리 완료!",
+			"fontSize": 28,
+			"fontFamily": 4,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 23,
+			"containerId": null,
+			"originalText": "A 처리 완료!",
+			"lineHeight": 1.2
+		},
+		{
+			"id": "DBxR1LOz",
+			"type": "text",
+			"x": -118.5,
+			"y": 17.95781249999999,
+			"width": 142.46395874023438,
+			"height": 33.6,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 2084458278,
+			"version": 181,
+			"versionNonce": 572935802,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1729609775805,
+			"link": null,
+			"locked": false,
+			"text": "B도 처리 해줘",
+			"rawText": "B도 처리 해줘",
+			"fontSize": 28,
+			"fontFamily": 4,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 23,
+			"containerId": null,
+			"originalText": "B도 처리 해줘",
+			"lineHeight": 1.2
+		},
+		{
+			"id": "N3Avy4DK",
+			"type": "text",
+			"x": -117,
+			"y": 167.4578125,
+			"width": 142.46395874023438,
 			"height": 33.6,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -565,22 +635,22 @@ A 처리 해줘 ^Sf2U85tT
 			"frameId": null,
 			"roundness": null,
 			"seed": 1993613862,
-			"version": 90,
-			"versionNonce": 2023909818,
+			"version": 204,
+			"versionNonce": 647280186,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1729609745065,
+			"updated": 1729609774557,
 			"link": null,
 			"locked": false,
-			"text": "A 처리 해줘",
-			"rawText": "A 처리 해줘",
+			"text": "B도 처리 해줘",
+			"rawText": "B도 처리 해줘",
 			"fontSize": 28,
 			"fontFamily": 4,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"baseline": 23,
 			"containerId": null,
-			"originalText": "A 처리 해줘",
+			"originalText": "B도 처리 해줘",
 			"lineHeight": 1.2
 		}
 	],
@@ -588,8 +658,8 @@ A 처리 해줘 ^Sf2U85tT
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
 		"currentItemStrokeColor": "#1e1e1e",
-		"currentItemBackgroundColor": "transparent",
-		"currentItemFillStyle": "hachure",
+		"currentItemBackgroundColor": "#b2f2bb",
+		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 1,
 		"currentItemStrokeStyle": "solid",
 		"currentItemRoughness": 0,
