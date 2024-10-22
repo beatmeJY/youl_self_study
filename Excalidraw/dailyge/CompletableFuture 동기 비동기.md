@@ -12,13 +12,17 @@ B ^cR8ee3LV
 
 A ^AdsXN3FW
 
-B도 처리 해줘 ^N3Avy4DK
+B도 처리 완료 ^N3Avy4DK
 
 A 처리 해줘 ^Sf2U85tT
 
 A 처리 완료! ^mxhT4CAw
 
 B도 처리 해줘 ^DBxR1LOz
+
+1초 ^gfHSEmjd
+
+1초 ^jYhMQHcm
 
 %%
 # Drawing
@@ -37,7 +41,7 @@ B도 처리 해줘 ^DBxR1LOz
 			"height": 536,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#b2f2bb",
+			"backgroundColor": "#ebfbee",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
@@ -49,11 +53,11 @@ B도 처리 해줘 ^DBxR1LOz
 				"type": 3
 			},
 			"seed": 1691698682,
-			"version": 108,
-			"versionNonce": 1861373050,
+			"version": 109,
+			"versionNonce": 1826824422,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1729609801206,
+			"updated": 1729609835790,
 			"link": null,
 			"locked": false
 		},
@@ -63,7 +67,7 @@ B도 처리 해줘 ^DBxR1LOz
 			"x": -275,
 			"y": -238.7421875,
 			"width": 453,
-			"height": 0,
+			"height": 0.9813027418241234,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -78,11 +82,11 @@ B도 처리 해줘 ^DBxR1LOz
 				"type": 2
 			},
 			"seed": 838616294,
-			"version": 158,
-			"versionNonce": 225816378,
+			"version": 159,
+			"versionNonce": 797257914,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1729609728385,
+			"updated": 1729609814641,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -92,7 +96,7 @@ B도 처리 해줘 ^DBxR1LOz
 				],
 				[
 					453,
-					0
+					-0.9813027418241234
 				]
 			],
 			"lastCommittedPoint": null,
@@ -114,7 +118,7 @@ B도 처리 해줘 ^DBxR1LOz
 			"height": 212.50000000000003,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#ffec99",
+			"backgroundColor": "#fff9db",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
@@ -126,8 +130,8 @@ B도 처리 해줘 ^DBxR1LOz
 				"type": 3
 			},
 			"seed": 684010298,
-			"version": 120,
-			"versionNonce": 1251014138,
+			"version": 121,
+			"versionNonce": 1438967526,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -139,7 +143,7 @@ B도 처리 해줘 ^DBxR1LOz
 					"type": "arrow"
 				}
 			],
-			"updated": 1729609804310,
+			"updated": 1729609826894,
 			"link": null,
 			"locked": false
 		},
@@ -147,13 +151,13 @@ B도 처리 해줘 ^DBxR1LOz
 			"id": "EaL8gT2U2rN3Z7_dzW3Pm",
 			"type": "rectangle",
 			"x": -305,
-			"y": 3.7578125,
+			"y": 5.2578125,
 			"width": 33.5,
 			"height": 212.50000000000003,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#a5d8ff",
-			"fillStyle": "hachure",
+			"backgroundColor": "#fff5f5",
+			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
@@ -164,8 +168,8 @@ B도 처리 해줘 ^DBxR1LOz
 				"type": 3
 			},
 			"seed": 1542542330,
-			"version": 169,
-			"versionNonce": 1160601914,
+			"version": 183,
+			"versionNonce": 1337517414,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -175,9 +179,13 @@ B도 처리 해줘 ^DBxR1LOz
 				{
 					"id": "q3gY88Ziut-y2B0OhSNfL",
 					"type": "arrow"
+				},
+				{
+					"id": "gQsLReoQNLl6k4-TpK-X-",
+					"type": "arrow"
 				}
 			],
-			"updated": 1729609783688,
+			"updated": 1729609829322,
 			"link": null,
 			"locked": false
 		},
@@ -185,13 +193,13 @@ B도 처리 해줘 ^DBxR1LOz
 			"id": "twgm5_GRN4Oi9UqvQZI5h",
 			"type": "rectangle",
 			"x": 183.5,
-			"y": -277.2421875,
+			"y": -278.2421875,
 			"width": 44,
 			"height": 541,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#ffc9c9",
-			"fillStyle": "hachure",
+			"backgroundColor": "#e7f5ff",
+			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
@@ -202,8 +210,8 @@ B도 처리 해줘 ^DBxR1LOz
 				"type": 3
 			},
 			"seed": 1818790010,
-			"version": 128,
-			"versionNonce": 642631142,
+			"version": 133,
+			"versionNonce": 2036335206,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -223,7 +231,7 @@ B도 처리 해줘 ^DBxR1LOz
 					"type": "arrow"
 				}
 			],
-			"updated": 1729609786652,
+			"updated": 1729609832905,
 			"link": null,
 			"locked": false
 		},
@@ -231,9 +239,9 @@ B도 처리 해줘 ^DBxR1LOz
 			"id": "vha-jQ39lflFjIrsrg-3j",
 			"type": "arrow",
 			"x": 179,
-			"y": -29.242187500000004,
+			"y": -30.190049679424583,
 			"width": 448.5,
-			"height": 3.197442310920451e-14,
+			"height": 0.940030747451587,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -248,11 +256,11 @@ B도 처리 해줘 ^DBxR1LOz
 				"type": 2
 			},
 			"seed": 1482960550,
-			"version": 94,
-			"versionNonce": 1107664358,
+			"version": 96,
+			"versionNonce": 350129402,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1729609728312,
+			"updated": 1729609814640,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -262,7 +270,7 @@ B도 처리 해줘 ^DBxR1LOz
 				],
 				[
 					-448.5,
-					3.197442310920451e-14
+					0.940030747451587
 				]
 			],
 			"lastCommittedPoint": null,
@@ -282,10 +290,10 @@ B도 처리 해줘 ^DBxR1LOz
 		{
 			"id": "q3gY88Ziut-y2B0OhSNfL",
 			"type": "arrow",
-			"x": -287.5,
+			"x": -288.26074210522455,
 			"y": -26.2421875,
-			"width": 1.0626483295807247,
-			"height": 28.5,
+			"width": 1.314646882270722,
+			"height": 30,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -300,11 +308,11 @@ B도 처리 해줘 ^DBxR1LOz
 				"type": 2
 			},
 			"seed": 273013990,
-			"version": 110,
-			"versionNonce": 1680586790,
+			"version": 124,
+			"versionNonce": 137228070,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1729609704858,
+			"updated": 1729609811262,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -313,8 +321,8 @@ B도 처리 해줘 ^DBxR1LOz
 					0
 				],
 				[
-					1.0626483295807247,
-					28.5
+					1.314646882270722,
+					30
 				]
 			],
 			"lastCommittedPoint": null,
@@ -334,10 +342,10 @@ B도 처리 해줘 ^DBxR1LOz
 		{
 			"id": "gQsLReoQNLl6k4-TpK-X-",
 			"type": "arrow",
-			"x": -272.4149266023758,
-			"y": 4.260226937497251,
-			"width": 450.4149266023758,
-			"height": 0.47909535556664196,
+			"x": -271.44738204714565,
+			"y": 4.259197783987162,
+			"width": 449.44738204714565,
+			"height": 1.418724698556625,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -352,11 +360,11 @@ B도 처리 해줘 ^DBxR1LOz
 				"type": 2
 			},
 			"seed": 41254458,
-			"version": 233,
-			"versionNonce": 628498214,
+			"version": 236,
+			"versionNonce": 1237784186,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1729609779094,
+			"updated": 1729609814640,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -365,12 +373,16 @@ B도 처리 해줘 ^DBxR1LOz
 					0
 				],
 				[
-					450.4149266023758,
-					-0.47909535556664196
+					449.44738204714565,
+					-1.418724698556625
 				]
 			],
 			"lastCommittedPoint": null,
-			"startBinding": null,
+			"startBinding": {
+				"elementId": "EaL8gT2U2rN3Z7_dzW3Pm",
+				"focus": -1.009061309876991,
+				"gap": 1
+			},
 			"endBinding": {
 				"elementId": "twgm5_GRN4Oi9UqvQZI5h",
 				"focus": -0.03879171994062021,
@@ -383,9 +395,9 @@ B도 처리 해줘 ^DBxR1LOz
 			"id": "paAFF9cxN9wc7G10MlAbn",
 			"type": "arrow",
 			"x": 177,
-			"y": 212.08296699597608,
+			"y": 211.24820343334238,
 			"width": 447,
-			"height": 0.8717859412842017,
+			"height": 1.389122550356376,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -400,11 +412,11 @@ B도 처리 해줘 ^DBxR1LOz
 				"type": 2
 			},
 			"seed": 193890150,
-			"version": 146,
-			"versionNonce": 1833728742,
+			"version": 162,
+			"versionNonce": 1513832442,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1729609728312,
+			"updated": 1729609814641,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -414,7 +426,7 @@ B도 처리 해줘 ^DBxR1LOz
 				],
 				[
 					-447,
-					-0.8717859412842017
+					1.389122550356376
 				]
 			],
 			"lastCommittedPoint": null,
@@ -621,7 +633,7 @@ B도 처리 해줘 ^DBxR1LOz
 			"type": "text",
 			"x": -117,
 			"y": 167.4578125,
-			"width": 142.46395874023438,
+			"width": 142.4359588623047,
 			"height": 33.6,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -635,22 +647,198 @@ B도 처리 해줘 ^DBxR1LOz
 			"frameId": null,
 			"roundness": null,
 			"seed": 1993613862,
-			"version": 204,
-			"versionNonce": 647280186,
+			"version": 212,
+			"versionNonce": 845046330,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1729609774557,
+			"updated": 1729609843073,
 			"link": null,
 			"locked": false,
-			"text": "B도 처리 해줘",
-			"rawText": "B도 처리 해줘",
+			"text": "B도 처리 완료",
+			"rawText": "B도 처리 완료",
 			"fontSize": 28,
 			"fontFamily": 4,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"baseline": 23,
 			"containerId": null,
-			"originalText": "B도 처리 해줘",
+			"originalText": "B도 처리 완료",
+			"lineHeight": 1.2
+		},
+		{
+			"id": "Lo68o4WSZsVbDqk5ejXXy",
+			"type": "line",
+			"x": -309,
+			"y": -241.7421875,
+			"width": 44,
+			"height": 213.5,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ebfbee",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 210049274,
+			"version": 222,
+			"versionNonce": 1018203046,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1729609862183,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-43,
+					111
+				],
+				[
+					1,
+					213.5
+				]
+			],
+			"lastCommittedPoint": [
+				1,
+				213.5
+			],
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "jYhMQHcm",
+			"type": "text",
+			"x": -418.5,
+			"y": -153.2421875,
+			"width": 34.243988037109375,
+			"height": 33.6,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ebfbee",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 916248506,
+			"version": 47,
+			"versionNonce": 805902566,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1729609867916,
+			"link": null,
+			"locked": false,
+			"text": "1초",
+			"rawText": "1초",
+			"fontSize": 28,
+			"fontFamily": 4,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 23,
+			"containerId": null,
+			"originalText": "1초",
+			"lineHeight": 1.2
+		},
+		{
+			"id": "nmiNMXqBJ9odS65bp1KCy",
+			"type": "line",
+			"x": -309,
+			"y": 7.2578125,
+			"width": 44,
+			"height": 213.5,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ebfbee",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 371922042,
+			"version": 281,
+			"versionNonce": 1073995430,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1729609863583,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-43,
+					111
+				],
+				[
+					1,
+					213.5
+				]
+			],
+			"lastCommittedPoint": [
+				1,
+				213.5
+			],
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "gfHSEmjd",
+			"type": "text",
+			"x": -417.5,
+			"y": 96.2578125,
+			"width": 34.243988037109375,
+			"height": 33.6,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ebfbee",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1469876794,
+			"version": 100,
+			"versionNonce": 850531238,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1729609869408,
+			"link": null,
+			"locked": false,
+			"text": "1초",
+			"rawText": "1초",
+			"fontSize": 28,
+			"fontFamily": 4,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 23,
+			"containerId": null,
+			"originalText": "1초",
 			"lineHeight": 1.2
 		}
 	],
@@ -658,7 +846,7 @@ B도 처리 해줘 ^DBxR1LOz
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
 		"currentItemStrokeColor": "#1e1e1e",
-		"currentItemBackgroundColor": "#b2f2bb",
+		"currentItemBackgroundColor": "#ebfbee",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 1,
 		"currentItemStrokeStyle": "solid",
