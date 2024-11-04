@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "CompletableFuture 동기 비동기"
             }
+          },
+          {
+            "id": "af7efcbed4afbca7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/dailyge/태그 기능 로직 설계.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "태그 기능 로직 설계"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,15 +199,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d592b1b7af0f467a",
+  "active": "af7efcbed4afbca7",
   "lastOpenFiles": [
-    "Excalidraw/dailyge/CompletableFuture 동기 비동기.md",
+    "Excalidraw/dailyge/Drawing 2024-10-11 12.09.12.excalidraw.md",
+    "Excalidraw/dailyge/태그 기능 로직 설계.md",
     "Excalidraw/dailyge/CompletableFuture 동기 비동기.md",
     "Excalidraw/dailyge/깃 브랜치전략 깃 플로우.md",
     "Excalidraw/Java/스트림.md",
     "Excalidraw/dailyge/부분 암호화 전체암호화 차이.md",
     "images/Pasted Image 20241011121008_638.png",
-    "Excalidraw/dailyge/Drawing 2024-10-11 12.09.12.excalidraw.md",
     "Excalidraw/dailyge/Drawing 2024-08-10 14.12.09.excalidraw.md",
     "Excalidraw/dailyge/회고 초안.md",
     "Excalidraw/dailyge/Drawing 2024-07-30 17.58.50.excalidraw.md",
@@ -225,7 +238,6 @@
     "Excalidraw/DB/mysql",
     "Excalidraw/DB/redis",
     "CS/docker/README.md",
-    "Spring/MVC/README.md",
     "out/production/Algorithm/단어변환.class",
     "Algorithm/dfs_bfs/단어변환.java~",
     "Algorithm/dfs_bfs/단어변환.java",
