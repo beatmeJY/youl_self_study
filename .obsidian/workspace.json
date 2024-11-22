@@ -30,9 +30,33 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2024-11-11 20.30.42.excalidraw"
             }
+          },
+          {
+            "id": "11cbc13d49e06c49",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
+          },
+          {
+            "id": "51a1892af46d0c85",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/dailyge/풀 테이블 스캔.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "풀 테이블 스캔"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -199,10 +223,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aad07a26805c5aeb",
+  "active": "51a1892af46d0c85",
   "lastOpenFiles": [
-    "Excalidraw/dailyge/Drawing 2024-10-11 12.09.12.excalidraw.md",
     "Excalidraw/dailyge/Drawing 2024-11-11 20.30.42.excalidraw.md",
+    "Excalidraw/dailyge/풀 테이블 스캔.md",
+    "Excalidraw/dailyge/Drawing 2024-10-11 12.09.12.excalidraw.md",
     "Excalidraw/로그인/세션 로그인.md",
     "Excalidraw/dailyge/CompletableFuture 동기 비동기.md",
     "Excalidraw/dailyge/회고 초안.md",
@@ -237,7 +262,6 @@
     "Excalidraw/스프링",
     "Excalidraw/DB/redis/데이터 백업 RDB AOF.md",
     "Excalidraw/DB/redis/음의 인덱스.md",
-    "Excalidraw/DB/mysql/CrossJoin.md",
     "Excalidraw/DB/mysql",
     "Excalidraw/DB/redis",
     "out/production/Algorithm/단어변환.class",
