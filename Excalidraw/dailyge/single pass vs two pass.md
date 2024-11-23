@@ -8,12 +8,16 @@ tags: [excalidraw]
 
 
 # Text Elements
+테이블
+(데이터 파일) ^W4atP23J
+
 
 # Embedded files
 b72bcca81aa8a4d72721999cedc8e53b7410567c: [[Pasted Image 20241123123044_989.png]]
 c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]]
 44277cb030b2df54483dbad9fcaef32654b49cd4: [[Pasted Image 20241123123230_038.png]]
 8d58820029ff81e1f8142c5736f67bb6a63e1e73: [[Pasted Image 20241123123315_056.png]]
+2642eaf63d82843e323869bf1fbf269c6f01042e: [[Pasted Image 20241123123715_199.png]]
 
 %%
 # Drawing
@@ -183,6 +187,76 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 				1,
 				1
 			]
+		},
+		{
+			"id": "EJ5gV0GQOn-7uFx3ht9rN",
+			"type": "image",
+			"x": 230,
+			"y": -182.2421875,
+			"width": 78,
+			"height": 78,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "#383e56",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 131959579,
+			"version": 196,
+			"versionNonce": 732110715,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1732333015385,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "2642eaf63d82843e323869bf1fbf269c6f01042e",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "W4atP23J",
+			"type": "text",
+			"x": 215,
+			"y": -80.2421875,
+			"width": 105.078125,
+			"height": 48,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#383e56",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 769027419,
+			"version": 72,
+			"versionNonce": 15216885,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1732333034494,
+			"link": null,
+			"locked": false,
+			"text": "테이블\n(데이터 파일)",
+			"rawText": "테이블\n(데이터 파일)",
+			"fontSize": 20,
+			"fontFamily": 4,
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"baseline": 43,
+			"containerId": null,
+			"originalText": "테이블\n(데이터 파일)",
+			"lineHeight": 1.2
 		},
 		{
 			"type": "ellipse",
@@ -523,7 +597,7 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#ffffff",
+		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "#383e56",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 1,
@@ -532,7 +606,7 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 4,
 		"currentItemFontSize": 20,
-		"currentItemTextAlign": "left",
+		"currentItemTextAlign": "center",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"scrollX": 670.5,
