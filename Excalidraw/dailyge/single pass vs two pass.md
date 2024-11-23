@@ -51,6 +51,9 @@ id, date 컬럼 조회 ^EnKCEuPM
 
 정렬 결과 반환(id, date 컬럼만 포함) ^HJjdz3Er
 
+PK로 나머지 컬럼 조회
+(title, user_id) ^qR8DqCGY
+
 
 # Embedded files
 b72bcca81aa8a4d72721999cedc8e53b7410567c: [[Pasted Image 20241123123044_989.png]]
@@ -1073,8 +1076,8 @@ b7a5fb76034d44ceb2371e678f318210f8810893: [[Pasted Image 20241123130444_158.png]
 		},
 		{
 			"type": "image",
-			"version": 293,
-			"versionNonce": 1273438997,
+			"version": 294,
+			"versionNonce": 1641753045,
 			"isDeleted": false,
 			"id": "DJWYHJPzqBKOVWxTNaLX3",
 			"fillStyle": "solid",
@@ -1097,9 +1100,13 @@ b7a5fb76034d44ceb2371e678f318210f8810893: [[Pasted Image 20241123130444_158.png]
 				{
 					"id": "5Cyz6a9a7fppRAXUsL6Rh",
 					"type": "arrow"
+				},
+				{
+					"id": "2Fxxd_jEcBzxEPYOda93X",
+					"type": "arrow"
 				}
 			],
-			"updated": 1732334686883,
+			"updated": 1732334836972,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -1718,8 +1725,8 @@ b7a5fb76034d44ceb2371e678f318210f8810893: [[Pasted Image 20241123130444_158.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 454871957,
-			"version": 228,
-			"versionNonce": 1381352827,
+			"version": 229,
+			"versionNonce": 987048725,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -1729,9 +1736,13 @@ b7a5fb76034d44ceb2371e678f318210f8810893: [[Pasted Image 20241123130444_158.png]
 				{
 					"id": "_FoZ4Scn2abrH9PZ6ZIXu",
 					"type": "arrow"
+				},
+				{
+					"id": "2Fxxd_jEcBzxEPYOda93X",
+					"type": "arrow"
 				}
 			],
-			"updated": 1732334754809,
+			"updated": 1732334836972,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -1795,7 +1806,7 @@ b7a5fb76034d44ceb2371e678f318210f8810893: [[Pasted Image 20241123130444_158.png]
 			"id": "HJjdz3Er",
 			"type": "text",
 			"x": 991.2354025413513,
-			"y": 189.61466884551172,
+			"y": 183.6775804789087,
 			"width": 290.458984375,
 			"height": 24,
 			"angle": 0,
@@ -1810,11 +1821,11 @@ b7a5fb76034d44ceb2371e678f318210f8810893: [[Pasted Image 20241123130444_158.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 1926445621,
-			"version": 118,
-			"versionNonce": 649566549,
+			"version": 124,
+			"versionNonce": 210609685,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1732334736757,
+			"updated": 1732334823152,
 			"link": null,
 			"locked": false,
 			"text": "정렬 결과 반환(id, date 컬럼만 포함)",
@@ -1831,8 +1842,8 @@ b7a5fb76034d44ceb2371e678f318210f8810893: [[Pasted Image 20241123130444_158.png]
 		{
 			"id": "_FoZ4Scn2abrH9PZ6ZIXu",
 			"type": "arrow",
-			"x": 1433.9725635937439,
-			"y": 0.7649294808200011,
+			"x": 1434.820719074687,
+			"y": -2.627692442953048,
 			"width": 404.57016440994494,
 			"height": 284.98024159694216,
 			"angle": 0,
@@ -1847,11 +1858,11 @@ b7a5fb76034d44ceb2371e678f318210f8810893: [[Pasted Image 20241123130444_158.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 1956155189,
-			"version": 172,
-			"versionNonce": 353068309,
+			"version": 185,
+			"versionNonce": 752742267,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1732334754811,
+			"updated": 1732334758058,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1874,13 +1885,107 @@ b7a5fb76034d44ceb2371e678f318210f8810893: [[Pasted Image 20241123130444_158.png]
 			],
 			"startBinding": {
 				"elementId": "TpxZ3MUr",
-				"focus": -0.03356351508697075,
-				"gap": 14.820876893051718
+				"focus": -0.049706846174068196,
+				"gap": 11.428254969278669
 			},
 			"endBinding": {
 				"elementId": "ZPiaR1S07jVynyEDVdGOK",
-				"focus": 0.163912460920049,
-				"gap": 11.874176733206525
+				"focus": 0.07101384546672315,
+				"gap": 12.72233221414973
+			},
+			"startArrowhead": null,
+			"endArrowhead": "triangle"
+		},
+		{
+			"id": "qR8DqCGY",
+			"type": "text",
+			"x": 1174.4369864250996,
+			"y": 301.86012521568455,
+			"width": 177.8515625,
+			"height": 48,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#383e56",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 921301109,
+			"version": 117,
+			"versionNonce": 1224465595,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1732334821918,
+			"link": null,
+			"locked": false,
+			"text": "PK로 나머지 컬럼 조회\n(title, user_id)",
+			"rawText": "PK로 나머지 컬럼 조회\n(title, user_id)",
+			"fontSize": 20,
+			"fontFamily": 4,
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"baseline": 43,
+			"containerId": null,
+			"originalText": "PK로 나머지 컬럼 조회\n(title, user_id)",
+			"lineHeight": 1.2
+		},
+		{
+			"id": "2Fxxd_jEcBzxEPYOda93X",
+			"type": "arrow",
+			"x": 927.6237414706054,
+			"y": 280.6562381921023,
+			"width": 329.93248208693626,
+			"height": 335.8695704535389,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#383e56",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1771847419,
+			"version": 248,
+			"versionNonce": 1519375003,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1732334836974,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-329.93248208693626,
+					0
+				],
+				[
+					-329.93248208693626,
+					-335.8695704535389
+				]
+			],
+			"lastCommittedPoint": [
+				-329.93248208693626,
+				-335.8695704535389
+			],
+			"startBinding": {
+				"elementId": "ZPiaR1S07jVynyEDVdGOK",
+				"focus": -0.024564537740052447,
+				"gap": 14.41864317603546
+			},
+			"endBinding": {
+				"elementId": "DJWYHJPzqBKOVWxTNaLX3",
+				"focus": -0.1595716796999874,
+				"gap": 13.84261515079509
 			},
 			"startArrowhead": null,
 			"endArrowhead": "triangle"
@@ -2043,11 +2148,11 @@ b7a5fb76034d44ceb2371e678f318210f8810893: [[Pasted Image 20241123130444_158.png]
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 4,
 		"currentItemFontSize": 20,
-		"currentItemTextAlign": "left",
+		"currentItemTextAlign": "center",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "triangle",
-		"scrollX": -465.8030820969892,
-		"scrollY": 389.8239219229504,
+		"scrollX": -283.4496536941837,
+		"scrollY": 369.46819038031174,
 		"zoom": {
 			"value": 1.1790291078327348
 		},
