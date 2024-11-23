@@ -13,7 +13,7 @@ tags: [excalidraw]
 
 # Embedded files
 b72bcca81aa8a4d72721999cedc8e53b7410567c: [[Pasted Image 20241123123044_989.png]]
-4c0fa268b71130702ab13dc1e97c26b910ac5f72: [[Pasted Image 20241123123115_018.png]]
+c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]]
 
 %%
 # Drawing
@@ -85,12 +85,12 @@ b72bcca81aa8a4d72721999cedc8e53b7410567c: [[Pasted Image 20241123123044_989.png]
 			"id": "WJxvo1h6UhLpkDjZTpqlN",
 			"type": "rectangle",
 			"x": -313,
-			"y": -210.2421875,
+			"y": -209.2421875,
 			"width": 448,
 			"height": 303,
 			"angle": 0,
 			"strokeColor": "transparent",
-			"backgroundColor": "#0f156c",
+			"backgroundColor": "#21347d",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
@@ -102,19 +102,19 @@ b72bcca81aa8a4d72721999cedc8e53b7410567c: [[Pasted Image 20241123123044_989.png]
 				"type": 3
 			},
 			"seed": 2147396981,
-			"version": 299,
-			"versionNonce": 1103997883,
+			"version": 405,
+			"versionNonce": 1005818325,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1732332640834,
+			"updated": 1732332713470,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "hPttzwjWEyodJyaxQXx5b",
 			"type": "rectangle",
-			"x": -62,
-			"y": -7.2421875,
+			"x": -23,
+			"y": -2.2421875,
 			"width": 89,
 			"height": 67,
 			"angle": 0,
@@ -129,8 +129,8 @@ b72bcca81aa8a4d72721999cedc8e53b7410567c: [[Pasted Image 20241123123044_989.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 2013850619,
-			"version": 169,
-			"versionNonce": 773939611,
+			"version": 195,
+			"versionNonce": 262538011,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -138,15 +138,15 @@ b72bcca81aa8a4d72721999cedc8e53b7410567c: [[Pasted Image 20241123123044_989.png]
 					"id": "wCKvXD3v"
 				}
 			],
-			"updated": 1732332640834,
+			"updated": 1732332716256,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "wCKvXD3v",
 			"type": "text",
-			"x": -54.580078125,
-			"y": 14.2578125,
+			"x": -15.580078125,
+			"y": 19.2578125,
 			"width": 74.16015625,
 			"height": 24,
 			"angle": 0,
@@ -161,11 +161,11 @@ b72bcca81aa8a4d72721999cedc8e53b7410567c: [[Pasted Image 20241123123044_989.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 746658491,
-			"version": 127,
-			"versionNonce": 1213421973,
+			"version": 153,
+			"versionNonce": 2009917371,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1732332640834,
+			"updated": 1732332716256,
 			"link": null,
 			"locked": false,
 			"text": "임시 파일",
@@ -213,6 +213,39 @@ b72bcca81aa8a4d72721999cedc8e53b7410567c: [[Pasted Image 20241123123044_989.png]
 			]
 		},
 		{
+			"id": "8oieJVtfz0ijxjoLDlTMp",
+			"type": "image",
+			"x": -56,
+			"y": -182.2421875,
+			"width": 124.00000000000001,
+			"height": 124.00000000000001,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "#0f156c",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 507850549,
+			"version": 145,
+			"versionNonce": 1460667733,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1732332702473,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "c9a738105d147759573d1f014cb4724ee9cc5bbd",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
 			"id": "Mg8l8QmNyT2AIMdjpRFzm",
 			"type": "image",
 			"x": -60,
@@ -231,11 +264,11 @@ b72bcca81aa8a4d72721999cedc8e53b7410567c: [[Pasted Image 20241123123044_989.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 1751751637,
-			"version": 266,
-			"versionNonce": 1444589595,
-			"isDeleted": false,
+			"version": 267,
+			"versionNonce": 1494831867,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1732332671914,
+			"updated": 1732332701910,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -425,7 +458,7 @@ b72bcca81aa8a4d72721999cedc8e53b7410567c: [[Pasted Image 20241123123044_989.png]
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
 		"currentItemStrokeColor": "#ffffff",
-		"currentItemBackgroundColor": "#0f156c",
+		"currentItemBackgroundColor": "#21347d",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 1,
 		"currentItemStrokeStyle": "solid",
