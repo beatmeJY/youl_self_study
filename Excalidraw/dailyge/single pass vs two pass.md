@@ -11,6 +11,7 @@ tags: [excalidraw]
 테이블
 (데이터 파일) ^W4atP23J
 
+ORDER BY
 쿼리 실행 ^cbGdGuEk
 
 임시 파일
@@ -22,8 +23,8 @@ Multi-merge ^RPm7aICo
 
 캐시 버퍼 ^xzTQVzHx
 
-id, title, user_id, date
-컬럼 조회 ^IQzIHgOY
+id, title, user_id, 
+date 컬럼 조회 ^IQzIHgOY
 
 
 # Embedded files
@@ -62,8 +63,8 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 				"type": 3
 			},
 			"seed": 2147396981,
-			"version": 572,
-			"versionNonce": 1485654229,
+			"version": 573,
+			"versionNonce": 1188266299,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -73,9 +74,13 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 				{
 					"id": "ffbQ6XXaxzck8aPavqwG8",
 					"type": "arrow"
+				},
+				{
+					"id": "CB3B8hDgASX0S9DR1mrVo",
+					"type": "arrow"
 				}
 			],
-			"updated": 1732333287156,
+			"updated": 1732333390244,
 			"link": null,
 			"locked": false
 		},
@@ -308,10 +313,10 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 		{
 			"id": "cbGdGuEk",
 			"type": "text",
-			"x": -421.080078125,
-			"y": -118.6421875,
-			"width": 74.16015625,
-			"height": 24,
+			"x": -433.001953125,
+			"y": -135.6421875,
+			"width": 94.00390625,
+			"height": 48,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#383e56",
@@ -324,22 +329,22 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 412245179,
-			"version": 87,
-			"versionNonce": 659421179,
+			"version": 127,
+			"versionNonce": 995706741,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1732333213872,
+			"updated": 1732333376899,
 			"link": null,
 			"locked": false,
-			"text": "쿼리 실행",
-			"rawText": "쿼리 실행",
+			"text": "ORDER BY\n쿼리 실행",
+			"rawText": "ORDER BY\n쿼리 실행",
 			"fontSize": 20,
 			"fontFamily": 4,
-			"textAlign": "center",
+			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 19,
+			"baseline": 43,
 			"containerId": null,
-			"originalText": "쿼리 실행",
+			"originalText": "ORDER BY\n쿼리 실행",
 			"lineHeight": 1.2
 		},
 		{
@@ -421,7 +426,7 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 			"type": "arrow",
 			"x": -432,
 			"y": -78.12477038639389,
-			"width": 114,
+			"width": 105,
 			"height": 0.7879885734626271,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -437,11 +442,11 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 				"type": 2
 			},
 			"seed": 1816233691,
-			"version": 179,
-			"versionNonce": 1785809883,
+			"version": 192,
+			"versionNonce": 707100059,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1732333233724,
+			"updated": 1732333360556,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -450,20 +455,20 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 					0
 				],
 				[
-					114,
+					105,
 					0.7879885734626271
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "oNSRzsClMRLydvgKkqQfP",
-				"gap": 10.000000000000028,
-				"focus": 0.46820064685353385
+				"focus": 0.4672246828277289,
+				"gap": 10.000000000000028
 			},
 			"endBinding": {
 				"elementId": "WJxvo1h6UhLpkDjZTpqlN",
-				"gap": 5,
-				"focus": 0.3080237354071956
+				"focus": 0.30680254303969623,
+				"gap": 14
 			},
 			"startArrowhead": null,
 			"endArrowhead": "triangle"
@@ -702,9 +707,9 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 		{
 			"id": "IQzIHgOY",
 			"type": "text",
-			"x": 168.548828125,
-			"y": -240.2421875,
-			"width": 184.90234375,
+			"x": 146.548828125,
+			"y": -198.2421875,
+			"width": 144.638671875,
 			"height": 48,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -718,23 +723,82 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 217297941,
-			"version": 97,
-			"versionNonce": 2139402843,
+			"version": 183,
+			"versionNonce": 367945787,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1732333339846,
+			"updated": 1732333354873,
 			"link": null,
 			"locked": false,
-			"text": "id, title, user_id, date\n컬럼 조회",
-			"rawText": "id, title, user_id, date\n컬럼 조회",
+			"text": "id, title, user_id, \ndate 컬럼 조회",
+			"rawText": "id, title, user_id, \ndate 컬럼 조회",
 			"fontSize": 20,
 			"fontFamily": 4,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"baseline": 43,
 			"containerId": null,
-			"originalText": "id, title, user_id, date\n컬럼 조회",
+			"originalText": "id, title, user_id, \ndate 컬럼 조회",
 			"lineHeight": 1.2
+		},
+		{
+			"id": "CB3B8hDgASX0S9DR1mrVo",
+			"type": "arrow",
+			"x": -91,
+			"y": 185.7578125,
+			"width": 372,
+			"height": 316,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#383e56",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1988865589,
+			"version": 362,
+			"versionNonce": 903990427,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1732333390244,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					2,
+					115
+				],
+				[
+					-370,
+					110
+				],
+				[
+					-365,
+					-201
+				]
+			],
+			"lastCommittedPoint": [
+				-365,
+				-201
+			],
+			"startBinding": {
+				"elementId": "WJxvo1h6UhLpkDjZTpqlN",
+				"focus": -0.00907670707350353,
+				"gap": 8
+			},
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "triangle"
 		},
 		{
 			"type": "ellipse",
@@ -1269,8 +1333,8 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "triangle",
-		"scrollX": 670.5,
-		"scrollY": 476.7578125,
+		"scrollX": 809.5,
+		"scrollY": 444.7578125,
 		"zoom": {
 			"value": 1
 		},
