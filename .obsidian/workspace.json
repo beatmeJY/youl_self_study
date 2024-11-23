@@ -54,9 +54,33 @@
               "icon": "excalidraw-icon",
               "title": "풀 테이블 스캔"
             }
+          },
+          {
+            "id": "5e023ccee4fa4c95",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/dailyge/풀 테이블 스캔.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "풀 테이블 스캔"
+            }
+          },
+          {
+            "id": "4730218298f00462",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/dailyge/single pass vs two pass.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "single pass vs two pass"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -223,10 +247,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "51a1892af46d0c85",
+  "active": "4730218298f00462",
   "lastOpenFiles": [
-    "Excalidraw/dailyge/Drawing 2024-11-11 20.30.42.excalidraw.md",
     "Excalidraw/dailyge/풀 테이블 스캔.md",
+    "Excalidraw/dailyge/single pass vs two pass.md",
+    "Excalidraw/dailyge/Drawing 2024-11-11 20.30.42.excalidraw.md",
     "Excalidraw/dailyge/Drawing 2024-10-11 12.09.12.excalidraw.md",
     "Excalidraw/로그인/세션 로그인.md",
     "Excalidraw/dailyge/CompletableFuture 동기 비동기.md",
@@ -261,7 +286,6 @@
     "Excalidraw/스프링/스프링 WAS 구조.md",
     "Excalidraw/스프링",
     "Excalidraw/DB/redis/데이터 백업 RDB AOF.md",
-    "Excalidraw/DB/redis/음의 인덱스.md",
     "Excalidraw/DB/mysql",
     "Excalidraw/DB/redis",
     "out/production/Algorithm/단어변환.class",
