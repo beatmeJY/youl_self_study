@@ -63,8 +63,8 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 				"type": 3
 			},
 			"seed": 2147396981,
-			"version": 573,
-			"versionNonce": 1188266299,
+			"version": 574,
+			"versionNonce": 642366485,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -80,7 +80,7 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 					"type": "arrow"
 				}
 			],
-			"updated": 1732333390244,
+			"updated": 1732333421269,
 			"link": null,
 			"locked": false
 		},
@@ -103,8 +103,8 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 24971797,
-			"version": 327,
-			"versionNonce": 1107691797,
+			"version": 328,
+			"versionNonce": 156203963,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -112,7 +112,7 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 					"type": "arrow"
 				}
 			],
-			"updated": 1732333215580,
+			"updated": 1732333421269,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -141,8 +141,8 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 507850549,
-			"version": 232,
-			"versionNonce": 788055797,
+			"version": 233,
+			"versionNonce": 306409845,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -154,7 +154,7 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 					"type": "arrow"
 				}
 			],
-			"updated": 1732333258611,
+			"updated": 1732333421269,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -183,11 +183,11 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 588914075,
-			"version": 619,
-			"versionNonce": 857416571,
+			"version": 620,
+			"versionNonce": 989744219,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1732333264993,
+			"updated": 1732333421269,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -216,8 +216,8 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 1472605845,
-			"version": 249,
-			"versionNonce": 625789851,
+			"version": 252,
+			"versionNonce": 688052251,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -225,7 +225,7 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 					"type": "arrow"
 				}
 			],
-			"updated": 1732333213872,
+			"updated": 1732333445047,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -254,8 +254,8 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 131959579,
-			"version": 350,
-			"versionNonce": 1765409621,
+			"version": 351,
+			"versionNonce": 1003096315,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -263,7 +263,7 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 					"type": "arrow"
 				}
 			],
-			"updated": 1732333331809,
+			"updated": 1732333421269,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -292,11 +292,11 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 769027419,
-			"version": 258,
-			"versionNonce": 2005398837,
+			"version": 259,
+			"versionNonce": 1148409909,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1732333333189,
+			"updated": 1732333421269,
 			"link": null,
 			"locked": false,
 			"text": "테이블\n(데이터 파일)",
@@ -329,11 +329,11 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 412245179,
-			"version": 127,
-			"versionNonce": 995706741,
+			"version": 128,
+			"versionNonce": 1884482677,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1732333376899,
+			"updated": 1732333421269,
 			"link": null,
 			"locked": false,
 			"text": "ORDER BY\n쿼리 실행",
@@ -366,11 +366,11 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 140943067,
-			"version": 243,
-			"versionNonce": 437562869,
+			"version": 244,
+			"versionNonce": 948409813,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1732333261259,
+			"updated": 1732333421269,
 			"link": null,
 			"locked": false,
 			"text": "임시 파일\n(디스크)",
@@ -403,11 +403,11 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 1068621365,
-			"version": 154,
-			"versionNonce": 864684955,
+			"version": 155,
+			"versionNonce": 633675259,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1732333267747,
+			"updated": 1732333421269,
 			"link": null,
 			"locked": false,
 			"text": "캐시 버퍼",
@@ -442,11 +442,11 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 				"type": 2
 			},
 			"seed": 1816233691,
-			"version": 192,
-			"versionNonce": 707100059,
+			"version": 193,
+			"versionNonce": 1963304603,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1732333360556,
+			"updated": 1732333421269,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -494,11 +494,11 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 				"type": 2
 			},
 			"seed": 1526499259,
-			"version": 125,
-			"versionNonce": 147454235,
+			"version": 126,
+			"versionNonce": 75621525,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1732333236220,
+			"updated": 1732333421269,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -544,11 +544,11 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 143619477,
-			"version": 181,
-			"versionNonce": 1709279387,
+			"version": 182,
+			"versionNonce": 1751915323,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1732333240329,
+			"updated": 1732333421269,
 			"link": null,
 			"locked": false,
 			"text": "레코드 정렬",
@@ -583,11 +583,11 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 				"type": 2
 			},
 			"seed": 1180637851,
-			"version": 55,
-			"versionNonce": 715280277,
+			"version": 56,
+			"versionNonce": 945981941,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1732333267747,
+			"updated": 1732333421269,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -629,8 +629,8 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 1273975419,
-			"version": 260,
-			"versionNonce": 2031879899,
+			"version": 261,
+			"versionNonce": 1549466587,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -638,7 +638,7 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 					"type": "arrow"
 				}
 			],
-			"updated": 1732333279750,
+			"updated": 1732333421269,
 			"link": null,
 			"locked": false,
 			"text": "Multi-merge",
@@ -673,11 +673,11 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 				"type": 2
 			},
 			"seed": 839273499,
-			"version": 289,
-			"versionNonce": 177664533,
+			"version": 290,
+			"versionNonce": 1741128533,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1732333331810,
+			"updated": 1732333421269,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -723,11 +723,11 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 217297941,
-			"version": 183,
-			"versionNonce": 367945787,
+			"version": 184,
+			"versionNonce": 1191596213,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1732333354873,
+			"updated": 1732333421269,
 			"link": null,
 			"locked": false,
 			"text": "id, title, user_id, \ndate 컬럼 조회",
@@ -744,10 +744,10 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 		{
 			"id": "CB3B8hDgASX0S9DR1mrVo",
 			"type": "arrow",
-			"x": -91,
-			"y": 185.7578125,
-			"width": 372,
-			"height": 316,
+			"x": -87,
+			"y": 181.7578125,
+			"width": 397,
+			"height": 320,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#383e56",
@@ -758,15 +758,13 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 			"opacity": 100,
 			"groupIds": [],
 			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
+			"roundness": null,
 			"seed": 1988865589,
-			"version": 362,
-			"versionNonce": 903990427,
+			"version": 997,
+			"versionNonce": 1268425947,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1732333390244,
+			"updated": 1732333455742,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -775,16 +773,16 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 					0
 				],
 				[
-					2,
-					115
+					0,
+					108
 				],
 				[
-					-370,
-					110
+					-395,
+					106
 				],
 				[
-					-365,
-					-201
+					-397,
+					-212
 				]
 			],
 			"lastCommittedPoint": [
@@ -793,8 +791,8 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 			],
 			"startBinding": {
 				"elementId": "WJxvo1h6UhLpkDjZTpqlN",
-				"focus": -0.00907670707350353,
-				"gap": 8
+				"focus": -0.04387990762124711,
+				"gap": 4
 			},
 			"endBinding": null,
 			"startArrowhead": null,
@@ -802,8 +800,8 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 		},
 		{
 			"type": "ellipse",
-			"version": 435,
-			"versionNonce": 1524552949,
+			"version": 436,
+			"versionNonce": 1899311515,
 			"isDeleted": true,
 			"id": "ImObfMnQYo6oMPF0hrQVn",
 			"fillStyle": "solid",
@@ -825,14 +823,14 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1732333213872,
+			"updated": 1732333421269,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 390,
-			"versionNonce": 1725751515,
+			"version": 391,
+			"versionNonce": 1294240149,
 			"isDeleted": true,
 			"id": "4AJweT0tFB3McW7M4SNrh",
 			"fillStyle": "solid",
@@ -854,7 +852,7 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1732333213872,
+			"updated": 1732333421269,
 			"link": null,
 			"locked": false
 		},
@@ -877,8 +875,8 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 2013850619,
-			"version": 201,
-			"versionNonce": 713190997,
+			"version": 202,
+			"versionNonce": 1819428411,
 			"isDeleted": true,
 			"boundElements": [
 				{
@@ -886,7 +884,7 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 					"id": "wCKvXD3v"
 				}
 			],
-			"updated": 1732333213872,
+			"updated": 1732333421269,
 			"link": null,
 			"locked": false
 		},
@@ -909,11 +907,11 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 746658491,
-			"version": 159,
-			"versionNonce": 132255099,
+			"version": 160,
+			"versionNonce": 2137558773,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1732333213872,
+			"updated": 1732333421269,
 			"link": null,
 			"locked": false,
 			"text": "임시 파일",
@@ -946,11 +944,11 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 1751751637,
-			"version": 271,
-			"versionNonce": 1764481973,
+			"version": 272,
+			"versionNonce": 1952696027,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1732333213872,
+			"updated": 1732333421269,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -979,8 +977,8 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 1137099899,
-			"version": 58,
-			"versionNonce": 1960355355,
+			"version": 59,
+			"versionNonce": 1237641301,
 			"isDeleted": true,
 			"boundElements": [
 				{
@@ -988,7 +986,7 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 					"id": "7KKdxx2e"
 				}
 			],
-			"updated": 1732333213872,
+			"updated": 1732333421269,
 			"link": null,
 			"locked": false
 		},
@@ -1011,11 +1009,11 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 1439768507,
-			"version": 31,
-			"versionNonce": 1593875733,
+			"version": 32,
+			"versionNonce": 1335636859,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1732333213872,
+			"updated": 1732333421269,
 			"link": null,
 			"locked": false,
 			"text": "메모리",
@@ -1048,8 +1046,8 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 1129923989,
-			"version": 98,
-			"versionNonce": 78850747,
+			"version": 99,
+			"versionNonce": 772740533,
 			"isDeleted": true,
 			"boundElements": [
 				{
@@ -1057,7 +1055,7 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 					"id": "PYcS4iYQ"
 				}
 			],
-			"updated": 1732333213872,
+			"updated": 1732333421269,
 			"link": null,
 			"locked": false
 		},
@@ -1080,11 +1078,11 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 954921979,
-			"version": 32,
-			"versionNonce": 863384181,
+			"version": 33,
+			"versionNonce": 1314786331,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1732333213872,
+			"updated": 1732333421269,
 			"link": null,
 			"locked": false,
 			"text": "CPU",
@@ -1117,11 +1115,11 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 1214653083,
-			"version": 8,
-			"versionNonce": 202644315,
+			"version": 9,
+			"versionNonce": 1466734357,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1732333213872,
+			"updated": 1732333421269,
 			"link": null,
 			"locked": false,
 			"text": "",
@@ -1156,11 +1154,11 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 				"type": 2
 			},
 			"seed": 487173301,
-			"version": 129,
-			"versionNonce": 55712725,
+			"version": 130,
+			"versionNonce": 345755835,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1732333213872,
+			"updated": 1732333421269,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1210,11 +1208,11 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 860035445,
-			"version": 4,
-			"versionNonce": 917100853,
+			"version": 5,
+			"versionNonce": 603455835,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1732333213872,
+			"updated": 1732333421269,
 			"link": null,
 			"locked": false,
 			"text": "",
@@ -1249,11 +1247,11 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 				"type": 2
 			},
 			"seed": 124102811,
-			"version": 29,
-			"versionNonce": 1829139771,
+			"version": 30,
+			"versionNonce": 1528828725,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1732333213872,
+			"updated": 1732333421269,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1299,11 +1297,11 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 313546709,
-			"version": 4,
-			"versionNonce": 1330387419,
+			"version": 5,
+			"versionNonce": 2095368315,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1732333304009,
+			"updated": 1732333421269,
 			"link": null,
 			"locked": false,
 			"text": "",
@@ -1314,6 +1312,43 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 			"verticalAlign": "top",
 			"baseline": 19,
 			"containerId": null,
+			"originalText": "",
+			"lineHeight": 1.2
+		},
+		{
+			"id": "VBmVoMeB",
+			"type": "text",
+			"x": -280.8089183780428,
+			"y": 303.6877558907595,
+			"width": 5.01953125,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#383e56",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 586861051,
+			"version": 2,
+			"versionNonce": 1048254293,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1732333420116,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 4,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 19,
+			"containerId": "CB3B8hDgASX0S9DR1mrVo",
 			"originalText": "",
 			"lineHeight": 1.2
 		}
@@ -1338,7 +1373,7 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 		"zoom": {
 			"value": 1
 		},
-		"currentItemRoundness": "round",
+		"currentItemRoundness": "sharp",
 		"gridSize": null,
 		"gridColor": {
 			"Bold": "#C9C9C9FF",
