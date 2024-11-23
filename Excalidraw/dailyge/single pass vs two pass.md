@@ -14,14 +14,13 @@ tags: [excalidraw]
 ORDER BY
 쿼리 실행 ^cbGdGuEk
 
-임시 파일
-(디스크) ^0rjx5NPr
+임시 파일 (디스크) ^0rjx5NPr
 
 레코드 정렬 ^s0crkJv9
 
 Multi-merge ^RPm7aICo
 
-캐시 버퍼 ^xzTQVzHx
+캐시 버퍼 (메모리) ^xzTQVzHx
 
 id, title, user_id, 
 date 컬럼 조회 ^IQzIHgOY
@@ -358,10 +357,10 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 		{
 			"id": "0rjx5NPr",
 			"type": "text",
-			"x": -28.080078124999993,
-			"y": 119.7578125,
-			"width": 74.16015625,
-			"height": 48,
+			"x": -57.333984375,
+			"y": 138.7578125,
+			"width": 144.66796875,
+			"height": 24,
 			"angle": 0,
 			"strokeColor": "#ffffff",
 			"backgroundColor": "#383e56",
@@ -374,30 +373,30 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 140943067,
-			"version": 245,
-			"versionNonce": 1389430491,
+			"version": 264,
+			"versionNonce": 1295502971,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1732333488164,
+			"updated": 1732333748284,
 			"link": null,
 			"locked": false,
-			"text": "임시 파일\n(디스크)",
-			"rawText": "임시 파일\n(디스크)",
+			"text": "임시 파일 (디스크)",
+			"rawText": "임시 파일 (디스크)",
 			"fontSize": 20,
 			"fontFamily": 4,
 			"textAlign": "center",
 			"verticalAlign": "top",
-			"baseline": 43,
+			"baseline": 19,
 			"containerId": null,
-			"originalText": "임시 파일\n(디스크)",
+			"originalText": "임시 파일 (디스크)",
 			"lineHeight": 1.2
 		},
 		{
 			"id": "xzTQVzHx",
 			"type": "text",
-			"x": -22.080078125,
+			"x": -57.333984375,
 			"y": -66.2421875,
-			"width": 74.16015625,
+			"width": 144.66796875,
 			"height": 24,
 			"angle": 0,
 			"strokeColor": "#ffffff",
@@ -411,22 +410,22 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 1068621365,
-			"version": 156,
-			"versionNonce": 1137420373,
+			"version": 177,
+			"versionNonce": 30800309,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1732333488164,
+			"updated": 1732333740907,
 			"link": null,
 			"locked": false,
-			"text": "캐시 버퍼",
-			"rawText": "캐시 버퍼",
+			"text": "캐시 버퍼 (메모리)",
+			"rawText": "캐시 버퍼 (메모리)",
 			"fontSize": 20,
 			"fontFamily": 4,
 			"textAlign": "center",
 			"verticalAlign": "top",
 			"baseline": 19,
 			"containerId": null,
-			"originalText": "캐시 버퍼",
+			"originalText": "캐시 버퍼 (메모리)",
 			"lineHeight": 1.2
 		},
 		{
