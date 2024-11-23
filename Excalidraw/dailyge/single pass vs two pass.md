@@ -43,8 +43,7 @@ ORDER BY
 
 Multi-merge ^XsnfNtcQ
 
-id, title, user_id, 
-date 컬럼 조회 ^EnKCEuPM
+id, date 컬럼 조회 ^EnKCEuPM
 
 쿼리 결과 반환 ^LQ1tAJEf
 
@@ -875,8 +874,8 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 		{
 			"id": "POruv2Dt",
 			"type": "text",
-			"x": -33,
-			"y": 196.9578125,
+			"x": -292.40784760468784,
+			"y": -267.56321693165035,
 			"width": 143.185546875,
 			"height": 33.6,
 			"angle": 0,
@@ -891,11 +890,11 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 49708891,
-			"version": 271,
-			"versionNonce": 1160020955,
+			"version": 331,
+			"versionNonce": 1471699195,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1732333516521,
+			"updated": 1732334566306,
 			"link": null,
 			"locked": false,
 			"text": "Single Pass",
@@ -911,8 +910,8 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 		},
 		{
 			"type": "rectangle",
-			"version": 610,
-			"versionNonce": 460075637,
+			"version": 611,
+			"versionNonce": 1361410197,
 			"isDeleted": false,
 			"id": "8gy5Qngn6ly0gHJleFC_n",
 			"fillStyle": "solid",
@@ -941,13 +940,9 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 				{
 					"id": "AqydcvKqa9F5v2fjwEK8h",
 					"type": "arrow"
-				},
-				{
-					"id": "HEKnXjzTVAxTHkeD20dHk",
-					"type": "arrow"
 				}
 			],
-			"updated": 1732333950159,
+			"updated": 1732334560163,
 			"link": null,
 			"locked": false
 		},
@@ -1071,8 +1066,8 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 		},
 		{
 			"type": "image",
-			"version": 289,
-			"versionNonce": 1249612853,
+			"version": 290,
+			"versionNonce": 1400086005,
 			"isDeleted": false,
 			"id": "DJWYHJPzqBKOVWxTNaLX3",
 			"fillStyle": "solid",
@@ -1095,13 +1090,9 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 				{
 					"id": "5Cyz6a9a7fppRAXUsL6Rh",
 					"type": "arrow"
-				},
-				{
-					"id": "HEKnXjzTVAxTHkeD20dHk",
-					"type": "arrow"
 				}
 			],
-			"updated": 1732333950159,
+			"updated": 1732334560163,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -1587,8 +1578,8 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 		},
 		{
 			"type": "text",
-			"version": 220,
-			"versionNonce": 1263299797,
+			"version": 239,
+			"versionNonce": 334361147,
 			"isDeleted": false,
 			"id": "EnKCEuPM",
 			"fillStyle": "solid",
@@ -1597,88 +1588,30 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1223.2189336018698,
-			"y": -212.05594741223172,
+			"x": 1219.5992892166882,
+			"y": -195.16427361471716,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#383e56",
-			"width": 144.638671875,
-			"height": 48,
+			"width": 145.791015625,
+			"height": 24,
 			"seed": 1530273269,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1732333950159,
+			"updated": 1732334546789,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 4,
-			"text": "id, title, user_id, \ndate 컬럼 조회",
-			"rawText": "id, title, user_id, \ndate 컬럼 조회",
+			"text": "id, date 컬럼 조회",
+			"rawText": "id, date 컬럼 조회",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "id, title, user_id, \ndate 컬럼 조회",
+			"originalText": "id, date 컬럼 조회",
 			"lineHeight": 1.2,
-			"baseline": 43
-		},
-		{
-			"type": "arrow",
-			"version": 1251,
-			"versionNonce": 1562572411,
-			"isDeleted": false,
-			"id": "HEKnXjzTVAxTHkeD20dHk",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 989.6701054768698,
-			"y": 167.94405258776828,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#383e56",
-			"width": 393,
-			"height": 281,
-			"seed": 319330133,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1732333950366,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "8gy5Qngn6ly0gHJleFC_n",
-				"focus": -0.043879907621248146,
-				"gap": 4
-			},
-			"endBinding": {
-				"elementId": "DJWYHJPzqBKOVWxTNaLX3",
-				"focus": -0.13636363636363902,
-				"gap": 20.999999999999993
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "triangle",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					65
-				],
-				[
-					-393,
-					64
-				],
-				[
-					-393,
-					-216
-				]
-			]
+			"baseline": 19
 		},
 		{
 			"type": "text",
@@ -1719,8 +1652,8 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 		},
 		{
 			"type": "text",
-			"version": 316,
-			"versionNonce": 910244661,
+			"version": 403,
+			"versionNonce": 553608949,
 			"isDeleted": false,
 			"id": "5ZwN6bI8",
 			"fillStyle": "solid",
@@ -1729,8 +1662,8 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1043.6701054768698,
-			"y": 183.14405258776827,
+			"x": 777.0229691018186,
+			"y": -276.55078433030644,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "#383e56",
 			"width": 126.314453125,
@@ -1740,7 +1673,7 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1732333958108,
+			"updated": 1732334563706,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1753,6 +1686,64 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 			"originalText": " Two Pass",
 			"lineHeight": 1.2,
 			"baseline": 26
+		},
+		{
+			"type": "arrow",
+			"version": 1255,
+			"versionNonce": 949670555,
+			"isDeleted": true,
+			"id": "HEKnXjzTVAxTHkeD20dHk",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 989.6701054768698,
+			"y": 166.73750445937435,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#383e56",
+			"width": 393,
+			"height": 281,
+			"seed": 319330133,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1732334560163,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "8gy5Qngn6ly0gHJleFC_n",
+				"focus": -0.04387990762124817,
+				"gap": 2.7934518716060666
+			},
+			"endBinding": {
+				"elementId": "DJWYHJPzqBKOVWxTNaLX3",
+				"focus": -0.13636363636363905,
+				"gap": 19.79345187160606
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "triangle",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					65
+				],
+				[
+					-393,
+					64
+				],
+				[
+					-393,
+					-216
+				]
+			]
 		}
 	],
 	"appState": {
@@ -1770,8 +1761,8 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "triangle",
-		"scrollX": -114.4858393334267,
-		"scrollY": 559.0318275084288,
+		"scrollX": 745.7829762114222,
+		"scrollY": 577.130049434337,
 		"zoom": {
 			"value": 0.8288107009300618
 		},
