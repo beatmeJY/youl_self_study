@@ -22,6 +22,9 @@ Multi-merge ^RPm7aICo
 
 캐시 버퍼 ^xzTQVzHx
 
+id, title, user_id, date
+컬럼 조회 ^IQzIHgOY
+
 
 # Embedded files
 b72bcca81aa8a4d72721999cedc8e53b7410567c: [[Pasted Image 20241123123044_989.png]]
@@ -59,16 +62,20 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 				"type": 3
 			},
 			"seed": 2147396981,
-			"version": 571,
-			"versionNonce": 2104489627,
+			"version": 572,
+			"versionNonce": 1485654229,
 			"isDeleted": false,
 			"boundElements": [
 				{
 					"id": "E_5H58RZzKJn4OxqYuKBp",
 					"type": "arrow"
+				},
+				{
+					"id": "ffbQ6XXaxzck8aPavqwG8",
+					"type": "arrow"
 				}
 			],
-			"updated": 1732333233724,
+			"updated": 1732333287156,
 			"link": null,
 			"locked": false
 		},
@@ -226,8 +233,8 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 		{
 			"id": "EJ5gV0GQOn-7uFx3ht9rN",
 			"type": "image",
-			"x": 187,
-			"y": -194.2421875,
+			"x": 312,
+			"y": -171.2421875,
 			"width": 91.00000000000001,
 			"height": 91.00000000000001,
 			"angle": 0,
@@ -242,11 +249,16 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 131959579,
-			"version": 254,
-			"versionNonce": 996904853,
+			"version": 350,
+			"versionNonce": 1765409621,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1732333213872,
+			"boundElements": [
+				{
+					"id": "ffbQ6XXaxzck8aPavqwG8",
+					"type": "arrow"
+				}
+			],
+			"updated": 1732333331809,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -259,8 +271,8 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 		{
 			"id": "W4atP23J",
 			"type": "text",
-			"x": 179,
-			"y": -69.2421875,
+			"x": 303,
+			"y": -48.2421875,
 			"width": 105.078125,
 			"height": 48,
 			"angle": 0,
@@ -275,11 +287,11 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 769027419,
-			"version": 173,
-			"versionNonce": 780574779,
+			"version": 258,
+			"versionNonce": 2005398837,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1732333213872,
+			"updated": 1732333333189,
 			"link": null,
 			"locked": false,
 			"text": "테이블\n(데이터 파일)",
@@ -597,7 +609,7 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 			"id": "RPm7aICo",
 			"type": "text",
 			"x": -117.6435546875,
-			"y": -12.2421875,
+			"y": -13.2421875,
 			"width": 109.287109375,
 			"height": 24,
 			"angle": 0,
@@ -612,8 +624,8 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 1273975419,
-			"version": 259,
-			"versionNonce": 161106171,
+			"version": 260,
+			"versionNonce": 2031879899,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -621,7 +633,7 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 					"type": "arrow"
 				}
 			],
-			"updated": 1732333277258,
+			"updated": 1732333279750,
 			"link": null,
 			"locked": false,
 			"text": "Multi-merge",
@@ -633,6 +645,95 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 			"baseline": 19,
 			"containerId": null,
 			"originalText": "Multi-merge",
+			"lineHeight": 1.2
+		},
+		{
+			"id": "ffbQ6XXaxzck8aPavqwG8",
+			"type": "arrow",
+			"x": 298,
+			"y": -126.67222748004,
+			"width": 170,
+			"height": 1.0402374143729105,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#383e56",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 839273499,
+			"version": 289,
+			"versionNonce": 177664533,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1732333331810,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-170,
+					-1.0402374143729105
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "EJ5gV0GQOn-7uFx3ht9rN",
+				"focus": 0.012599651172912807,
+				"gap": 14
+			},
+			"endBinding": {
+				"elementId": "WJxvo1h6UhLpkDjZTpqlN",
+				"focus": -0.5817740781827778,
+				"gap": 8
+			},
+			"startArrowhead": null,
+			"endArrowhead": "triangle"
+		},
+		{
+			"id": "IQzIHgOY",
+			"type": "text",
+			"x": 168.548828125,
+			"y": -240.2421875,
+			"width": 184.90234375,
+			"height": 48,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#383e56",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 217297941,
+			"version": 97,
+			"versionNonce": 2139402843,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1732333339846,
+			"link": null,
+			"locked": false,
+			"text": "id, title, user_id, date\n컬럼 조회",
+			"rawText": "id, title, user_id, date\n컬럼 조회",
+			"fontSize": 20,
+			"fontFamily": 4,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 43,
+			"containerId": null,
+			"originalText": "id, title, user_id, date\n컬럼 조회",
 			"lineHeight": 1.2
 		},
 		{
@@ -1114,12 +1215,49 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 			},
 			"startArrowhead": null,
 			"endArrowhead": "triangle"
+		},
+		{
+			"id": "NBDHsrFm",
+			"type": "text",
+			"x": 150.490234375,
+			"y": -213.2421875,
+			"width": 5.01953125,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#383e56",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 313546709,
+			"version": 4,
+			"versionNonce": 1330387419,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1732333304009,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 4,
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"baseline": 19,
+			"containerId": null,
+			"originalText": "",
+			"lineHeight": 1.2
 		}
 	],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#ffffff",
+		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "#383e56",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 1,
@@ -1128,8 +1266,8 @@ c9a738105d147759573d1f014cb4724ee9cc5bbd: [[Pasted Image 20241123123145_023.png]
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 4,
 		"currentItemFontSize": 20,
-		"currentItemTextAlign": "center",
-		"currentItemStartArrowhead": "triangle",
+		"currentItemTextAlign": "left",
+		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "triangle",
 		"scrollX": 670.5,
 		"scrollY": 476.7578125,
