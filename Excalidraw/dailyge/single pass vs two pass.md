@@ -77,8 +77,8 @@ tags: [excalidraw]
 		{
 			"id": "WJxvo1h6UhLpkDjZTpqlN",
 			"type": "rectangle",
-			"x": -382,
-			"y": -192.2421875,
+			"x": -307,
+			"y": -195.2421875,
 			"width": 365,
 			"height": 269,
 			"angle": 0,
@@ -87,19 +87,17 @@ tags: [excalidraw]
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
-			"roughness": 1,
+			"roughness": 0,
 			"opacity": 100,
 			"groupIds": [],
 			"frameId": null,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 130547669,
-			"version": 144,
-			"versionNonce": 524434549,
+			"roundness": null,
+			"seed": 2147396981,
+			"version": 163,
+			"versionNonce": 111464539,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1732332310000,
+			"updated": 1732332434266,
 			"link": null,
 			"locked": false
 		}
@@ -112,7 +110,7 @@ tags: [excalidraw]
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 1,
 		"currentItemStrokeStyle": "solid",
-		"currentItemRoughness": 1,
+		"currentItemRoughness": 0,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 1,
 		"currentItemFontSize": 20,
@@ -124,7 +122,7 @@ tags: [excalidraw]
 		"zoom": {
 			"value": 1
 		},
-		"currentItemRoundness": "round",
+		"currentItemRoundness": "sharp",
 		"gridSize": null,
 		"gridColor": {
 			"Bold": "#C9C9C9FF",
