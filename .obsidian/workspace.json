@@ -85,10 +85,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Rabbitmq/Drawing 2024-12-20 22.11.58.excalidraw.md"
+                "file": "Excalidraw/Rabbitmq/메세지가 유실 될 수 있는 상황.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2024-12-20 22.11.58.excalidraw"
+              "title": "메세지가 유실 될 수 있는 상황"
             }
           }
         ],
@@ -262,7 +262,7 @@
   "active": "138c3716a0ee7a62",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2024-05-04 00.02.33.excalidraw.md",
-    "Excalidraw/Rabbitmq/Drawing 2024-12-20 22.11.58.excalidraw.md",
+    "Excalidraw/Rabbitmq/메세지가 유실 될 수 있는 상황.md",
     "Excalidraw/dailyge/single pass vs two pass.md",
     "Excalidraw/Rabbitmq",
     "images/Pasted Image 20241123130444_158.png",
