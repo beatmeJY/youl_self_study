@@ -91,13 +91,15 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 
 Thread 1 ^EgoGmIRh
 
-Lock 언제 줄꺼야..? ^3O71GIcR
+Lock 언제 주지?? ^3O71GIcR
 
 1. Lock 빌려줄게 ^BbTJWv9Q
 
 Error 발생 ^WSUbHY7w
 
 Lock 반환 로직 ^ZMrzTqsd
+
+아직 Thread1이 안돌려줬어!! ^O5sLCwXk
 
 %%
 # Drawing
@@ -2651,8 +2653,8 @@ Lock 반환 로직 ^ZMrzTqsd
 		},
 		{
 			"type": "rectangle",
-			"version": 1095,
-			"versionNonce": 1926495533,
+			"version": 1096,
+			"versionNonce": 903838541,
 			"isDeleted": false,
 			"id": "BnxTtw35TH7op1ajJ30D0",
 			"fillStyle": "solid",
@@ -2689,9 +2691,13 @@ Lock 반환 로직 ^ZMrzTqsd
 				{
 					"id": "jMs31b3BQ0oQPgiKwszQG",
 					"type": "arrow"
+				},
+				{
+					"id": "f9O-lU9sf_p1eDjlTsMan",
+					"type": "arrow"
 				}
 			],
-			"updated": 1737290914161,
+			"updated": 1737290939696,
 			"link": null,
 			"locked": false
 		},
@@ -2771,8 +2777,8 @@ Lock 반환 로직 ^ZMrzTqsd
 		},
 		{
 			"type": "rectangle",
-			"version": 1131,
-			"versionNonce": 1601587235,
+			"version": 1132,
+			"versionNonce": 986237965,
 			"isDeleted": false,
 			"id": "R5LW5kAgGYt86BgVFJvzd",
 			"fillStyle": "solid",
@@ -2797,9 +2803,13 @@ Lock 반환 로직 ^ZMrzTqsd
 				{
 					"id": "jMs31b3BQ0oQPgiKwszQG",
 					"type": "arrow"
+				},
+				{
+					"id": "f9O-lU9sf_p1eDjlTsMan",
+					"type": "arrow"
 				}
 			],
-			"updated": 1737290924199,
+			"updated": 1737290939696,
 			"link": null,
 			"locked": false
 		},
@@ -3077,10 +3087,10 @@ Lock 반환 로직 ^ZMrzTqsd
 		{
 			"id": "jMs31b3BQ0oQPgiKwszQG",
 			"type": "arrow",
-			"x": 765.4470032913183,
-			"y": -268.11415998613415,
-			"width": 382.85714285714295,
-			"height": 1.4285714285714448,
+			"x": 766.9760211484609,
+			"y": -455.3948998434688,
+			"width": 384.3861607142855,
+			"height": 0,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#f4ae57",
@@ -3095,11 +3105,11 @@ Lock 반환 로직 ^ZMrzTqsd
 				"type": 2
 			},
 			"seed": 505976493,
-			"version": 76,
-			"versionNonce": 1773971597,
+			"version": 277,
+			"versionNonce": 1603779811,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1737290928040,
+			"updated": 1737290986626,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3108,19 +3118,19 @@ Lock 반환 로직 ^ZMrzTqsd
 					0
 				],
 				[
-					-382.85714285714295,
-					1.4285714285714448
+					-384.3861607142855,
+					0
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
-				"elementId": "R5LW5kAgGYt86BgVFJvzd",
-				"focus": 0.025436099538434405,
-				"gap": 10.589722311113178
+				"elementId": "WSUbHY7w",
+				"focus": 1.149377053582847,
+				"gap": 2.509534500191819
 			},
 			"endBinding": {
 				"elementId": "BnxTtw35TH7op1ajJ30D0",
-				"focus": 0.13753369549125388,
+				"focus": -0.6165907309299837,
 				"gap": 9.308037210592829
 			},
 			"startArrowhead": null,
@@ -3129,9 +3139,9 @@ Lock 반환 로직 ^ZMrzTqsd
 		{
 			"id": "3O71GIcR",
 			"type": "text",
-			"x": 516.3007979341754,
-			"y": -240.02822248613427,
-			"width": 220.3359375,
+			"x": 564.8722265056041,
+			"y": -268.5996510575628,
+			"width": 197.8046875,
 			"height": 33.6,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -3145,22 +3155,27 @@ Lock 반환 로직 ^ZMrzTqsd
 			"frameId": null,
 			"roundness": null,
 			"seed": 809354403,
-			"version": 64,
-			"versionNonce": 1795788643,
+			"version": 303,
+			"versionNonce": 2140273475,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1737290930790,
+			"boundElements": [
+				{
+					"id": "jMs31b3BQ0oQPgiKwszQG",
+					"type": "arrow"
+				}
+			],
+			"updated": 1737290996652,
 			"link": null,
 			"locked": false,
-			"text": "Lock 언제 줄꺼야..?",
-			"rawText": "Lock 언제 줄꺼야..?",
+			"text": "Lock 언제 주지??",
+			"rawText": "Lock 언제 주지??",
 			"fontSize": 28,
 			"fontFamily": 4,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"baseline": 27,
 			"containerId": null,
-			"originalText": "Lock 언제 줄꺼야..?",
+			"originalText": "Lock 언제 주지??",
 			"lineHeight": 1.2
 		},
 		{
@@ -3224,11 +3239,16 @@ Lock 반환 로직 ^ZMrzTqsd
 			"frameId": null,
 			"roundness": null,
 			"seed": 312768973,
-			"version": 172,
-			"versionNonce": 809407885,
+			"version": 173,
+			"versionNonce": 1110334787,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1737290914162,
+			"boundElements": [
+				{
+					"id": "jMs31b3BQ0oQPgiKwszQG",
+					"type": "arrow"
+				}
+			],
+			"updated": 1737290986626,
 			"link": null,
 			"locked": false,
 			"text": "Error 발생",
@@ -3493,6 +3513,100 @@ Lock 반환 로직 ^ZMrzTqsd
 			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": null
+		},
+		{
+			"id": "f9O-lU9sf_p1eDjlTsMan",
+			"type": "arrow",
+			"x": 381.2617354341752,
+			"y": -176.08849034327704,
+			"width": 390,
+			"height": 0,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "#ffffff",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "dashed",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 788615843,
+			"version": 49,
+			"versionNonce": 86337763,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1737290963867,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					390,
+					0
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "O5sLCwXk",
+				"focus": -2.1002604166666665,
+				"gap": 13.203125
+			},
+			"endBinding": {
+				"elementId": "R5LW5kAgGYt86BgVFJvzd",
+				"focus": -0.4168051533863548,
+				"gap": 4.774990168256295
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "O5sLCwXk",
+			"type": "text",
+			"x": 384.8722265056037,
+			"y": -162.88536534327704,
+			"width": 231.064453125,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "#ffffff",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "dashed",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 813145443,
+			"version": 64,
+			"versionNonce": 1276431395,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"id": "f9O-lU9sf_p1eDjlTsMan",
+					"type": "arrow"
+				}
+			],
+			"updated": 1737290965405,
+			"link": null,
+			"locked": false,
+			"text": "아직 Thread1이 안돌려줬어!!",
+			"rawText": "아직 Thread1이 안돌려줬어!!",
+			"fontSize": 20,
+			"fontFamily": 4,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 19,
+			"containerId": null,
+			"originalText": "아직 Thread1이 안돌려줬어!!",
+			"lineHeight": 1.2
 		},
 		{
 			"type": "text",
@@ -4450,8 +4564,8 @@ Lock 반환 로직 ^ZMrzTqsd
 		"currentItemStrokeColor": "#e03131",
 		"currentItemBackgroundColor": "#ffffff",
 		"currentItemFillStyle": "hachure",
-		"currentItemStrokeWidth": 4,
-		"currentItemStrokeStyle": "solid",
+		"currentItemStrokeWidth": 2,
+		"currentItemStrokeStyle": "dashed",
 		"currentItemRoughness": 0,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 4,
