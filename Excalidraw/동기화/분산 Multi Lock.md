@@ -1108,30 +1108,30 @@ DB ^kViMrg1h
 		},
 		{
 			"type": "line",
-			"version": 239,
-			"versionNonce": 1818244045,
+			"version": 309,
+			"versionNonce": 1635407075,
 			"isDeleted": false,
-			"id": "hCDEKVL6YYBqF-0cUXUQb",
+			"id": "eWD5fuIGo0bqxX3swjB1z",
 			"fillStyle": "hachure",
 			"strokeWidth": 2,
 			"strokeStyle": "dashed",
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -541.9494901761233,
+			"x": -541.9494901761232,
 			"y": -287.79557082290535,
 			"strokeColor": "#c47a12",
 			"backgroundColor": "#fff9db",
 			"width": 103.59346031863492,
 			"height": 2.4675380722507043,
-			"seed": 701563395,
+			"seed": 533935213,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
-			"boundElements": [],
-			"updated": 1737289771511,
+			"boundElements": null,
+			"updated": 1737290118697,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1800,9 +1800,9 @@ DB ^kViMrg1h
 			"id": "qCTEKQK9ag0mg7hQiqo9i",
 			"type": "arrow",
 			"x": -431.35979053358994,
-			"y": 465.8011522361635,
-			"width": 313.9035774251888,
-			"height": 41.892173113772344,
+			"y": 464.3792137899692,
+			"width": 312.4816389789944,
+			"height": 56.11155757571589,
 			"angle": 0,
 			"strokeColor": "#e03131",
 			"backgroundColor": "#f4ae57",
@@ -1817,11 +1817,11 @@ DB ^kViMrg1h
 				"type": 2
 			},
 			"seed": 609699491,
-			"version": 662,
-			"versionNonce": 1970717165,
+			"version": 711,
+			"versionNonce": 644743245,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1737290091426,
+			"updated": 1737290126325,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1830,20 +1830,20 @@ DB ^kViMrg1h
 					0
 				],
 				[
-					44.71285533002151,
-					39.49195767993746
+					41.86897843763279,
+					49.44552680329787
 				],
 				[
-					313.9035774251888,
-					41.892173113772344
+					312.4816389789944,
+					56.11155757571589
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": null,
 			"endBinding": {
 				"elementId": "84FqmWzIoghXp4AYOg_1k",
-				"focus": -0.43632096183255586,
-				"gap": 5.996179735760734
+				"focus": -0.4894617621972698,
+				"gap": 7.418118181955151
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
@@ -1938,8 +1938,8 @@ DB ^kViMrg1h
 		},
 		{
 			"type": "text",
-			"version": 441,
-			"versionNonce": 1805763491,
+			"version": 526,
+			"versionNonce": 287916003,
 			"isDeleted": false,
 			"id": "tFwiLLNv",
 			"fillStyle": "hachure",
@@ -1948,8 +1948,8 @@ DB ^kViMrg1h
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -76.67984432905223,
-			"y": 207.6057241057884,
+			"x": -80.94565966763525,
+			"y": 224.6689854601206,
 			"strokeColor": "#ffffff",
 			"backgroundColor": "transparent",
 			"width": 33.38671875,
@@ -1968,7 +1968,7 @@ DB ^kViMrg1h
 					"type": "arrow"
 				}
 			],
-			"updated": 1737289771512,
+			"updated": 1737290109308,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2127,8 +2127,8 @@ DB ^kViMrg1h
 		{
 			"id": "9i3C8Mh7",
 			"type": "text",
-			"x": -448.6789999187971,
-			"y": 513.7421181933173,
+			"x": -447.2570614726027,
+			"y": 527.9615026552608,
 			"width": 182.6015625,
 			"height": 67.2,
 			"angle": 0,
@@ -2143,11 +2143,11 @@ DB ^kViMrg1h
 			"frameId": null,
 			"roundness": null,
 			"seed": 1631118243,
-			"version": 462,
-			"versionNonce": 152430787,
+			"version": 478,
+			"versionNonce": 1229508387,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1737290087315,
+			"updated": 1737290128421,
 			"link": null,
 			"locked": false,
 			"text": "6. 트랜잭션 커밋\n(수량 저장 30)",
@@ -2169,7 +2169,7 @@ DB ^kViMrg1h
 			"width": 73.73317462208439,
 			"height": 1.4219384461944173,
 			"angle": 0,
-			"strokeColor": "#e03131",
+			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#f4ae57",
 			"fillStyle": "hachure",
 			"strokeWidth": 4,
@@ -2182,11 +2182,11 @@ DB ^kViMrg1h
 				"type": 2
 			},
 			"seed": 1208979789,
-			"version": 200,
-			"versionNonce": 1112017763,
+			"version": 201,
+			"versionNonce": 1576023075,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1737290058066,
+			"updated": 1737290105422,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2217,7 +2217,7 @@ DB ^kViMrg1h
 			"width": 193.4296875,
 			"height": 33.6,
 			"angle": 0,
-			"strokeColor": "#e03131",
+			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#f4ae57",
 			"fillStyle": "hachure",
 			"strokeWidth": 2,
@@ -2228,8 +2228,8 @@ DB ^kViMrg1h
 			"frameId": null,
 			"roundness": null,
 			"seed": 1700427523,
-			"version": 45,
-			"versionNonce": 1458883203,
+			"version": 46,
+			"versionNonce": 1942026349,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -2237,7 +2237,7 @@ DB ^kViMrg1h
 					"type": "arrow"
 				}
 			],
-			"updated": 1737290053837,
+			"updated": 1737290099712,
 			"link": null,
 			"locked": false,
 			"text": "5. 수량 조회 (50)",
@@ -2254,8 +2254,8 @@ DB ^kViMrg1h
 		{
 			"id": "qGjjUBc3",
 			"type": "text",
-			"x": -76.13112701587784,
-			"y": 479.6155954846526,
+			"x": -78.97500390826644,
+			"y": 495.25691839279057,
 			"width": 33.9609375,
 			"height": 33.6,
 			"angle": 0,
@@ -2270,11 +2270,11 @@ DB ^kViMrg1h
 			"frameId": null,
 			"roundness": null,
 			"seed": 578013443,
-			"version": 36,
-			"versionNonce": 1387601603,
+			"version": 90,
+			"versionNonce": 1016485613,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1737289777012,
+			"updated": 1737290094846,
 			"link": null,
 			"locked": false,
 			"text": "30",
@@ -2472,6 +2472,50 @@ DB ^kViMrg1h
 			"originalText": "30",
 			"lineHeight": 1.2,
 			"baseline": 27
+		},
+		{
+			"type": "line",
+			"version": 389,
+			"versionNonce": 1906131587,
+			"isDeleted": false,
+			"id": "hCDEKVL6YYBqF-0cUXUQb",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "dashed",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -111.10214097923559,
+			"y": 485.73894390682034,
+			"strokeColor": "#c47a12",
+			"backgroundColor": "#fff9db",
+			"width": 103.59346031863492,
+			"height": 2.4675380722507043,
+			"seed": 701563395,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1737290119934,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					103.59346031863492,
+					-2.4675380722507043
+				]
+			]
 		},
 		{
 			"type": "arrow",
@@ -3611,7 +3655,7 @@ DB ^kViMrg1h
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#ffffff",
+		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "#f4ae57",
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 4,
