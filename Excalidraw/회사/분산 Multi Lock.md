@@ -614,7 +614,7 @@ Thread 2 ^o1DpVFI5
 			"width": 33.11328125,
 			"height": 33.6,
 			"angle": 0,
-			"strokeColor": "#1971c2",
+			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -625,11 +625,20 @@ Thread 2 ^o1DpVFI5
 			"frameId": null,
 			"roundness": null,
 			"seed": 502002925,
-			"version": 243,
-			"versionNonce": 1357057891,
+			"version": 246,
+			"versionNonce": 620775341,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1737260837640,
+			"boundElements": [
+				{
+					"id": "CEKz156TQLH_K9Jf1vwYC",
+					"type": "arrow"
+				},
+				{
+					"id": "gP4cj-nCnH-AwKvMJvq5B",
+					"type": "arrow"
+				}
+			],
+			"updated": 1737261004616,
 			"link": null,
 			"locked": false,
 			"text": "20",
@@ -699,11 +708,16 @@ Thread 2 ^o1DpVFI5
 			"frameId": null,
 			"roundness": null,
 			"seed": 1478438371,
-			"version": 250,
-			"versionNonce": 2119387245,
+			"version": 251,
+			"versionNonce": 442498413,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1737260843170,
+			"boundElements": [
+				{
+					"id": "gP4cj-nCnH-AwKvMJvq5B",
+					"type": "arrow"
+				}
+			],
+			"updated": 1737260996989,
 			"link": null,
 			"locked": false,
 			"text": "30",
@@ -1081,7 +1095,7 @@ Thread 2 ^o1DpVFI5
 			"id": "hCDEKVL6YYBqF-0cUXUQb",
 			"type": "line",
 			"x": -159.98473545828608,
-			"y": -122.51819136324627,
+			"y": -131.60913408246506,
 			"width": 106.06099839088552,
 			"height": 1.515157119869741,
 			"angle": 0,
@@ -1098,11 +1112,11 @@ Thread 2 ^o1DpVFI5
 				"type": 2
 			},
 			"seed": 701563395,
-			"version": 48,
-			"versionNonce": 2130764621,
+			"version": 54,
+			"versionNonce": 916883363,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1737260834804,
+			"updated": 1737260992069,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1164,6 +1178,106 @@ Thread 2 ^o1DpVFI5
 			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": null
+		},
+		{
+			"id": "CEKz156TQLH_K9Jf1vwYC",
+			"type": "arrow",
+			"x": -106.98382917534093,
+			"y": -308.8825171072307,
+			"width": 1.5151571198698548,
+			"height": 215.1523110215104,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#fff9db",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 790451373,
+			"version": 83,
+			"versionNonce": 1750801485,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1737261015640,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.5151571198698548,
+					215.1523110215104
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": {
+				"elementId": "tFwiLLNv",
+				"focus": 0.047463242004221036,
+				"gap": 10.381164111195357
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "gP4cj-nCnH-AwKvMJvq5B",
+			"type": "arrow",
+			"x": -105.46867205547107,
+			"y": -36.15423553066819,
+			"width": 0,
+			"height": 60.60628479479169,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#fff9db",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1567439587,
+			"version": 43,
+			"versionNonce": 866999043,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1737261015640,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					60.60628479479169
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "tFwiLLNv",
+				"focus": -0.036241081458362,
+				"gap": 13.594806443856736
+			},
+			"endBinding": {
+				"elementId": "65H6Itzp",
+				"focus": 0.03533651340263799,
+				"gap": 5.83569275158591
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
 		},
 		{
 			"id": "KOpgUTB2",
@@ -2459,7 +2573,7 @@ Thread 2 ^o1DpVFI5
 		"currentItemBackgroundColor": "#fff9db",
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 1,
-		"currentItemStrokeStyle": "dashed",
+		"currentItemStrokeStyle": "solid",
 		"currentItemRoughness": 1,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 4,
