@@ -8,91 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d592b1b7af0f467a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/dailyge/태그 기능 로직 설계.md"
-              },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "aad07a26805c5aeb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/dailyge/Drawing 2024-11-11 20.30.42.excalidraw.md"
-              },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "11cbc13d49e06c49",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.6"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.6"
-            }
-          },
-          {
-            "id": "51a1892af46d0c85",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/dailyge/풀 테이블 스캔.md"
-              },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "5e023ccee4fa4c95",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/dailyge/풀 테이블 스캔.md"
-              },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "4730218298f00462",
+            "id": "55a98dd99be27723",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/dailyge/single pass vs two pass.md"
               },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "47ae5b29f92ebae7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Rabbitmq/메세지가 유실 될 수 있는 상황.md"
-              },
               "icon": "excalidraw-icon",
-              "title": "메세지가 유실 될 수 있는 상황"
+              "title": "single pass vs two pass"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -259,10 +186,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "47ae5b29f92ebae7",
+  "active": "55a98dd99be27723",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-05-04 00.02.33.excalidraw.md",
+    "Excalidraw/dailyge/Drawing 2024-11-11 20.30.42.excalidraw.md",
+    "Excalidraw/회사/Drawing 2025-01-19 12.39.19.excalidraw.md",
     "Excalidraw/Rabbitmq/메세지가 유실 될 수 있는 상황.md",
+    "Excalidraw/회사",
+    "Excalidraw/Drawing 2024-05-04 00.02.33.excalidraw.md",
     "Excalidraw/dailyge/single pass vs two pass.md",
     "Excalidraw/Rabbitmq",
     "images/Pasted Image 20241123130444_158.png",
@@ -273,7 +203,6 @@
     "images/Pasted Image 20241123123115_018.png",
     "images/Pasted Image 20241123123044_989.png",
     "Excalidraw/dailyge/풀 테이블 스캔.md",
-    "Excalidraw/dailyge/Drawing 2024-11-11 20.30.42.excalidraw.md",
     "Excalidraw/dailyge/Drawing 2024-10-11 12.09.12.excalidraw.md",
     "Excalidraw/로그인/세션 로그인.md",
     "Excalidraw/dailyge/CompletableFuture 동기 비동기.md",
@@ -302,11 +231,9 @@
     "Excalidraw/스프링/Drawing 2024-06-03 15.56.47.excalidraw.md",
     "Excalidraw/스프링/디스패처 서블릿 동작.md",
     "Excalidraw/스프링/스밑구 구현 개인 이해도.md",
-    "Excalidraw/스프링/스프링 WAS 구조.md",
     "Excalidraw/스프링",
     "Excalidraw/DB/mysql",
     "Excalidraw/DB/redis",
-    "out/production/Algorithm/단어변환.class",
     "Excalidraw/이력서/이력서 구사.canvas",
     "무제 파일.canvas"
   ]
