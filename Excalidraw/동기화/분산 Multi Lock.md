@@ -52,13 +52,17 @@ DB ^kViMrg1h
 
 2. 수량 조회 (50) ^J5XVZG70
 
-1. 락 획득 ^ZUJ3t6Gs
+1. Lock 획득 ^ZUJ3t6Gs
 
 20 ^lRadDc9w
 
-4. Lock 획득 ^9i3C8Mh7
+5. 트랜잭션 커밋 ^9i3C8Mh7
 
 3. Lock 반환 ^I5o1NMbs
+
+4. Lock 획득 ^GnOfUeIH
+
+5. 수량 조회 (50) ^A4O4IYVb
 
 %%
 # Drawing
@@ -1450,8 +1454,8 @@ DB ^kViMrg1h
 		},
 		{
 			"type": "rectangle",
-			"version": 872,
-			"versionNonce": 285763459,
+			"version": 873,
+			"versionNonce": 88686051,
 			"isDeleted": false,
 			"id": "Kwngjc4UQSkw0jWi-EVzK",
 			"fillStyle": "solid",
@@ -1474,15 +1478,11 @@ DB ^kViMrg1h
 			},
 			"boundElements": [
 				{
-					"id": "qCTEKQK9ag0mg7hQiqo9i",
-					"type": "arrow"
-				},
-				{
 					"id": "Nolxl95dzUjJGpJU7Z6mY",
 					"type": "arrow"
 				}
 			],
-			"updated": 1737289645921,
+			"updated": 1737289690719,
 			"link": null,
 			"locked": false
 		},
@@ -1525,8 +1525,8 @@ DB ^kViMrg1h
 		},
 		{
 			"type": "arrow",
-			"version": 2237,
-			"versionNonce": 692947789,
+			"version": 2259,
+			"versionNonce": 1162351747,
 			"isDeleted": false,
 			"id": "RJV6KwBzLsu0stKD_uQii",
 			"fillStyle": "hachure",
@@ -1536,7 +1536,7 @@ DB ^kViMrg1h
 			"opacity": 100,
 			"angle": 0,
 			"x": -665.9578598337602,
-			"y": 204.5789572727129,
+			"y": 214.53252639607337,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 146.45965995801794,
@@ -1548,18 +1548,18 @@ DB ^kViMrg1h
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1737289653140,
+			"updated": 1737289682237,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "3sFBiWivTmZ_4gqT7Qfzb",
-				"gap": 14.323853319286172,
-				"focus": -0.7528546370128771
+				"focus": -0.713145490874897,
+				"gap": 14.323853319286172
 			},
 			"endBinding": {
 				"elementId": "uSLFvFedYiRma-kux8cAU",
-				"gap": 11.333904662863006,
-				"focus": 0.9014508724718266
+				"focus": 0.8361668788847095,
+				"gap": 11.333904662863006
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -1783,9 +1783,9 @@ DB ^kViMrg1h
 		{
 			"id": "qCTEKQK9ag0mg7hQiqo9i",
 			"type": "arrow",
-			"x": -434.83731785662394,
+			"x": -441.6581788407126,
 			"y": 492.0520024417977,
-			"width": 248.83922808401098,
+			"width": 331.3116579632832,
 			"height": 0,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -1801,11 +1801,11 @@ DB ^kViMrg1h
 				"type": 2
 			},
 			"seed": 609699491,
-			"version": 116,
-			"versionNonce": 843325379,
+			"version": 221,
+			"versionNonce": 1329998307,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1737289586049,
+			"updated": 1737289705998,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1814,26 +1814,22 @@ DB ^kViMrg1h
 					0
 				],
 				[
-					248.83922808401098,
+					331.3116579632832,
 					0
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": null,
-			"endBinding": {
-				"elementId": "Kwngjc4UQSkw0jWi-EVzK",
-				"focus": 0.14672300091108148,
-				"gap": 3.5287210015842447
-			},
+			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
 		},
 		{
 			"id": "ZUJ3t6Gs",
 			"type": "text",
-			"x": -661.9697668479496,
-			"y": 163.94526042950707,
-			"width": 104.876953125,
+			"x": -666.2355821865326,
+			"y": 166.78913732189568,
+			"width": 140.779296875,
 			"height": 33.6,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -1847,22 +1843,22 @@ DB ^kViMrg1h
 			"frameId": null,
 			"roundness": null,
 			"seed": 72931235,
-			"version": 139,
-			"versionNonce": 459338221,
+			"version": 162,
+			"versionNonce": 959891459,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1737289586049,
+			"updated": 1737289684402,
 			"link": null,
 			"locked": false,
-			"text": "1. 락 획득",
-			"rawText": "1. 락 획득",
+			"text": "1. Lock 획득",
+			"rawText": "1. Lock 획득",
 			"fontSize": 28,
 			"fontFamily": 4,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"baseline": 27,
 			"containerId": null,
-			"originalText": "1. 락 획득",
+			"originalText": "1. Lock 획득",
 			"lineHeight": 1.2
 		},
 		{
@@ -2054,10 +2050,10 @@ DB ^kViMrg1h
 			"lineHeight": 1.2
 		},
 		{
-			"id": "9i3C8Mh7",
+			"id": "GnOfUeIH",
 			"type": "text",
 			"x": -423.08410788729896,
-			"y": 385.7676580358255,
+			"y": 394.29928871299154,
 			"width": 146.234375,
 			"height": 33.6,
 			"angle": 0,
@@ -2071,12 +2067,12 @@ DB ^kViMrg1h
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1631118243,
-			"version": 162,
-			"versionNonce": 1672024429,
+			"seed": 1113932995,
+			"version": 180,
+			"versionNonce": 1964023021,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1737289674533,
+			"updated": 1737289695404,
 			"link": null,
 			"locked": false,
 			"text": "4. Lock 획득",
@@ -2088,6 +2084,124 @@ DB ^kViMrg1h
 			"baseline": 27,
 			"containerId": null,
 			"originalText": "4. Lock 획득",
+			"lineHeight": 1.2
+		},
+		{
+			"id": "9i3C8Mh7",
+			"type": "text",
+			"x": -454.36675370357455,
+			"y": 508.0543644085394,
+			"width": 182.328125,
+			"height": 33.6,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#f4ae57",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1631118243,
+			"version": 341,
+			"versionNonce": 375990051,
+			"isDeleted": false,
+			"boundElements": [],
+			"updated": 1737289707090,
+			"link": null,
+			"locked": false,
+			"text": "5. 트랜잭션 커밋",
+			"rawText": "5. 트랜잭션 커밋",
+			"fontSize": 28,
+			"fontFamily": 4,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 27,
+			"containerId": null,
+			"originalText": "5. 트랜잭션 커밋",
+			"lineHeight": 1.2
+		},
+		{
+			"id": "2RHNNrxe69k_wkIjqDhhH",
+			"type": "arrow",
+			"x": -106.08070553884613,
+			"y": 463.8687380824612,
+			"width": 83.89436832546664,
+			"height": 0,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#f4ae57",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1208979789,
+			"version": 40,
+			"versionNonce": 1893616579,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1737289716498,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-83.89436832546664,
+					0
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "A4O4IYVb",
+			"type": "text",
+			"x": -161.44743378753878,
+			"y": 421.31611919068433,
+			"width": 193.4296875,
+			"height": 33.6,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#f4ae57",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1700427523,
+			"version": 30,
+			"versionNonce": 1370001251,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1737289725102,
+			"link": null,
+			"locked": false,
+			"text": "5. 수량 조회 (50)",
+			"rawText": "5. 수량 조회 (50)",
+			"fontSize": 28,
+			"fontFamily": 4,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 27,
+			"containerId": null,
+			"originalText": "5. 수량 조회 (50)",
 			"lineHeight": 1.2
 		},
 		{
