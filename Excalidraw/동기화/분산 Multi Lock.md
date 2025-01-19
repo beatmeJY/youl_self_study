@@ -1786,15 +1786,15 @@ DB ^kViMrg1h
 		{
 			"id": "qCTEKQK9ag0mg7hQiqo9i",
 			"type": "arrow",
-			"x": -440.3362373233162,
-			"y": 491.6909633831939,
-			"width": 329.9897164458868,
-			"height": 0.3610390586038079,
+			"x": -442.7352981031447,
+			"y": 491.3960442676617,
+			"width": 332.38877722571533,
+			"height": 0.6559581741360034,
 			"angle": 0,
 			"strokeColor": "#e03131",
 			"backgroundColor": "#f4ae57",
 			"fillStyle": "hachure",
-			"strokeWidth": 2,
+			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
@@ -1804,11 +1804,11 @@ DB ^kViMrg1h
 				"type": 2
 			},
 			"seed": 609699491,
-			"version": 306,
-			"versionNonce": 1398947939,
+			"version": 442,
+			"versionNonce": 1234709997,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1737289771512,
+			"updated": 1737289820978,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1817,16 +1817,12 @@ DB ^kViMrg1h
 					0
 				],
 				[
-					329.9897164458868,
-					0.3610390586038079
+					332.38877722571533,
+					0.6559581741360034
 				]
 			],
 			"lastCommittedPoint": null,
-			"startBinding": {
-				"elementId": "9i3C8Mh7",
-				"focus": -1.3535176232364465,
-				"gap": 12.097585686762727
-			},
+			"startBinding": null,
 			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
@@ -2096,12 +2092,12 @@ DB ^kViMrg1h
 		{
 			"id": "9i3C8Mh7",
 			"type": "text",
-			"x": -454.36675370357455,
-			"y": 503.7885490699566,
+			"x": -451.5228768111858,
+			"y": 523.6956873166775,
 			"width": 182.328125,
 			"height": 67.2,
 			"angle": 0,
-			"strokeColor": "#1e1e1e",
+			"strokeColor": "#e03131",
 			"backgroundColor": "#f4ae57",
 			"fillStyle": "hachure",
 			"strokeWidth": 2,
@@ -2112,16 +2108,11 @@ DB ^kViMrg1h
 			"frameId": null,
 			"roundness": null,
 			"seed": 1631118243,
-			"version": 382,
-			"versionNonce": 853023949,
+			"version": 411,
+			"versionNonce": 1823012675,
 			"isDeleted": false,
-			"boundElements": [
-				{
-					"id": "qCTEKQK9ag0mg7hQiqo9i",
-					"type": "arrow"
-				}
-			],
-			"updated": 1737289771512,
+			"boundElements": [],
+			"updated": 1737289841900,
 			"link": null,
 			"locked": false,
 			"text": "5. 트랜잭션 커밋\n(수량 저장 30)",
@@ -2143,7 +2134,7 @@ DB ^kViMrg1h
 			"width": 78.2066145406892,
 			"height": 0,
 			"angle": 0,
-			"strokeColor": "#1e1e1e",
+			"strokeColor": "#e03131",
 			"backgroundColor": "#f4ae57",
 			"fillStyle": "hachure",
 			"strokeWidth": 2,
@@ -2156,11 +2147,11 @@ DB ^kViMrg1h
 				"type": 2
 			},
 			"seed": 1208979789,
-			"version": 62,
-			"versionNonce": 590343149,
+			"version": 63,
+			"versionNonce": 552613251,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1737289781992,
+			"updated": 1737289826630,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2191,7 +2182,7 @@ DB ^kViMrg1h
 			"width": 193.4296875,
 			"height": 33.6,
 			"angle": 0,
-			"strokeColor": "#1e1e1e",
+			"strokeColor": "#e03131",
 			"backgroundColor": "#f4ae57",
 			"fillStyle": "hachure",
 			"strokeWidth": 2,
@@ -2202,8 +2193,8 @@ DB ^kViMrg1h
 			"frameId": null,
 			"roundness": null,
 			"seed": 1700427523,
-			"version": 33,
-			"versionNonce": 263881955,
+			"version": 34,
+			"versionNonce": 299477571,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -2211,7 +2202,7 @@ DB ^kViMrg1h
 					"type": "arrow"
 				}
 			],
-			"updated": 1737289779163,
+			"updated": 1737289824334,
 			"link": null,
 			"locked": false,
 			"text": "5. 수량 조회 (50)",
@@ -3366,7 +3357,7 @@ DB ^kViMrg1h
 		"currentItemStrokeColor": "#e03131",
 		"currentItemBackgroundColor": "#f4ae57",
 		"currentItemFillStyle": "hachure",
-		"currentItemStrokeWidth": 2,
+		"currentItemStrokeWidth": 4,
 		"currentItemStrokeStyle": "solid",
 		"currentItemRoughness": 0,
 		"currentItemOpacity": 100,
@@ -3376,7 +3367,7 @@ DB ^kViMrg1h
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"scrollX": 1187.3760227167613,
-		"scrollY": 107.75051728766698,
+		"scrollY": 197.82802664466863,
 		"zoom": {
 			"value": 0.7032653225435901
 		},
