@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/회사/분산 Multi Lock.md"
+                "file": "Excalidraw/동기화/분산 Multi Lock.md"
               },
               "icon": "excalidraw-icon",
               "title": "분산 Multi Lock"
@@ -193,7 +193,7 @@
     "Excalidraw/동기화/식사하는 철학자 비대칭방식.md",
     "Excalidraw/동기화/경쟁상태.md",
     "Excalidraw/동기화/교착상태.md",
-    "Excalidraw/회사/분산 Multi Lock.md",
+    "Excalidraw/동기화/분산 Multi Lock.md",
     "Excalidraw/dailyge/깃 브랜치전략 깃 플로우.md",
     "Excalidraw/dailyge/CompletableFuture 동기 비동기.md",
     "Excalidraw/dailyge/회고 초안.md",
