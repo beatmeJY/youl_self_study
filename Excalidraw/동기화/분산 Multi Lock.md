@@ -93,6 +93,10 @@ Thread 1 ^EgoGmIRh
 
 Lock 언제 줄꺼야? ^3O71GIcR
 
+Lock 빌려줄게 ^BbTJWv9Q
+
+Error ^WSUbHY7w
+
 %%
 # Drawing
 ```json
@@ -2611,8 +2615,8 @@ Lock 언제 줄꺼야? ^3O71GIcR
 		},
 		{
 			"type": "rectangle",
-			"version": 1245,
-			"versionNonce": 461499491,
+			"version": 1259,
+			"versionNonce": 366418883,
 			"isDeleted": false,
 			"id": "cmXOxLSRS1TtkASLZmaM6",
 			"fillStyle": "solid",
@@ -2621,8 +2625,8 @@ Lock 언제 줄꺼야? ^3O71GIcR
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 548.2431180561383,
-			"y": -531.5567909830557,
+			"x": 561.1002609132811,
+			"y": -530.1282195544843,
 			"strokeColor": "#ffffff",
 			"backgroundColor": "#3e5f7e",
 			"width": 77.99999999999997,
@@ -2639,7 +2643,7 @@ Lock 언제 줄꺼야? ^3O71GIcR
 					"type": "arrow"
 				}
 			],
-			"updated": 1737290617910,
+			"updated": 1737290652369,
 			"link": null,
 			"locked": false
 		},
@@ -2728,8 +2732,8 @@ Lock 언제 줄꺼야? ^3O71GIcR
 		},
 		{
 			"type": "text",
-			"version": 727,
-			"versionNonce": 2020251117,
+			"version": 767,
+			"versionNonce": 2081689507,
 			"isDeleted": false,
 			"id": "EgoGmIRh",
 			"fillStyle": "solid",
@@ -2738,8 +2742,8 @@ Lock 언제 줄꺼야? ^3O71GIcR
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 536.396585372597,
-			"y": -578.6989692099396,
+			"x": 546.396585372597,
+			"y": -580.127540638511,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#fff9db",
 			"width": 108.486328125,
@@ -2749,7 +2753,7 @@ Lock 언제 줄꺼야? ^3O71GIcR
 			"frameId": null,
 			"roundness": null,
 			"boundElements": null,
-			"updated": 1737290585319,
+			"updated": 1737290654452,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -3020,9 +3024,9 @@ Lock 언제 줄꺼야? ^3O71GIcR
 			"id": "u6kKQvNy7giL1vV-NL6wg",
 			"type": "arrow",
 			"x": 375.4470032913183,
-			"y": -496.8902591918512,
-			"width": 167.1428571428571,
-			"height": 0,
+			"y": -498.17613880588596,
+			"width": 178.57142857142844,
+			"height": 0.5066011689922902,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#f4ae57",
@@ -3037,11 +3041,11 @@ Lock 언제 줄꺼야? ^3O71GIcR
 				"type": 2
 			},
 			"seed": 94615309,
-			"version": 92,
-			"versionNonce": 834958179,
+			"version": 140,
+			"versionNonce": 1894839981,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1737290619944,
+			"updated": 1737290658372,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3050,15 +3054,15 @@ Lock 언제 줄꺼야? ^3O71GIcR
 					0
 				],
 				[
-					167.1428571428571,
-					0
+					178.57142857142844,
+					-0.5066011689922902
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
-				"elementId": "BnxTtw35TH7op1ajJ30D0",
-				"focus": -0.782240868049275,
-				"gap": 2.1651800677357755
+				"elementId": "BbTJWv9Q",
+				"focus": 1.7086631681462772,
+				"gap": 12.537797965962682
 			},
 			"endBinding": {
 				"elementId": "cmXOxLSRS1TtkASLZmaM6",
@@ -3155,6 +3159,85 @@ Lock 언제 줄꺼야? ^3O71GIcR
 			"baseline": 27,
 			"containerId": null,
 			"originalText": "Lock 언제 줄꺼야?",
+			"lineHeight": 1.2
+		},
+		{
+			"id": "BbTJWv9Q",
+			"type": "text",
+			"x": 376.30079793417536,
+			"y": -544.3139367718486,
+			"width": 163.92578125,
+			"height": 33.6,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#f4ae57",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "dashed",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 814456451,
+			"version": 40,
+			"versionNonce": 234193293,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"id": "u6kKQvNy7giL1vV-NL6wg",
+					"type": "arrow"
+				}
+			],
+			"updated": 1737290654894,
+			"link": null,
+			"locked": false,
+			"text": "Lock 빌려줄게",
+			"rawText": "Lock 빌려줄게",
+			"fontSize": 28,
+			"fontFamily": 4,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 27,
+			"containerId": null,
+			"originalText": "Lock 빌려줄게",
+			"lineHeight": 1.2
+		},
+		{
+			"id": "WSUbHY7w",
+			"type": "text",
+			"x": 570.5865122198898,
+			"y": -464.3139367718485,
+			"width": 60.662109375,
+			"height": 33.6,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "#f4ae57",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "dashed",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 312768973,
+			"version": 85,
+			"versionNonce": 1983000419,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1737290682440,
+			"link": null,
+			"locked": false,
+			"text": "Error",
+			"rawText": "Error",
+			"fontSize": 28,
+			"fontFamily": 4,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 27,
+			"containerId": null,
+			"originalText": "Error",
 			"lineHeight": 1.2
 		},
 		{
@@ -4031,12 +4114,49 @@ Lock 언제 줄꺼야? ^3O71GIcR
 			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
+		},
+		{
+			"id": "Yat2WZAi",
+			"type": "text",
+			"x": 476.3007979341755,
+			"y": -355.7425082004199,
+			"width": 7.02734375,
+			"height": 33.6,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "#f4ae57",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "dashed",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 45751757,
+			"version": 2,
+			"versionNonce": 895355171,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1737290691980,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 28,
+			"fontFamily": 4,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 27,
+			"containerId": null,
+			"originalText": "",
+			"lineHeight": 1.2
 		}
 	],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1e1e1e",
+		"currentItemStrokeColor": "#e03131",
 		"currentItemBackgroundColor": "#f4ae57",
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 2,
