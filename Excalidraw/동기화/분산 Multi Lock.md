@@ -97,6 +97,8 @@ Lock 언제 줄꺼야? ^3O71GIcR
 
 Error 발생 ^WSUbHY7w
 
+Lock 반환 로직 ^ZMrzTqsd
+
 %%
 # Drawing
 ```json
@@ -3272,14 +3274,14 @@ Error 발생 ^WSUbHY7w
 		{
 			"id": "ID4YguaPdvSg69f-eZ7AJ",
 			"type": "rectangle",
-			"x": 569.8331640056037,
-			"y": -373.23134748613404,
-			"width": 56.37362637362633,
-			"height": 27.14285714285711,
+			"x": 565.5474497198895,
+			"y": -378.9456332004197,
+			"width": 68.2417582417581,
+			"height": 32.85714285714278,
 			"angle": 0,
 			"strokeColor": "#ffffff",
-			"backgroundColor": "#a5d8ff",
-			"fillStyle": "solid",
+			"backgroundColor": "#ffffff",
+			"fillStyle": "hachure",
 			"strokeWidth": 2,
 			"strokeStyle": "dashed",
 			"roughness": 0,
@@ -3290,13 +3292,50 @@ Error 발생 ^WSUbHY7w
 				"type": 3
 			},
 			"seed": 174942659,
-			"version": 73,
-			"versionNonce": 1858235331,
+			"version": 90,
+			"versionNonce": 1456533229,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1737290823290,
+			"updated": 1737290852822,
 			"link": null,
 			"locked": false
+		},
+		{
+			"id": "ZMrzTqsd",
+			"type": "text",
+			"x": 483.4436550770323,
+			"y": -372.88536534327704,
+			"width": 122.109375,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffffff",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "dashed",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 847414691,
+			"version": 59,
+			"versionNonce": 485138573,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1737290870836,
+			"link": null,
+			"locked": false,
+			"text": "Lock 반환 로직",
+			"rawText": "Lock 반환 로직",
+			"fontSize": 20,
+			"fontFamily": 4,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 19,
+			"containerId": null,
+			"originalText": "Lock 반환 로직",
+			"lineHeight": 1.2
 		},
 		{
 			"type": "text",
@@ -4251,9 +4290,9 @@ Error 발생 ^WSUbHY7w
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#ffffff",
-		"currentItemBackgroundColor": "#a5d8ff",
-		"currentItemFillStyle": "solid",
+		"currentItemStrokeColor": "#1e1e1e",
+		"currentItemBackgroundColor": "#ffffff",
+		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 2,
 		"currentItemStrokeStyle": "dashed",
 		"currentItemRoughness": 0,
