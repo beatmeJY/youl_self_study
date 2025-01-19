@@ -79,9 +79,7 @@ Lock이 없는 경우 불일치 발생 ^AbmtqJFv
 
  ^9xCL8CVL
 
-Thread 1 ^TspycWzh
-
-Thread 2 ^J4wb00xb
+Thread 2 ^TspycWzh
 
  ^dwlKa0VD
 
@@ -89,30 +87,11 @@ DB ^FEDAfDGq
 
 Lock ^YUbKxwav
 
-1. Lock 획득 ^HNPZVBfI
-
-2. 수량 조회 (50) ^wyxGoQAB
-
-50 ^2hSTBHmd
-
-3. Lock 반환 ^m0ne8tWQ
-
-4. Lock 획득 ^RNFnuFC3
-
-6. 트랜잭션 커밋
-(수량 저장 30) ^EbejV2gK
-
-5. 수량 조회 (50) ^DAowwaLP
-
-30 ^oQlYmBpE
-
-50 ^hGcnlIpb
-
-50 ^ly4Tx3D5
-
-30 ^CnQ4Rel9
-
 Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9nQ
+
+Thread 1 ^EgoGmIRh
+
+Lock 언제 줄꺼야? ^3O71GIcR
 
 %%
 # Drawing
@@ -2632,8 +2611,8 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 		},
 		{
 			"type": "rectangle",
-			"version": 1064,
-			"versionNonce": 1538413635,
+			"version": 1245,
+			"versionNonce": 461499491,
 			"isDeleted": false,
 			"id": "cmXOxLSRS1TtkASLZmaM6",
 			"fillStyle": "solid",
@@ -2642,12 +2621,12 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 549.6716894847098,
-			"y": -530.1282195544843,
+			"x": 548.2431180561383,
+			"y": -531.5567909830557,
 			"strokeColor": "#ffffff",
 			"backgroundColor": "#3e5f7e",
 			"width": 77.99999999999997,
-			"height": 304.5043539622005,
+			"height": 214.50435396220058,
 			"seed": 905712163,
 			"groupIds": [],
 			"frameId": null,
@@ -2656,26 +2635,18 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 			},
 			"boundElements": [
 				{
-					"id": "WSEBbN045N1v5xwwaAvmL",
-					"type": "arrow"
-				},
-				{
-					"id": "qLu9YsnrTj6kyui-MeddJ",
-					"type": "arrow"
-				},
-				{
-					"id": "KM08F776v1Vtd0LtVrI8L",
+					"id": "u6kKQvNy7giL1vV-NL6wg",
 					"type": "arrow"
 				}
 			],
-			"updated": 1737290519197,
+			"updated": 1737290617910,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 1088,
-			"versionNonce": 1694538435,
+			"version": 1091,
+			"versionNonce": 636276739,
 			"isDeleted": false,
 			"id": "BnxTtw35TH7op1ajJ30D0",
 			"fillStyle": "solid",
@@ -2684,7 +2655,7 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 272.710394652154,
+			"x": 271.28182322358253,
 			"y": -551.4389217455079,
 			"strokeColor": "#ffffff",
 			"backgroundColor": "#f4ae57",
@@ -2704,16 +2675,24 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 				{
 					"id": "KM08F776v1Vtd0LtVrI8L",
 					"type": "arrow"
+				},
+				{
+					"id": "u6kKQvNy7giL1vV-NL6wg",
+					"type": "arrow"
+				},
+				{
+					"id": "jMs31b3BQ0oQPgiKwszQG",
+					"type": "arrow"
 				}
 			],
-			"updated": 1737290519197,
+			"updated": 1737290624997,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 613,
-			"versionNonce": 944130659,
+			"version": 614,
+			"versionNonce": 981454883,
 			"isDeleted": false,
 			"id": "9xCL8CVL",
 			"fillStyle": "solid",
@@ -2722,7 +2701,7 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 320.028395445611,
+			"x": 318.59982401703957,
 			"y": -317.7389217455079,
 			"strokeColor": "#ffffff",
 			"backgroundColor": "#a5d8ff",
@@ -2733,7 +2712,7 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1737290519197,
+			"updated": 1737290579901,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2749,10 +2728,10 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 		},
 		{
 			"type": "text",
-			"version": 721,
-			"versionNonce": 1651836419,
+			"version": 727,
+			"versionNonce": 2020251117,
 			"isDeleted": false,
-			"id": "TspycWzh",
+			"id": "EgoGmIRh",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
@@ -2765,12 +2744,12 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 			"backgroundColor": "#fff9db",
 			"width": 108.486328125,
 			"height": 33.6,
-			"seed": 1404928259,
+			"seed": 742013891,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": [],
-			"updated": 1737290519197,
+			"boundElements": null,
+			"updated": 1737290585319,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2786,8 +2765,8 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 		},
 		{
 			"type": "rectangle",
-			"version": 977,
-			"versionNonce": 982207907,
+			"version": 1120,
+			"versionNonce": 1090708675,
 			"isDeleted": false,
 			"id": "R5LW5kAgGYt86BgVFJvzd",
 			"fillStyle": "solid",
@@ -2796,12 +2775,12 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 787.465297031003,
-			"y": -324.34855670808025,
+			"x": 778.8938684595744,
+			"y": -471.4914138509373,
 			"strokeColor": "#ffffff",
 			"backgroundColor": "#234b71",
 			"width": 78,
-			"height": 286.99865758055375,
+			"height": 416.99865758055375,
 			"seed": 51144867,
 			"groupIds": [],
 			"frameId": null,
@@ -2810,111 +2789,18 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 			},
 			"boundElements": [
 				{
-					"id": "WSEBbN045N1v5xwwaAvmL",
-					"type": "arrow"
-				},
-				{
-					"id": "WBXJ0ZA5Oq8JBDVTAzvS3",
+					"id": "jMs31b3BQ0oQPgiKwszQG",
 					"type": "arrow"
 				}
 			],
-			"updated": 1737290519197,
+			"updated": 1737290624997,
 			"link": null,
 			"locked": false
 		},
 		{
-			"type": "text",
-			"version": 793,
-			"versionNonce": 2130472067,
-			"isDeleted": false,
-			"id": "J4wb00xb",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 770.1108149276583,
-			"y": -385.01861913713594,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#fff9db",
-			"width": 112.642578125,
-			"height": 33.6,
-			"seed": 593321027,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1737290519197,
-			"link": null,
-			"locked": false,
-			"fontSize": 28,
-			"fontFamily": 4,
-			"text": "Thread 2",
-			"rawText": "Thread 2",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Thread 2",
-			"lineHeight": 1.2,
-			"baseline": 27
-		},
-		{
-			"type": "arrow",
-			"version": 2851,
-			"versionNonce": 863977165,
-			"isDeleted": false,
-			"id": "KM08F776v1Vtd0LtVrI8L",
-			"fillStyle": "hachure",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 381.9146651475119,
-			"y": -475.6149470057012,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 163.53281190530674,
-			"height": 1.7306797806982672,
-			"seed": 1619975139,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1737290519348,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "HNPZVBfI",
-				"focus": 1.778057718326561,
-				"gap": 15.107921288450598
-			},
-			"endBinding": {
-				"elementId": "cmXOxLSRS1TtkASLZmaM6",
-				"focus": 0.6545513618645159,
-				"gap": 4.2242124318911465
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					163.53281190530674,
-					-1.7306797806982672
-				]
-			]
-		},
-		{
 			"type": "rectangle",
-			"version": 1180,
-			"versionNonce": 1836541891,
+			"version": 1182,
+			"versionNonce": 1559677731,
 			"isDeleted": false,
 			"id": "xQfBvaGun04wLc2S17BSZ",
 			"fillStyle": "solid",
@@ -2923,7 +2809,7 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 943.53207443256,
+			"x": 942.1035030039885,
 			"y": -545.7511679607306,
 			"strokeColor": "#ffffff",
 			"backgroundColor": "#f4ae57",
@@ -2939,32 +2825,16 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 				{
 					"type": "text",
 					"id": "dwlKa0VD"
-				},
-				{
-					"id": "KM08F776v1Vtd0LtVrI8L",
-					"type": "arrow"
-				},
-				{
-					"id": "qLu9YsnrTj6kyui-MeddJ",
-					"type": "arrow"
-				},
-				{
-					"id": "7cTKfaEzqdtQIoEaNd1bE",
-					"type": "arrow"
-				},
-				{
-					"id": "WBXJ0ZA5Oq8JBDVTAzvS3",
-					"type": "arrow"
 				}
 			],
-			"updated": 1737290519197,
+			"updated": 1737290583045,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 708,
-			"versionNonce": 39548771,
+			"version": 709,
+			"versionNonce": 1450501507,
 			"isDeleted": false,
 			"id": "dwlKa0VD",
 			"fillStyle": "solid",
@@ -2973,7 +2843,7 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 990.850075226017,
+			"x": 989.4215037974456,
 			"y": -312.0511679607306,
 			"strokeColor": "#ffffff",
 			"backgroundColor": "#a5d8ff",
@@ -2984,7 +2854,7 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1737290519197,
+			"updated": 1737290579901,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -3073,10 +2943,314 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 			"baseline": 27
 		},
 		{
-			"type": "arrow",
-			"version": 782,
-			"versionNonce": 653111181,
+			"type": "text",
+			"version": 490,
+			"versionNonce": 1735016995,
 			"isDeleted": false,
+			"id": "vO69w9nQ",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 375.5786200250909,
+			"y": 41.73018071971438,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#f4ae57",
+			"width": 593.27734375,
+			"height": 33.6,
+			"seed": 197013411,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1737290569869,
+			"link": null,
+			"locked": false,
+			"fontSize": 28,
+			"fontFamily": 4,
+			"text": "Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제",
+			"rawText": "Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제",
+			"lineHeight": 1.2,
+			"baseline": 27
+		},
+		{
+			"type": "text",
+			"version": 816,
+			"versionNonce": 1306878253,
+			"isDeleted": false,
+			"id": "TspycWzh",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 764.9680139440254,
+			"y": -512.9846834956538,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#fff9db",
+			"width": 112.642578125,
+			"height": 33.6,
+			"seed": 1404928259,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1737290592202,
+			"link": null,
+			"locked": false,
+			"fontSize": 28,
+			"fontFamily": 4,
+			"text": "Thread 2",
+			"rawText": "Thread 2",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Thread 2",
+			"lineHeight": 1.2,
+			"baseline": 27
+		},
+		{
+			"id": "u6kKQvNy7giL1vV-NL6wg",
+			"type": "arrow",
+			"x": 375.4470032913183,
+			"y": -496.8902591918512,
+			"width": 167.1428571428571,
+			"height": 0,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#f4ae57",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 94615309,
+			"version": 92,
+			"versionNonce": 834958179,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1737290619944,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					167.1428571428571,
+					0
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "BnxTtw35TH7op1ajJ30D0",
+				"focus": -0.782240868049275,
+				"gap": 2.1651800677357755
+			},
+			"endBinding": {
+				"elementId": "cmXOxLSRS1TtkASLZmaM6",
+				"focus": 0.6767754952208256,
+				"gap": 5.653257621962894
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "jMs31b3BQ0oQPgiKwszQG",
+			"type": "arrow",
+			"x": 768.3041461484612,
+			"y": -268.11415998613415,
+			"width": 391.4285714285715,
+			"height": 0,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#f4ae57",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "dashed",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 505976493,
+			"version": 43,
+			"versionNonce": 1951367149,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1737290629899,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-391.4285714285715,
+					0
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "R5LW5kAgGYt86BgVFJvzd",
+				"focus": 0.024566385681873658,
+				"gap": 10.589722311113178
+			},
+			"endBinding": {
+				"elementId": "BnxTtw35TH7op1ajJ30D0",
+				"focus": 0.13103697309131215,
+				"gap": 3.5937514963071635
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "3O71GIcR",
+			"type": "text",
+			"x": 522.0150836484612,
+			"y": -240.02822248613427,
+			"width": 208.578125,
+			"height": 33.6,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#f4ae57",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "dashed",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 809354403,
+			"version": 54,
+			"versionNonce": 333741485,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1737290640606,
+			"link": null,
+			"locked": false,
+			"text": "Lock 언제 줄꺼야?",
+			"rawText": "Lock 언제 줄꺼야?",
+			"fontSize": 28,
+			"fontFamily": 4,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 27,
+			"containerId": null,
+			"originalText": "Lock 언제 줄꺼야?",
+			"lineHeight": 1.2
+		},
+		{
+			"type": "text",
+			"version": 795,
+			"versionNonce": 1086601229,
+			"isDeleted": true,
+			"id": "J4wb00xb",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 768.6822434990869,
+			"y": -385.01861913713594,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#fff9db",
+			"width": 112.642578125,
+			"height": 33.6,
+			"seed": 593321027,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1737290583044,
+			"link": null,
+			"locked": false,
+			"fontSize": 28,
+			"fontFamily": 4,
+			"text": "Thread 2",
+			"rawText": "Thread 2",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Thread 2",
+			"lineHeight": 1.2,
+			"baseline": 27
+		},
+		{
+			"type": "arrow",
+			"version": 2857,
+			"versionNonce": 1187306307,
+			"isDeleted": true,
+			"id": "KM08F776v1Vtd0LtVrI8L",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 380.4860937189405,
+			"y": -475.6149470057012,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 163.53281190530674,
+			"height": 1.7306797806982672,
+			"seed": 1619975139,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1737290583044,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "HNPZVBfI",
+				"focus": 1.7780577183265607,
+				"gap": 15.107921288450598
+			},
+			"endBinding": {
+				"elementId": "cmXOxLSRS1TtkASLZmaM6",
+				"focus": 0.6545513618645159,
+				"gap": 4.224212431891033
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					163.53281190530674,
+					-1.7306797806982672
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 788,
+			"versionNonce": 419147373,
+			"isDeleted": true,
 			"id": "qLu9YsnrTj6kyui-MeddJ",
 			"fillStyle": "hachure",
 			"strokeWidth": 2,
@@ -3084,7 +3258,7 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 934.1932570597435,
+			"x": 932.764685631172,
 			"y": -439.4154920103705,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#f4ae57",
@@ -3097,17 +3271,17 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1737290519348,
+			"updated": 1737290583044,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "xQfBvaGun04wLc2S17BSZ",
-				"focus": 0.5758124092588954,
-				"gap": 9.338817372816493
+				"focus": 0.5758124092588955,
+				"gap": 9.338817372816436
 			},
 			"endBinding": {
 				"elementId": "cmXOxLSRS1TtkASLZmaM6",
-				"focus": -0.3983227850508982,
+				"focus": -0.39832278505089824,
 				"gap": 5.935971232158067
 			},
 			"lastCommittedPoint": null,
@@ -3126,9 +3300,9 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 		},
 		{
 			"type": "arrow",
-			"version": 918,
-			"versionNonce": 2047489517,
-			"isDeleted": false,
+			"version": 922,
+			"versionNonce": 1219394275,
+			"isDeleted": true,
 			"id": "7cTKfaEzqdtQIoEaNd1bE",
 			"fillStyle": "hachure",
 			"strokeWidth": 4,
@@ -3136,7 +3310,7 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 623.6323172716104,
+			"x": 622.203745843039,
 			"y": -229.5766687184675,
 			"strokeColor": "#e03131",
 			"backgroundColor": "#f4ae57",
@@ -3149,14 +3323,14 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1737290519348,
+			"updated": 1737290583044,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
 			"endBinding": {
 				"elementId": "xQfBvaGun04wLc2S17BSZ",
 				"focus": -0.48946176219726817,
-				"gap": 7.418118181955151
+				"gap": 7.418118181955094
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -3178,9 +3352,9 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 		},
 		{
 			"type": "text",
-			"version": 285,
-			"versionNonce": 850633827,
-			"isDeleted": false,
+			"version": 288,
+			"versionNonce": 1188523715,
+			"isDeleted": true,
 			"id": "HNPZVBfI",
 			"fillStyle": "hachure",
 			"strokeWidth": 2,
@@ -3188,7 +3362,7 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 378.8029564953072,
+			"x": 377.3743850667358,
 			"y": -524.3228682941518,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#f4ae57",
@@ -3198,13 +3372,8 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": [
-				{
-					"id": "KM08F776v1Vtd0LtVrI8L",
-					"type": "arrow"
-				}
-			],
-			"updated": 1737290519197,
+			"boundElements": [],
+			"updated": 1737290583045,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -3220,9 +3389,9 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 		},
 		{
 			"type": "text",
-			"version": 372,
-			"versionNonce": 686434211,
-			"isDeleted": false,
+			"version": 374,
+			"versionNonce": 126035587,
+			"isDeleted": true,
 			"id": "wyxGoQAB",
 			"fillStyle": "hachure",
 			"strokeWidth": 2,
@@ -3230,7 +3399,7 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 712.9584913509793,
+			"x": 711.5299199224079,
 			"y": -484.50859180071006,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#f4ae57",
@@ -3250,7 +3419,7 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 					"type": "arrow"
 				}
 			],
-			"updated": 1737290519197,
+			"updated": 1737290583044,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -3266,9 +3435,9 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 		},
 		{
 			"type": "text",
-			"version": 628,
-			"versionNonce": 1697332035,
-			"isDeleted": false,
+			"version": 630,
+			"versionNonce": 42645293,
+			"isDeleted": true,
 			"id": "2hSTBHmd",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -3276,7 +3445,7 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 974.046448137565,
+			"x": 972.6178767089935,
 			"y": -469.2868970483156,
 			"strokeColor": "#ffffff",
 			"backgroundColor": "transparent",
@@ -3287,7 +3456,7 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1737290519197,
+			"updated": 1737290583044,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -3303,9 +3472,9 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 		},
 		{
 			"type": "arrow",
-			"version": 1133,
-			"versionNonce": 272457389,
-			"isDeleted": false,
+			"version": 1139,
+			"versionNonce": 1241603619,
+			"isDeleted": true,
 			"id": "WSEBbN045N1v5xwwaAvmL",
 			"fillStyle": "hachure",
 			"strokeWidth": 2,
@@ -3313,7 +3482,7 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 548.4191062274826,
+			"x": 546.9905347989112,
 			"y": -287.72862791125084,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#f4ae57",
@@ -3326,7 +3495,7 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1737290519349,
+			"updated": 1737290583044,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3363,9 +3532,9 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 		},
 		{
 			"type": "text",
-			"version": 182,
-			"versionNonce": 1204913795,
-			"isDeleted": false,
+			"version": 184,
+			"versionNonce": 1474644365,
+			"isDeleted": true,
 			"id": "m0ne8tWQ",
 			"fillStyle": "hachure",
 			"strokeWidth": 2,
@@ -3373,7 +3542,7 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 385.912648726279,
+			"x": 384.48407729770753,
 			"y": -339.47087028888643,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#f4ae57",
@@ -3384,7 +3553,7 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1737290519197,
+			"updated": 1737290583044,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -3400,9 +3569,9 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 		},
 		{
 			"type": "text",
-			"version": 299,
-			"versionNonce": 830717475,
-			"isDeleted": false,
+			"version": 301,
+			"versionNonce": 2065146307,
+			"isDeleted": true,
 			"id": "RNFnuFC3",
 			"fillStyle": "hachure",
 			"strokeWidth": 2,
@@ -3410,7 +3579,7 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 634.75187681029,
+			"x": 633.3233053817186,
 			"y": -305.3443475802223,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#f4ae57",
@@ -3426,7 +3595,7 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 					"type": "arrow"
 				}
 			],
-			"updated": 1737290519197,
+			"updated": 1737290583044,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -3442,9 +3611,9 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 		},
 		{
 			"type": "text",
-			"version": 580,
-			"versionNonce": 55443907,
-			"isDeleted": false,
+			"version": 582,
+			"versionNonce": 486445037,
+			"isDeleted": true,
 			"id": "EbejV2gK",
 			"fillStyle": "hachure",
 			"strokeWidth": 2,
@@ -3452,7 +3621,7 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 607.7350463325977,
+			"x": 606.3064749040262,
 			"y": -165.99437985317576,
 			"strokeColor": "#e03131",
 			"backgroundColor": "#f4ae57",
@@ -3463,7 +3632,7 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1737290519197,
+			"updated": 1737290583044,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -3479,9 +3648,9 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 		},
 		{
 			"type": "arrow",
-			"version": 525,
-			"versionNonce": 1422743405,
-			"isDeleted": false,
+			"version": 531,
+			"versionNonce": 602173795,
+			"isDeleted": true,
 			"id": "WBXJ0ZA5Oq8JBDVTAzvS3",
 			"fillStyle": "hachure",
 			"strokeWidth": 2,
@@ -3489,7 +3658,7 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 941.5940854553608,
+			"x": 940.1655140267893,
 			"y": -222.97745219500365,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#f4ae57",
@@ -3502,13 +3671,13 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1737290519349,
+			"updated": 1737290583044,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "xQfBvaGun04wLc2S17BSZ",
-				"focus": -0.2833299284316333,
-				"gap": 1.9379889771992111
+				"focus": -0.28332992843163335,
+				"gap": 1.9379889771991543
 			},
 			"endBinding": {
 				"elementId": "R5LW5kAgGYt86BgVFJvzd",
@@ -3531,9 +3700,9 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 		},
 		{
 			"type": "text",
-			"version": 148,
-			"versionNonce": 466922755,
-			"isDeleted": false,
+			"version": 150,
+			"versionNonce": 1340082765,
+			"isDeleted": true,
 			"id": "DAowwaLP",
 			"fillStyle": "hachure",
 			"strokeWidth": 2,
@@ -3541,7 +3710,7 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 880.7472280019122,
+			"x": 879.3186565733407,
 			"y": -276.9055786563353,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#f4ae57",
@@ -3557,7 +3726,7 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 					"type": "arrow"
 				}
 			],
-			"updated": 1737290519197,
+			"updated": 1737290583044,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -3573,9 +3742,9 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 		},
 		{
 			"type": "text",
-			"version": 192,
-			"versionNonce": 392041635,
-			"isDeleted": false,
+			"version": 194,
+			"versionNonce": 632704259,
+			"isDeleted": true,
 			"id": "oQlYmBpE",
 			"fillStyle": "hachure",
 			"strokeWidth": 2,
@@ -3583,7 +3752,7 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 976.0171038969338,
+			"x": 974.5885324683624,
 			"y": -198.69896411564622,
 			"strokeColor": "#e03131",
 			"backgroundColor": "#f4ae57",
@@ -3594,7 +3763,7 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1737290519197,
+			"updated": 1737290583044,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -3610,9 +3779,9 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 		},
 		{
 			"type": "arrow",
-			"version": 659,
-			"versionNonce": 1388716077,
-			"isDeleted": false,
+			"version": 665,
+			"versionNonce": 1902327981,
+			"isDeleted": true,
 			"id": "ldymKRhWureoQMEi6T_FL",
 			"fillStyle": "hachure",
 			"strokeWidth": 2,
@@ -3620,7 +3789,7 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 574.7228875653018,
+			"x": 573.2943161367303,
 			"y": -419.4170884933019,
 			"strokeColor": "#ffffff",
 			"backgroundColor": "#f4ae57",
@@ -3633,17 +3802,17 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1737290519349,
+			"updated": 1737290583044,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "hGcnlIpb",
-				"focus": 0.21539709378999333,
+				"focus": 0.21539709378999,
 				"gap": 9.53163067716605
 			},
 			"endBinding": {
 				"elementId": "CnQ4Rel9",
-				"focus": -0.383263076266358,
+				"focus": -0.383263076266354,
 				"gap": 10.957220371346978
 			},
 			"lastCommittedPoint": null,
@@ -3666,9 +3835,9 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 		},
 		{
 			"type": "text",
-			"version": 267,
-			"versionNonce": 895846371,
-			"isDeleted": false,
+			"version": 270,
+			"versionNonce": 1202590445,
+			"isDeleted": true,
 			"id": "hGcnlIpb",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -3676,7 +3845,7 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 570.9734633000696,
+			"x": 569.5448918714982,
 			"y": -462.54871917046796,
 			"strokeColor": "#ffffff",
 			"backgroundColor": "transparent",
@@ -3686,13 +3855,8 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": [
-				{
-					"id": "ldymKRhWureoQMEi6T_FL",
-					"type": "arrow"
-				}
-			],
-			"updated": 1737290519197,
+			"boundElements": [],
+			"updated": 1737290583045,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -3708,9 +3872,9 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 		},
 		{
 			"type": "text",
-			"version": 352,
-			"versionNonce": 1410935587,
-			"isDeleted": false,
+			"version": 354,
+			"versionNonce": 724671245,
+			"isDeleted": true,
 			"id": "ly4Tx3D5",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -3718,7 +3882,7 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 809.8591222607204,
+			"x": 808.4305508321489,
 			"y": -247.83601379512191,
 			"strokeColor": "#ffffff",
 			"backgroundColor": "transparent",
@@ -3729,7 +3893,7 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1737290519197,
+			"updated": 1737290583044,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -3745,9 +3909,9 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 		},
 		{
 			"type": "text",
-			"version": 308,
-			"versionNonce": 1789775555,
-			"isDeleted": false,
+			"version": 311,
+			"versionNonce": 1612881507,
+			"isDeleted": true,
 			"id": "CnQ4Rel9",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -3755,7 +3919,7 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 570.9734633000699,
+			"x": 569.5448918714984,
 			"y": -317.5109976586447,
 			"strokeColor": "#ffffff",
 			"backgroundColor": "transparent",
@@ -3765,13 +3929,8 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": [
-				{
-					"id": "ldymKRhWureoQMEi6T_FL",
-					"type": "arrow"
-				}
-			],
-			"updated": 1737290519197,
+			"boundElements": [],
+			"updated": 1737290583045,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -3787,9 +3946,9 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 		},
 		{
 			"type": "line",
-			"version": 491,
-			"versionNonce": 493173251,
-			"isDeleted": false,
+			"version": 493,
+			"versionNonce": 902082925,
+			"isDeleted": true,
 			"id": "ZryLw4HA9c6RC6RFhwcIV",
 			"fillStyle": "hachure",
 			"strokeWidth": 2,
@@ -3797,7 +3956,7 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 943.8899668259648,
+			"x": 942.4613953973934,
 			"y": -208.2169386016164,
 			"strokeColor": "#c47a12",
 			"backgroundColor": "#fff9db",
@@ -3810,7 +3969,7 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1737290519197,
+			"updated": 1737290583045,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3830,41 +3989,48 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 			]
 		},
 		{
-			"type": "text",
-			"version": 490,
-			"versionNonce": 1735016995,
-			"isDeleted": false,
-			"id": "vO69w9nQ",
+			"id": "iwc95-K7_V5dNpnr30CbY",
+			"type": "arrow",
+			"x": 548.3041461484612,
+			"y": -425.2570171289913,
+			"width": 19.528389972968284,
+			"height": 72.88094356913632,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#f4ae57",
 			"fillStyle": "hachure",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
-			"angle": 0,
-			"x": 375.5786200250909,
-			"y": 41.73018071971438,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#f4ae57",
-			"width": 593.27734375,
-			"height": 33.6,
-			"seed": 197013411,
 			"groupIds": [],
 			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1737290569869,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1452647373,
+			"version": 56,
+			"versionNonce": 771234627,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1737290615680,
 			"link": null,
 			"locked": false,
-			"fontSize": 28,
-			"fontFamily": 4,
-			"text": "Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제",
-			"rawText": "Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제",
-			"lineHeight": 1.2,
-			"baseline": 27
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-19.528389972968284,
+					72.88094356913632
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
 		}
 	],
 	"appState": {
@@ -3874,7 +4040,7 @@ Lock 반환 로직이 예외상황에 따라 실행되지 않는 문제 ^vO69w9n
 		"currentItemBackgroundColor": "#f4ae57",
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 2,
-		"currentItemStrokeStyle": "solid",
+		"currentItemStrokeStyle": "dashed",
 		"currentItemRoughness": 0,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 4,
