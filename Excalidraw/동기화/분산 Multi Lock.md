@@ -2313,8 +2313,8 @@ Thread 2 ^0x7Lz9ok
 		},
 		{
 			"type": "line",
-			"version": 282,
-			"versionNonce": 2100474595,
+			"version": 287,
+			"versionNonce": 928565293,
 			"isDeleted": false,
 			"id": "hPRb6OHlxVBt-HwEj7gOq",
 			"fillStyle": "hachure",
@@ -2323,12 +2323,12 @@ Thread 2 ^0x7Lz9ok
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -524.7800994360808,
-			"y": 388.0102256355327,
+			"x": -521.9362225436921,
+			"y": 382.3224718507554,
 			"strokeColor": "#c47a12",
 			"backgroundColor": "#fff9db",
-			"width": 103.59346031863492,
-			"height": 2.4675380722507043,
+			"width": 100.7495834262462,
+			"height": 3.220215712526624,
 			"seed": 1624523875,
 			"groupIds": [],
 			"frameId": null,
@@ -2336,7 +2336,7 @@ Thread 2 ^0x7Lz9ok
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1737289014417,
+			"updated": 1737289033555,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2350,8 +2350,8 @@ Thread 2 ^0x7Lz9ok
 					0
 				],
 				[
-					103.59346031863492,
-					-2.4675380722507043
+					100.7495834262462,
+					3.220215712526624
 				]
 			]
 		},
@@ -2523,10 +2523,10 @@ Thread 2 ^0x7Lz9ok
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1551.2334693718997,
-		"scrollY": 709.4703017460826,
+		"scrollX": 1248.5193759031183,
+		"scrollY": 469.6394062911843,
 		"zoom": {
-			"value": 0.56326288113734
+			"value": 0.7032653225435901
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
