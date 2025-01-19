@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/회사/분산 Multi Lock.md"
+                "file": "Excalidraw/OS/동기화/교착상태.md"
               },
               "icon": "excalidraw-icon",
-              "title": "분산 Multi Lock"
+              "title": "교착상태"
             }
           }
         ]
@@ -186,8 +186,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "138c3716a0ee7a62",
+  "active": "3d618ecf2f8d27af",
   "lastOpenFiles": [
+    "Excalidraw/OS/동기화/경쟁상태.md",
+    "Excalidraw/회사/분산 Multi Lock.md",
     "Excalidraw/dailyge/깃 브랜치전략 깃 플로우.md",
     "Excalidraw/dailyge/CompletableFuture 동기 비동기.md",
     "Excalidraw/dailyge/회고 초안.md",
@@ -196,7 +198,6 @@
     "Excalidraw/dailyge/Drawing 2024-10-11 12.09.12.excalidraw.md",
     "Excalidraw/dailyge/single pass vs two pass.md",
     "Excalidraw/dailyge/Drawing 2024-11-11 20.30.42.excalidraw.md",
-    "Excalidraw/회사/분산 Multi Lock.md",
     "Excalidraw/Rabbitmq/메세지가 유실 될 수 있는 상황.md",
     "Excalidraw/회사",
     "Excalidraw/Drawing 2024-05-04 00.02.33.excalidraw.md",
@@ -230,7 +231,6 @@
     "Excalidraw/스프링/Drawing 2024-06-28 18.07.34.excalidraw.md",
     "Excalidraw/스프링/Drawing 2024-06-03 15.56.47.excalidraw.md",
     "Excalidraw/스프링/디스패처 서블릿 동작.md",
-    "Excalidraw/스프링/스밑구 구현 개인 이해도.md",
     "Excalidraw/스프링",
     "Excalidraw/DB/mysql",
     "Excalidraw/DB/redis",
