@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f6ca43f0fc46dffe",
+        "id": "eb015cd2efc9ce5f",
         "type": "tabs",
         "children": [
           {
-            "id": "55a98dd99be27723",
+            "id": "3d618ecf2f8d27af",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/dailyge/single pass vs two pass.md"
+                "file": "Excalidraw/회사/Drawing 2025-01-19 12.39.19.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "single pass vs two pass"
+              "title": "Drawing 2025-01-19 12.39.19.excalidraw"
             }
           }
         ]
@@ -186,14 +186,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "55a98dd99be27723",
+  "active": "3d618ecf2f8d27af",
   "lastOpenFiles": [
+    "Excalidraw/dailyge/깃 브랜치전략 깃 플로우.md",
+    "Excalidraw/dailyge/CompletableFuture 동기 비동기.md",
+    "Excalidraw/dailyge/회고 초안.md",
+    "Excalidraw/dailyge/Drawing 2024-07-30 17.58.50.excalidraw.md",
+    "Excalidraw/dailyge/Drawing 2024-08-10 14.12.09.excalidraw.md",
+    "Excalidraw/dailyge/Drawing 2024-10-11 12.09.12.excalidraw.md",
+    "Excalidraw/dailyge/single pass vs two pass.md",
     "Excalidraw/dailyge/Drawing 2024-11-11 20.30.42.excalidraw.md",
     "Excalidraw/회사/Drawing 2025-01-19 12.39.19.excalidraw.md",
     "Excalidraw/Rabbitmq/메세지가 유실 될 수 있는 상황.md",
     "Excalidraw/회사",
     "Excalidraw/Drawing 2024-05-04 00.02.33.excalidraw.md",
-    "Excalidraw/dailyge/single pass vs two pass.md",
     "Excalidraw/Rabbitmq",
     "images/Pasted Image 20241123130444_158.png",
     "images/Pasted Image 20241123123715_199.png",
@@ -203,19 +209,13 @@
     "images/Pasted Image 20241123123115_018.png",
     "images/Pasted Image 20241123123044_989.png",
     "Excalidraw/dailyge/풀 테이블 스캔.md",
-    "Excalidraw/dailyge/Drawing 2024-10-11 12.09.12.excalidraw.md",
     "Excalidraw/로그인/세션 로그인.md",
-    "Excalidraw/dailyge/CompletableFuture 동기 비동기.md",
-    "Excalidraw/dailyge/회고 초안.md",
     "Excalidraw/dailyge/태그 기능 로직 설계.md",
     "Excalidraw/dailyge/부분 암호화 전체암호화 차이.md",
     "Excalidraw/dailyge/월 주차 구하기.md",
     "Fonts/PretendardVariable.ttf",
-    "Excalidraw/dailyge/깃 브랜치전략 깃 플로우.md",
     "Excalidraw/Java/스트림.md",
     "images/Pasted Image 20241011121008_638.png",
-    "Excalidraw/dailyge/Drawing 2024-08-10 14.12.09.excalidraw.md",
-    "Excalidraw/dailyge/Drawing 2024-07-30 17.58.50.excalidraw.md",
     "Spring/클래스_인터페이스/README.md",
     "Excalidraw/Java",
     "Excalidraw/무제 파일.md",
