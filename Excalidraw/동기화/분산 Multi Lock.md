@@ -56,7 +56,7 @@ DB ^kViMrg1h
 
 20 ^lRadDc9w
 
-5. 트랜잭션 커밋
+6. 트랜잭션 커밋
 (수량 저장 30) ^9i3C8Mh7
 
 3. Lock 반환 ^I5o1NMbs
@@ -1304,8 +1304,8 @@ DB ^kViMrg1h
 		},
 		{
 			"type": "rectangle",
-			"version": 960,
-			"versionNonce": 675929581,
+			"version": 962,
+			"versionNonce": 732804387,
 			"isDeleted": false,
 			"id": "uSLFvFedYiRma-kux8cAU",
 			"fillStyle": "solid",
@@ -1344,7 +1344,7 @@ DB ^kViMrg1h
 					"type": "arrow"
 				}
 			],
-			"updated": 1737290017248,
+			"updated": 1737290068358,
 			"link": null,
 			"locked": false
 		},
@@ -1585,8 +1585,8 @@ DB ^kViMrg1h
 		},
 		{
 			"type": "rectangle",
-			"version": 1075,
-			"versionNonce": 288152685,
+			"version": 1077,
+			"versionNonce": 1476115341,
 			"isDeleted": false,
 			"id": "84FqmWzIoghXp4AYOg_1k",
 			"fillStyle": "solid",
@@ -1629,7 +1629,7 @@ DB ^kViMrg1h
 					"type": "arrow"
 				}
 			],
-			"updated": 1737289932180,
+			"updated": 1737290091425,
 			"link": null,
 			"locked": false
 		},
@@ -1799,10 +1799,10 @@ DB ^kViMrg1h
 		{
 			"id": "qCTEKQK9ag0mg7hQiqo9i",
 			"type": "arrow",
-			"x": -435.62560587217297,
-			"y": 491.3960442676617,
-			"width": 323.8571465485493,
-			"height": 0.6559581741360034,
+			"x": -431.35979053358994,
+			"y": 465.8011522361635,
+			"width": 313.9035774251888,
+			"height": 41.892173113772344,
 			"angle": 0,
 			"strokeColor": "#e03131",
 			"backgroundColor": "#f4ae57",
@@ -1817,11 +1817,11 @@ DB ^kViMrg1h
 				"type": 2
 			},
 			"seed": 609699491,
-			"version": 450,
-			"versionNonce": 1839130275,
+			"version": 662,
+			"versionNonce": 1970717165,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1737289933257,
+			"updated": 1737290091426,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1830,16 +1830,20 @@ DB ^kViMrg1h
 					0
 				],
 				[
-					323.8571465485493,
-					0.6559581741360034
+					44.71285533002151,
+					39.49195767993746
+				],
+				[
+					313.9035774251888,
+					41.892173113772344
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": null,
 			"endBinding": {
 				"elementId": "84FqmWzIoghXp4AYOg_1k",
-				"focus": -0.3729049516947688,
-				"gap": 1
+				"focus": -0.43632096183255586,
+				"gap": 5.996179735760734
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
@@ -2123,9 +2127,9 @@ DB ^kViMrg1h
 		{
 			"id": "9i3C8Mh7",
 			"type": "text",
-			"x": -451.5228768111858,
-			"y": 523.6956873166775,
-			"width": 182.328125,
+			"x": -448.6789999187971,
+			"y": 513.7421181933173,
+			"width": 182.6015625,
 			"height": 67.2,
 			"angle": 0,
 			"strokeColor": "#e03131",
@@ -2139,31 +2143,31 @@ DB ^kViMrg1h
 			"frameId": null,
 			"roundness": null,
 			"seed": 1631118243,
-			"version": 411,
-			"versionNonce": 1823012675,
+			"version": 462,
+			"versionNonce": 152430787,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1737289841900,
+			"updated": 1737290087315,
 			"link": null,
 			"locked": false,
-			"text": "5. 트랜잭션 커밋\n(수량 저장 30)",
-			"rawText": "5. 트랜잭션 커밋\n(수량 저장 30)",
+			"text": "6. 트랜잭션 커밋\n(수량 저장 30)",
+			"rawText": "6. 트랜잭션 커밋\n(수량 저장 30)",
 			"fontSize": 28,
 			"fontFamily": 4,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"baseline": 60,
 			"containerId": null,
-			"originalText": "5. 트랜잭션 커밋\n(수량 저장 30)",
+			"originalText": "6. 트랜잭션 커밋\n(수량 저장 30)",
 			"lineHeight": 1.2
 		},
 		{
 			"id": "2RHNNrxe69k_wkIjqDhhH",
 			"type": "arrow",
-			"x": -111.76845932362357,
-			"y": 466.71261497484994,
-			"width": 78.2066145406892,
-			"height": 0,
+			"x": -116.24189924222838,
+			"y": 465.2906765286555,
+			"width": 73.73317462208439,
+			"height": 1.4219384461944173,
 			"angle": 0,
 			"strokeColor": "#e03131",
 			"backgroundColor": "#f4ae57",
@@ -2178,11 +2182,11 @@ DB ^kViMrg1h
 				"type": 2
 			},
 			"seed": 1208979789,
-			"version": 78,
-			"versionNonce": 1246784419,
+			"version": 200,
+			"versionNonce": 1112017763,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1737289918760,
+			"boundElements": [],
+			"updated": 1737290058066,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2191,15 +2195,15 @@ DB ^kViMrg1h
 					0
 				],
 				[
-					-78.2066145406892,
-					0
+					-73.73317462208439,
+					1.4219384461944173
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "A4O4IYVb",
-				"focus": -1.7021723681050946,
-				"gap": 11.796495784165586
+				"focus": -1.6444463072149373,
+				"gap": 14.640372676554307
 			},
 			"endBinding": null,
 			"startArrowhead": null,
@@ -2208,8 +2212,8 @@ DB ^kViMrg1h
 		{
 			"id": "A4O4IYVb",
 			"type": "text",
-			"x": -161.44743378753878,
-			"y": 421.31611919068433,
+			"x": -174.2448798032881,
+			"y": 417.0503038521012,
 			"width": 193.4296875,
 			"height": 33.6,
 			"angle": 0,
@@ -2224,8 +2228,8 @@ DB ^kViMrg1h
 			"frameId": null,
 			"roundness": null,
 			"seed": 1700427523,
-			"version": 34,
-			"versionNonce": 299477571,
+			"version": 45,
+			"versionNonce": 1458883203,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -2233,7 +2237,7 @@ DB ^kViMrg1h
 					"type": "arrow"
 				}
 			],
-			"updated": 1737289824334,
+			"updated": 1737290053837,
 			"link": null,
 			"locked": false,
 			"text": "5. 수량 조회 (50)",
@@ -2387,8 +2391,8 @@ DB ^kViMrg1h
 		},
 		{
 			"type": "text",
-			"version": 249,
-			"versionNonce": 1822703981,
+			"version": 250,
+			"versionNonce": 493521453,
 			"isDeleted": false,
 			"id": "c74pZb0p",
 			"fillStyle": "hachure",
@@ -2399,7 +2403,7 @@ DB ^kViMrg1h
 			"angle": 0,
 			"x": -245.13298554447988,
 			"y": 446.1198687133148,
-			"strokeColor": "#e03131",
+			"strokeColor": "#ffffff",
 			"backgroundColor": "transparent",
 			"width": 33.38671875,
 			"height": 33.6,
@@ -2413,7 +2417,7 @@ DB ^kViMrg1h
 					"type": "arrow"
 				}
 			],
-			"updated": 1737290045582,
+			"updated": 1737290049197,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -3565,12 +3569,49 @@ DB ^kViMrg1h
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
+		},
+		{
+			"id": "QmX0R6mZ",
+			"type": "text",
+			"x": -156.62215842827058,
+			"y": 449.2016457517527,
+			"width": 7.02734375,
+			"height": 33.6,
+			"angle": 0,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "#f4ae57",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 331873581,
+			"version": 2,
+			"versionNonce": 680961795,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1737290058068,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 28,
+			"fontFamily": 4,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 27,
+			"containerId": "2RHNNrxe69k_wkIjqDhhH",
+			"originalText": "",
+			"lineHeight": 1.2
 		}
 	],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#e03131",
+		"currentItemStrokeColor": "#ffffff",
 		"currentItemBackgroundColor": "#f4ae57",
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 4,
