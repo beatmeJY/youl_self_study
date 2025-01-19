@@ -10,8 +10,6 @@ tags: [excalidraw]
 # Text Elements
 Thread 1 ^i2nW1eCY
 
-기본적인 자바의 동기로직 실행 과정 ^d9kltowq
-
  ^T936PBUP
 
 Thread 2 ^o1DpVFI5
@@ -28,8 +26,8 @@ Thread 2 ^o1DpVFI5
 	"elements": [
 		{
 			"type": "rectangle",
-			"version": 349,
-			"versionNonce": 1173658435,
+			"version": 351,
+			"versionNonce": 744366147,
 			"isDeleted": false,
 			"id": "4sbCZUXXKzXvk04I7fdwH",
 			"fillStyle": "solid",
@@ -50,15 +48,24 @@ Thread 2 ^o1DpVFI5
 			"roundness": {
 				"type": 3
 			},
-			"boundElements": [],
-			"updated": 1737258862492,
+			"boundElements": [
+				{
+					"id": "DPEsPJxpe2BsK6edHah1b",
+					"type": "arrow"
+				},
+				{
+					"id": "7jHCm1D6ftyMm9C23Bm_w",
+					"type": "arrow"
+				}
+			],
+			"updated": 1737260354946,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 199,
-			"versionNonce": 353506755,
+			"version": 201,
+			"versionNonce": 1331643651,
 			"isDeleted": false,
 			"id": "l8_FNsS2seDNfP4BAqCNI",
 			"fillStyle": "solid",
@@ -83,9 +90,17 @@ Thread 2 ^o1DpVFI5
 				{
 					"type": "text",
 					"id": "T936PBUP"
+				},
+				{
+					"id": "DPEsPJxpe2BsK6edHah1b",
+					"type": "arrow"
+				},
+				{
+					"id": "7jHCm1D6ftyMm9C23Bm_w",
+					"type": "arrow"
 				}
 			],
-			"updated": 1737258826684,
+			"updated": 1737260354946,
 			"link": null,
 			"locked": false
 		},
@@ -164,43 +179,6 @@ Thread 2 ^o1DpVFI5
 			"baseline": 19
 		},
 		{
-			"type": "text",
-			"version": 212,
-			"versionNonce": 570699021,
-			"isDeleted": false,
-			"id": "d9kltowq",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "dashed",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": -614.8187026170385,
-			"y": -500.5241404811112,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#fff9db",
-			"width": 502.83984375,
-			"height": 43.199999999999996,
-			"seed": 1678135277,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1737258799159,
-			"link": null,
-			"locked": false,
-			"fontSize": 36,
-			"fontFamily": 4,
-			"text": "기본적인 자바의 동기로직 실행 과정",
-			"rawText": "기본적인 자바의 동기로직 실행 과정",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "기본적인 자바의 동기로직 실행 과정",
-			"lineHeight": 1.2,
-			"baseline": 35
-		},
-		{
 			"type": "rectangle",
 			"version": 306,
 			"versionNonce": 2123292941,
@@ -270,7 +248,7 @@ Thread 2 ^o1DpVFI5
 			"id": "xrGb1bfk",
 			"type": "text",
 			"x": -147.8634784993277,
-			"y": 151.75484024568334,
+			"y": -451.2776934624938,
 			"width": 82.42435311742834,
 			"height": 37.67970428225297,
 			"angle": 0,
@@ -285,11 +263,11 @@ Thread 2 ^o1DpVFI5
 			"frameId": null,
 			"roundness": null,
 			"seed": 947556963,
-			"version": 73,
-			"versionNonce": 1691342755,
+			"version": 134,
+			"versionNonce": 1134270925,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1737258845697,
+			"updated": 1737260332397,
 			"link": null,
 			"locked": false,
 			"text": "자원 A",
@@ -302,6 +280,110 @@ Thread 2 ^o1DpVFI5
 			"containerId": null,
 			"originalText": "자원 A",
 			"lineHeight": 1.2
+		},
+		{
+			"id": "DPEsPJxpe2BsK6edHah1b",
+			"type": "arrow",
+			"x": -378.1673607195361,
+			"y": -278.5793747098349,
+			"width": 209.0916825420312,
+			"height": 0,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1572288003,
+			"version": 37,
+			"versionNonce": 1463332141,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1737260339304,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					209.0916825420312,
+					0
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "4sbCZUXXKzXvk04I7fdwH",
+				"focus": -0.6369161404951645,
+				"gap": 7.044502235601385
+			},
+			"endBinding": {
+				"elementId": "l8_FNsS2seDNfP4BAqCNI",
+				"focus": 0.5202469026885348,
+				"gap": 5.006975560466344
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "7jHCm1D6ftyMm9C23Bm_w",
+			"type": "arrow",
+			"x": -172.10599241724435,
+			"y": -166.45774783947024,
+			"width": 209.09168254203132,
+			"height": 0,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1300873293,
+			"version": 50,
+			"versionNonce": 768978083,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1737260354946,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-209.09168254203132,
+					0
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "l8_FNsS2seDNfP4BAqCNI",
+				"focus": 0.09873702723603614,
+				"gap": 8.037289800205826
+			},
+			"endBinding": {
+				"elementId": "4sbCZUXXKzXvk04I7fdwH",
+				"focus": -0.14135093885819372,
+				"gap": 4.014187995861789
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
 		},
 		{
 			"type": "arrow",
@@ -1139,6 +1221,43 @@ Thread 2 ^o1DpVFI5
 					61.5
 				]
 			]
+		},
+		{
+			"type": "text",
+			"version": 229,
+			"versionNonce": 168741571,
+			"isDeleted": true,
+			"id": "d9kltowq",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "dashed",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": -631.4854309356062,
+			"y": -585.3729391938195,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#fff9db",
+			"width": 502.83984375,
+			"height": 43.199999999999996,
+			"seed": 1678135277,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1737260333974,
+			"link": null,
+			"locked": false,
+			"fontSize": 36,
+			"fontFamily": 4,
+			"text": "기본적인 자바의 동기로직 실행 과정",
+			"rawText": "기본적인 자바의 동기로직 실행 과정",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "기본적인 자바의 동기로직 실행 과정",
+			"lineHeight": 1.2,
+			"baseline": 35
 		},
 		{
 			"type": "rectangle",
