@@ -2779,8 +2779,8 @@ Lock 반환 로직 ^ZMrzTqsd
 		},
 		{
 			"type": "rectangle",
-			"version": 1192,
-			"versionNonce": 209138605,
+			"version": 1201,
+			"versionNonce": 1843771267,
 			"isDeleted": false,
 			"id": "R5LW5kAgGYt86BgVFJvzd",
 			"fillStyle": "solid",
@@ -2789,7 +2789,7 @@ Lock 반환 로직 ^ZMrzTqsd
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 824.60815417386,
+			"x": 846.0367256024314,
 			"y": -484.3485567080802,
 			"strokeColor": "#ffffff",
 			"backgroundColor": "#234b71",
@@ -2815,7 +2815,7 @@ Lock 반환 로직 ^ZMrzTqsd
 					"type": "arrow"
 				}
 			],
-			"updated": 1737291118322,
+			"updated": 1737291138989,
 			"link": null,
 			"locked": false
 		},
@@ -2895,8 +2895,8 @@ Lock 반환 로직 ^ZMrzTqsd
 		},
 		{
 			"type": "text",
-			"version": 923,
-			"versionNonce": 1284083149,
+			"version": 932,
+			"versionNonce": 374003939,
 			"isDeleted": false,
 			"id": "TspycWzh",
 			"fillStyle": "solid",
@@ -2905,7 +2905,7 @@ Lock 반환 로직 ^ZMrzTqsd
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 809.2537282297395,
+			"x": 830.6822996583109,
 			"y": -537.2703977813683,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#fff9db",
@@ -2921,7 +2921,7 @@ Lock 반환 로직 ^ZMrzTqsd
 					"type": "arrow"
 				}
 			],
-			"updated": 1737291092092,
+			"updated": 1737291138990,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2990,9 +2990,9 @@ Lock 반환 로직 ^ZMrzTqsd
 		{
 			"id": "wgaQjkrJE4pTDWUCK7BmI",
 			"type": "arrow",
-			"x": 814.8443247198894,
-			"y": -465.8039042369943,
-			"width": 437.9687499999997,
+			"x": 836.2728961484607,
+			"y": -465.80390423699424,
+			"width": 459.39732142857105,
 			"height": 0,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -3008,11 +3008,11 @@ Lock 반환 로직 ^ZMrzTqsd
 				"type": 2
 			},
 			"seed": 1503883245,
-			"version": 427,
-			"versionNonce": 722982605,
+			"version": 447,
+			"versionNonce": 608801443,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1737291118602,
+			"updated": 1737291139310,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3021,7 +3021,7 @@ Lock 반환 로직 ^ZMrzTqsd
 					0
 				],
 				[
-					-437.9687499999997,
+					-459.39732142857105,
 					0
 				]
 			],
@@ -3215,11 +3215,16 @@ Lock 반환 로직 ^ZMrzTqsd
 				"type": 3
 			},
 			"seed": 174942659,
-			"version": 94,
-			"versionNonce": 1703904323,
+			"version": 95,
+			"versionNonce": 1305268397,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1737291010897,
+			"boundElements": [
+				{
+					"id": "S_A86OI1UZH8YYsn6p6NZ",
+					"type": "arrow"
+				}
+			],
+			"updated": 1737291128957,
 			"link": null,
 			"locked": false
 		},
@@ -3227,7 +3232,7 @@ Lock 반환 로직 ^ZMrzTqsd
 			"id": "ZMrzTqsd",
 			"type": "text",
 			"x": 647.7293693627465,
-			"y": -368.5996510575628,
+			"y": -370.02822248613415,
 			"width": 122.109375,
 			"height": 24,
 			"angle": 0,
@@ -3242,8 +3247,8 @@ Lock 반환 로직 ^ZMrzTqsd
 			"frameId": null,
 			"roundness": null,
 			"seed": 847414691,
-			"version": 198,
-			"versionNonce": 793976419,
+			"version": 199,
+			"versionNonce": 1082455363,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -3251,7 +3256,7 @@ Lock 반환 로직 ^ZMrzTqsd
 					"type": "arrow"
 				}
 			],
-			"updated": 1737291125561,
+			"updated": 1737291126132,
 			"link": null,
 			"locked": false,
 			"text": "Lock 반환 로직",
@@ -3270,8 +3275,8 @@ Lock 반환 로직 ^ZMrzTqsd
 			"type": "arrow",
 			"x": 556.9760211484609,
 			"y": -422.6856510269256,
-			"width": 186.0500682736207,
-			"height": 44.57780926100338,
+			"width": 32.857142857142776,
+			"height": 58.863523546717715,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffffff",
@@ -3286,11 +3291,11 @@ Lock 반환 로직 ^ZMrzTqsd
 				"type": 2
 			},
 			"seed": 1653233421,
-			"version": 192,
-			"versionNonce": 147282435,
+			"version": 248,
+			"versionNonce": 1258444483,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1737291125561,
+			"boundElements": [],
+			"updated": 1737291129214,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3303,8 +3308,8 @@ Lock 반환 로직 ^ZMrzTqsd
 					23.74001782650572
 				],
 				[
-					153.19292541647792,
-					44.57780926100338
+					-0.43284328104914493,
+					58.863523546717715
 				]
 			],
 			"lastCommittedPoint": [
@@ -3313,13 +3318,13 @@ Lock 반환 로직 ^ZMrzTqsd
 			],
 			"startBinding": {
 				"elementId": "HVwSe_WihSEXZV2288PBp",
-				"focus": 0.8342261480319465,
+				"focus": 0.8342261480319451,
 				"gap": 5.613839285714391
 			},
 			"endBinding": {
-				"elementId": "ZMrzTqsd",
-				"focus": 1.1499674392148804,
-				"gap": 9.508190708359393
+				"elementId": "ID4YguaPdvSg69f-eZ7AJ",
+				"focus": -0.8505373964422754,
+				"gap": 9.004271852477814
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
@@ -3416,9 +3421,9 @@ Lock 반환 로직 ^ZMrzTqsd
 			"id": "f9O-lU9sf_p1eDjlTsMan",
 			"type": "arrow",
 			"x": 379.1300390056037,
-			"y": -177.04683364611054,
-			"width": 437.1428571428571,
-			"height": 0,
+			"y": -177.04683364611057,
+			"width": 458.5714285714285,
+			"height": 2.842170943040401e-14,
 			"angle": 0,
 			"strokeColor": "#e03131",
 			"backgroundColor": "#ffffff",
@@ -3433,11 +3438,11 @@ Lock 반환 로직 ^ZMrzTqsd
 				"type": 2
 			},
 			"seed": 788615843,
-			"version": 331,
-			"versionNonce": 332264845,
+			"version": 351,
+			"versionNonce": 1768017763,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1737291112930,
+			"updated": 1737291139310,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3446,8 +3451,8 @@ Lock 반환 로직 ^ZMrzTqsd
 					0
 				],
 				[
-					437.1428571428571,
-					0
+					458.5714285714285,
+					2.842170943040401e-14
 				]
 			],
 			"lastCommittedPoint": null,
@@ -3509,10 +3514,10 @@ Lock 반환 로직 ^ZMrzTqsd
 		{
 			"id": "jMs31b3BQ0oQPgiKwszQG",
 			"type": "arrow",
-			"x": 809.1300390056037,
+			"x": 830.5586104341751,
 			"y": -214.85648068040214,
-			"width": 431.4285714285714,
-			"height": 0,
+			"width": 452.8571428571427,
+			"height": 2.842170943040401e-14,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#f4ae57",
@@ -3527,11 +3532,11 @@ Lock 반환 로직 ^ZMrzTqsd
 				"type": 2
 			},
 			"seed": 505976493,
-			"version": 549,
-			"versionNonce": 1912720419,
+			"version": 569,
+			"versionNonce": 111033379,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1737291115994,
+			"updated": 1737291139309,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3540,8 +3545,8 @@ Lock 반환 로직 ^ZMrzTqsd
 					0
 				],
 				[
-					-431.4285714285714,
-					0
+					-452.8571428571427,
+					2.842170943040401e-14
 				]
 			],
 			"lastCommittedPoint": null,
@@ -3561,8 +3566,8 @@ Lock 반환 로직 ^ZMrzTqsd
 		{
 			"id": "BbTJWv9Q",
 			"type": "text",
-			"x": 649.1579407913182,
-			"y": -500.94250820042,
+			"x": 689.1579407913182,
+			"y": -509.51393677184853,
 			"width": 104.35546875,
 			"height": 24,
 			"angle": 0,
@@ -3577,8 +3582,8 @@ Lock 반환 로직 ^ZMrzTqsd
 			"frameId": null,
 			"roundness": null,
 			"seed": 814456451,
-			"version": 204,
-			"versionNonce": 783980173,
+			"version": 234,
+			"versionNonce": 1107589699,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -3586,7 +3591,7 @@ Lock 반환 로직 ^ZMrzTqsd
 					"type": "arrow"
 				}
 			],
-			"updated": 1737291072893,
+			"updated": 1737291140970,
 			"link": null,
 			"locked": false,
 			"text": "2. Lock 요청",
@@ -4654,6 +4659,43 @@ Lock 반환 로직 ^ZMrzTqsd
 			"verticalAlign": "top",
 			"baseline": 19,
 			"containerId": null,
+			"originalText": "",
+			"lineHeight": 1.2
+		},
+		{
+			"id": "Q4lhYbYk",
+			"type": "text",
+			"x": 521.6091126663181,
+			"y": -410.9456332004199,
+			"width": 5.01953125,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "#ffffff",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "dashed",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 521573325,
+			"version": 2,
+			"versionNonce": 1857062499,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1737291129216,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 4,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 19,
+			"containerId": "S_A86OI1UZH8YYsn6p6NZ",
 			"originalText": "",
 			"lineHeight": 1.2
 		},
