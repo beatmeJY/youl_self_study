@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/동기화/분산 Multi Lock.md"
+                "file": "Excalidraw/Java/스트림.md"
               },
               "icon": "excalidraw-icon",
-              "title": "분산 Multi Lock"
+              "title": "스트림"
             }
           }
         ]
@@ -188,12 +188,20 @@
   },
   "active": "3d618ecf2f8d27af",
   "lastOpenFiles": [
-    "Excalidraw/동기화/임계영역이란.md",
-    "Excalidraw/동기화/분산 Multi Lock.md",
-    "Excalidraw/동기화/Thrashing.md",
-    "Excalidraw/동기화/식사하는 철학자 비대칭방식.md",
+    "Excalidraw/OS/파일시스템/파일시스템 구조.md",
+    "Excalidraw/OS/파일시스템/연결할당.md",
+    "Excalidraw/OS/파일시스템/디스크 스케줄링 알고리즘.md",
+    "Excalidraw/OS/cpu 구조/cpu 구조.md",
+    "Excalidraw/OS/싱글 페이징.md",
+    "Excalidraw/OS/Two-Level 페이징.md",
+    "Excalidraw/Rabbitmq/메세지가 유실 될 수 있는 상황.md",
+    "Spring/클래스_인터페이스/README.md",
     "Excalidraw/동기화/경쟁상태.md",
     "Excalidraw/동기화/교착상태.md",
+    "Excalidraw/동기화/분산 Multi Lock.md",
+    "Excalidraw/동기화/임계영역이란.md",
+    "Excalidraw/동기화/Thrashing.md",
+    "Excalidraw/동기화/식사하는 철학자 비대칭방식.md",
     "Excalidraw/dailyge/깃 브랜치전략 깃 플로우.md",
     "Excalidraw/dailyge/CompletableFuture 동기 비동기.md",
     "Excalidraw/dailyge/회고 초안.md",
@@ -202,7 +210,6 @@
     "Excalidraw/dailyge/Drawing 2024-10-11 12.09.12.excalidraw.md",
     "Excalidraw/dailyge/single pass vs two pass.md",
     "Excalidraw/dailyge/Drawing 2024-11-11 20.30.42.excalidraw.md",
-    "Excalidraw/Rabbitmq/메세지가 유실 될 수 있는 상황.md",
     "Excalidraw/회사",
     "Excalidraw/Drawing 2024-05-04 00.02.33.excalidraw.md",
     "Excalidraw/Rabbitmq",
@@ -216,17 +223,10 @@
     "Excalidraw/dailyge/풀 테이블 스캔.md",
     "Excalidraw/로그인/세션 로그인.md",
     "Excalidraw/dailyge/태그 기능 로직 설계.md",
-    "Excalidraw/dailyge/부분 암호화 전체암호화 차이.md",
-    "Excalidraw/dailyge/월 주차 구하기.md",
     "Fonts/PretendardVariable.ttf",
-    "Excalidraw/Java/스트림.md",
     "images/Pasted Image 20241011121008_638.png",
-    "Spring/클래스_인터페이스/README.md",
     "Excalidraw/Java",
-    "Excalidraw/무제 파일.md",
-    "Excalidraw/스프링/무제 파일.md",
     "images/Pasted Image 20240812225126_118.png",
-    "Excalidraw/스프링/인코딩 디코딩.md",
     "Excalidraw/dailyge",
     "Fonts/BMJUA_ttf.ttf",
     "Fonts",
