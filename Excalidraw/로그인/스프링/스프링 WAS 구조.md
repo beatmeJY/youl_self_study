@@ -657,8 +657,8 @@ Nio Endpoint ^r34IJBCO
 		},
 		{
 			"type": "image",
-			"version": 183,
-			"versionNonce": 317606317,
+			"version": 185,
+			"versionNonce": 389835245,
 			"isDeleted": false,
 			"id": "WV35Mj_HRBC2idmnziTMY",
 			"fillStyle": "hachure",
@@ -668,7 +668,7 @@ Nio Endpoint ^r34IJBCO
 			"opacity": 100,
 			"angle": 0,
 			"x": -1365.818944296786,
-			"y": 665.6925248464771,
+			"y": 660.8538723292987,
 			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
 			"width": 1436.6799413120946,
@@ -678,7 +678,7 @@ Nio Endpoint ^r34IJBCO
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1739692098406,
+			"updated": 1739692122389,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -1946,10 +1946,10 @@ Nio Endpoint ^r34IJBCO
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1648.9203264901291,
-		"scrollY": 821.3606355348081,
+		"scrollX": 1544.3889289555511,
+		"scrollY": -306.5578434984797,
 		"zoom": {
-			"value": 0.35000000000000003
+			"value": 0.62000732421875
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
