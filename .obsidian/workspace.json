@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/로그인/스프링/BufferedReader.ready().md"
+                "file": "Excalidraw/로그인/스프링/스프링 WAS 구조.md"
               },
               "icon": "excalidraw-icon",
-              "title": "BufferedReader.ready()"
+              "title": "스프링 WAS 구조"
             }
           }
         ]
@@ -188,16 +188,18 @@
   },
   "active": "3d618ecf2f8d27af",
   "lastOpenFiles": [
-    "Excalidraw/로그인/스프링/인코딩 디코딩.md",
-    "Excalidraw/로그인/스프링/스프링 WAS 구조.md",
     "Excalidraw/로그인/스프링/스밑구 구현 개인 이해도.md",
     "Excalidraw/로그인/스프링/디스패처 서블릿 동작.md",
+    "Excalidraw/로그인/스프링/인코딩 디코딩.md",
+    "Excalidraw/로그인/스프링/BufferedReader.ready().md",
+    "Excalidraw/로그인/스프링/Drawing 2024-06-03 15.56.47.excalidraw.md",
+    "Excalidraw/로그인/스프링/Drawing 2024-06-28 18.07.34.excalidraw.md",
+    "Excalidraw/로그인/세션 로그인.md",
+    "Excalidraw/동기화/경쟁상태.md",
+    "Excalidraw/로그인/스프링/스프링 WAS 구조.md",
     "Excalidraw/이력서/이력서 구상도.md",
     "Excalidraw/이력서/studio3s/Pasted Image 20231014125328_429.png",
     "Excalidraw/이력서/studio3s/스레드 풀 썰.md",
-    "Excalidraw/로그인/스프링/BufferedReader.ready().md",
-    "Excalidraw/로그인/스프링/Drawing 2024-06-28 18.07.34.excalidraw.md",
-    "Excalidraw/로그인/스프링/Drawing 2024-06-03 15.56.47.excalidraw.md",
     "Excalidraw/Java/스트림.md",
     "Excalidraw/OS/파일시스템/파일시스템 구조.md",
     "Excalidraw/OS/파일시스템/연결할당.md",
@@ -207,7 +209,6 @@
     "Excalidraw/OS/Two-Level 페이징.md",
     "Excalidraw/Rabbitmq/메세지가 유실 될 수 있는 상황.md",
     "Spring/클래스_인터페이스/README.md",
-    "Excalidraw/동기화/경쟁상태.md",
     "Excalidraw/동기화/교착상태.md",
     "Excalidraw/동기화/분산 Multi Lock.md",
     "Excalidraw/동기화/임계영역이란.md",
