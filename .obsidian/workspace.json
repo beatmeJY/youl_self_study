@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Java/스트림.md"
+                "file": "Excalidraw/로그인/스프링/BufferedReader.ready().md"
               },
               "icon": "excalidraw-icon",
-              "title": "스트림"
+              "title": "BufferedReader.ready()"
             }
           }
         ]
@@ -188,6 +188,17 @@
   },
   "active": "3d618ecf2f8d27af",
   "lastOpenFiles": [
+    "Excalidraw/로그인/스프링/인코딩 디코딩.md",
+    "Excalidraw/로그인/스프링/스프링 WAS 구조.md",
+    "Excalidraw/로그인/스프링/스밑구 구현 개인 이해도.md",
+    "Excalidraw/로그인/스프링/디스패처 서블릿 동작.md",
+    "Excalidraw/이력서/이력서 구상도.md",
+    "Excalidraw/이력서/studio3s/Pasted Image 20231014125328_429.png",
+    "Excalidraw/이력서/studio3s/스레드 풀 썰.md",
+    "Excalidraw/로그인/스프링/BufferedReader.ready().md",
+    "Excalidraw/로그인/스프링/Drawing 2024-06-28 18.07.34.excalidraw.md",
+    "Excalidraw/로그인/스프링/Drawing 2024-06-03 15.56.47.excalidraw.md",
+    "Excalidraw/Java/스트림.md",
     "Excalidraw/OS/파일시스템/파일시스템 구조.md",
     "Excalidraw/OS/파일시스템/연결할당.md",
     "Excalidraw/OS/파일시스템/디스크 스케줄링 알고리즘.md",
@@ -203,15 +214,7 @@
     "Excalidraw/동기화/Thrashing.md",
     "Excalidraw/동기화/식사하는 철학자 비대칭방식.md",
     "Excalidraw/dailyge/깃 브랜치전략 깃 플로우.md",
-    "Excalidraw/dailyge/CompletableFuture 동기 비동기.md",
-    "Excalidraw/dailyge/회고 초안.md",
-    "Excalidraw/dailyge/Drawing 2024-07-30 17.58.50.excalidraw.md",
-    "Excalidraw/dailyge/Drawing 2024-08-10 14.12.09.excalidraw.md",
-    "Excalidraw/dailyge/Drawing 2024-10-11 12.09.12.excalidraw.md",
-    "Excalidraw/dailyge/single pass vs two pass.md",
-    "Excalidraw/dailyge/Drawing 2024-11-11 20.30.42.excalidraw.md",
     "Excalidraw/회사",
-    "Excalidraw/Drawing 2024-05-04 00.02.33.excalidraw.md",
     "Excalidraw/Rabbitmq",
     "images/Pasted Image 20241123130444_158.png",
     "images/Pasted Image 20241123123715_199.png",
@@ -220,9 +223,6 @@
     "images/Pasted Image 20241123123145_023.png",
     "images/Pasted Image 20241123123115_018.png",
     "images/Pasted Image 20241123123044_989.png",
-    "Excalidraw/dailyge/풀 테이블 스캔.md",
-    "Excalidraw/로그인/세션 로그인.md",
-    "Excalidraw/dailyge/태그 기능 로직 설계.md",
     "Fonts/PretendardVariable.ttf",
     "images/Pasted Image 20241011121008_638.png",
     "Excalidraw/Java",
@@ -230,8 +230,7 @@
     "Excalidraw/dailyge",
     "Fonts/BMJUA_ttf.ttf",
     "Fonts",
-    "images/Pasted Image 20240729160043_317.png",
-    "Excalidraw/스프링",
+    "Excalidraw/로그인/스프링",
     "Excalidraw/DB/mysql",
     "Excalidraw/DB/redis",
     "Excalidraw/이력서/이력서 구사.canvas",
