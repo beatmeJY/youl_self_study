@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "스프링 WAS 구조"
             }
+          },
+          {
+            "id": "bcdae834c106e1f7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "회사/Drawing 2025-04-09 09.09.34.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-09 09.09.34.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,7 +51,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -186,8 +200,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3d618ecf2f8d27af",
+  "active": "bcdae834c106e1f7",
   "lastOpenFiles": [
+    "images/Pasted Image 20250409090949_153.png",
+    "Excalidraw/로그인/스프링/스프링 WAS 구조.md",
+    "회사/Drawing 2025-04-09 09.09.34.excalidraw.md",
+    "회사",
     "Excalidraw/로그인/스프링/스밑구 구현 개인 이해도.md",
     "Excalidraw/로그인/스프링/디스패처 서블릿 동작.md",
     "Excalidraw/로그인/스프링/인코딩 디코딩.md",
@@ -196,7 +214,6 @@
     "Excalidraw/로그인/스프링/Drawing 2024-06-28 18.07.34.excalidraw.md",
     "Excalidraw/로그인/세션 로그인.md",
     "Excalidraw/동기화/경쟁상태.md",
-    "Excalidraw/로그인/스프링/스프링 WAS 구조.md",
     "Excalidraw/이력서/이력서 구상도.md",
     "Excalidraw/이력서/studio3s/Pasted Image 20231014125328_429.png",
     "Excalidraw/이력서/studio3s/스레드 풀 썰.md",
@@ -213,8 +230,6 @@
     "Excalidraw/동기화/분산 Multi Lock.md",
     "Excalidraw/동기화/임계영역이란.md",
     "Excalidraw/동기화/Thrashing.md",
-    "Excalidraw/동기화/식사하는 철학자 비대칭방식.md",
-    "Excalidraw/dailyge/깃 브랜치전략 깃 플로우.md",
     "Excalidraw/회사",
     "Excalidraw/Rabbitmq",
     "images/Pasted Image 20241123130444_158.png",
@@ -233,7 +248,6 @@
     "Fonts",
     "Excalidraw/로그인/스프링",
     "Excalidraw/DB/mysql",
-    "Excalidraw/DB/redis",
     "Excalidraw/이력서/이력서 구사.canvas",
     "무제 파일.canvas"
   ]
